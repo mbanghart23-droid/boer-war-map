@@ -1,0 +1,71 @@
+force,date,event,killed,wounded,captured,missing,total,confidence,source,note
+2nd Black Watch,1899-12-11,Magersfontein,73,208,73,,354,high,BritishBattles.com; angloboerwar.com; roll-of-honour.com,Updated from agent research — 6 officers killed; worst-hit Highland Bn. Revised up from Conan Doyle seed.
+1st Gordon Highlanders,1899-12-11,Magersfontein,5,37,,,42,medium,angloboerwar.com search extract,Gordons arrived 10 Dec and did NOT do the night march; in reserve. Previously seeded as 0/12 — corrected.
+1st Highland Light Infantry,1899-12-11,Magersfontein,14,80,3,,97,medium,angloboerwar.com search extract,2 officers + 12 OR killed; Col Kelham wounded
+2nd Seaforth Highlanders,1899-12-11,Magersfontein,58,143,14,,215,high,angloboerwar.com Seaforth search extract,5 officers + 53 OR killed. Updated from Conan Doyle seed (21/67/88 was too low).
+1st Argyll & Sutherland Highlanders,1899-12-11,Magersfontein,18,44,,,62,medium,Conan Doyle 'The Great Boer War' p.213; agent note no separate figure found,Subsumed in Highland Brigade total in most sources; figure retained from seed
+3rd Grenadier Guards,1899-12-11,Magersfontein,4,14,,,18,medium,Pakenham 'The Boer War',Guards Brigade at Magersfontein
+1st Coldstream Guards,1899-12-11,Magersfontein,2,8,,,10,medium,Pakenham 'The Boer War',
+2nd Coldstream Guards,1899-12-11,Magersfontein,3,9,,,12,medium,Pakenham 'The Boer War',Also 69 casualties at Modder River (see below)
+1st Scots Guards,1899-12-11,Magersfontein,1,6,,,7,medium,Pakenham 'The Boer War',
+Highland Brigade total,1899-12-11,Magersfontein,163,489,103,,755,high,BritishBattles.com; angloboerwar.com; multiple sources,Brigade total confirmed; unit-level breakdown is the set of rows above
+Boer forces (Cronje),1899-12-11,Magersfontein,87,188,,,275,medium,Wikipedia Magersfontein; BritishBattles.com,Official Boer return; true figure likely higher. Cronje had ~8500 men
+2nd Northumberland Fusiliers,1899-12-10,Stormberg,41,48,551,,640,high,Conan Doyle 'The Great Boer War' p.207; Pakenham,Stormberg disaster — 551 captured
+2nd Royal Irish Rifles,1899-12-10,Stormberg,16,27,204,,247,high,Conan Doyle 'The Great Boer War' p.207,
+2nd Gordon Highlanders,1899-10-21,Elandslaagte,13,90,,,123,medium,BritishBattles.com Elandslaagte,4-5 officers killed; Col Dick-Cunyngham wounded
+1st Manchester Regiment,1899-10-21,Elandslaagte,11,31,,,42,medium,BritishBattles.com; angloboerwar.com extract,5 officers wounded; 11 OR killed 26 wounded
+1st Devonshire Regiment,1899-10-21,Elandslaagte,0,33,,,33,low,BritishBattles.com Elandslaagte extract,No killed listed; 4 officers + 29 OR wounded. May under-count killed
+5th (Royal Irish) Lancers,1899-10-21,Elandslaagte,1,2,,1,4,low,BritishBattles.com extract,Col Scott Chisholme killed; Lancers largely in pursuit role
+Imperial Light Horse,1899-10-21,Elandslaagte,7,44,,1,52,medium,BritishBattles.com Elandslaagte,1 officer + 6 OR killed; 9 off + 35 OR wounded. NB: Conan Doyle seed gave 56/120/176 — too high; corrected
+Boer forces,1899-10-21,Elandslaagte,46,105,181,,332,medium,Wikipedia Elandslaagte; BritishBattles.com,181 includes captured
+British forces total,1899-10-20,Talana Hill,51,203,150,,404,high,BritishBattles.com Talana; Wikipedia,150 captured with Moller's column; ~80 were 18th Hussars
+1st King's Royal Rifle Corps,1899-10-20,Talana Hill,16,82,,,98,medium,BritishBattles.com; historyofwar.org,5 officers + 11 OR killed; Col Gunning KIA
+1st Royal Dublin Fusiliers,1899-10-20,Talana Hill,4,47,,,51,medium,BritishBattles.com Talana extract,Sources vary; used higher estimate
+18th Hussars,1899-10-20,Talana Hill,,,80,70,150,medium,BritishBattles.com; Wikipedia Talana,Col Moller's ~300 cavalry column surrounded near Impati — ~80 Hussars captured
+Boer forces,1899-10-20,Talana Hill,,200,,,200,medium,BritishBattles.com Talana,~200 Boer casualties; no k/w split in sources
+British forces total,1899-10-30,Nicholson's Nek,38,105,843,,986,high,historyofwar.org; Wikipedia Nicholson's Nek,~843-1000 captured; 38 killed 105 wounded before surrender
+1st Royal Irish Fusiliers,1899-10-30,Nicholson's Nek,10,57,520,,587,medium,angloboerwar.com search extract,520-man force: 10 OR killed; 3 off + 54 OR wounded; bulk captured
+1st Gloucestershire Regiment,1899-10-30,Nicholson's Nek,,,450,,450,low,soldiersofglos.com; historyofwar.org,450-man strength figure — killed/wounded not separately stated in online sources; all captured on surrender
+Boer forces,1899-10-30,Nicholson's Nek,4,5,,,9,high,historyofwar.org Nicholson's Nek,Remarkably light Boer casualties
+British forces total,1899-11-28,Modder River,97,382,,,479,high,BritishBattles.com Modder River,4 off + 93 OR killed; 20 off + 362 OR wounded
+1st Argyll & Sutherland Highlanders,1899-11-28,Modder River,19,101,,,120,medium,angloboerwar.com; argylls.co.uk extract,19 OR killed; ~101 OR wounded; total ~112-122 by source
+2nd Coldstream Guards,1899-11-28,Modder River,,,,,69,medium,BritishBattles.com Modder River,69 casualties total; no k/w split in online sources
+Boer forces,1899-11-28,Modder River,60,300,,,360,medium,BritishBattles.com Modder River,Estimated figures
+2nd Bn West Surrey Regiment (Queen's),1899-12-15,Colenso,7,28,,,35,medium,Pakenham 'The Boer War',Colenso — Hildyard's brigade
+1st Royal Dublin Fusiliers,1899-12-15,Colenso,19,64,,,83,high,Conan Doyle 'The Great Boer War' p.224; BritishBattles.com gives 216 total for RDF — discrepancy; Doyle figure retained as lower bound,Hart's brigade: RDF led assault into flooded Tugela loop
+1st Inniskilling Fusiliers,1899-12-15,Colenso,12,43,,,55,high,Conan Doyle 'The Great Boer War' p.224,Hart's brigade suffered heavily at flooded drift
+1st Connaught Rangers,1899-12-15,Colenso,18,61,,,79,high,Conan Doyle 'The Great Boer War' p.224,
+1st Border Regiment,1899-12-15,Colenso,6,29,,,35,medium,Pakenham 'The Boer War',
+British forces total,1899-12-15,Colenso,132,765,228,,1125,high,BritishBattles.com; historyofwar.org,Well-documented; 10 field guns lost (7 captured)
+Hart's Brigade total,1899-12-15,Colenso,,,,,532,high,BritishBattles.com Colenso,~500-532 casualties in under 1 hour in the flooded Tugela loop
+Boer forces (Botha),1899-12-15,Colenso,,,,,,medium,BritishBattles.com; samilitaryhistory.org,Boer losses 'slight and not known'; Botha had ~4500 men
+2nd Lancashire Fusiliers,1900-01-24,Spion Kop,61,148,,,209,high,Conan Doyle 'The Great Boer War' p.274,Spion Kop summit — one of highest single-unit losses
+2nd Bn Lancaster Regiment,1900-01-24,Spion Kop,47,128,,,175,high,Conan Doyle 'The Great Boer War' p.274,
+Thorneycroft's Mounted Infantry,1900-01-24,Spion Kop,28,77,,,105,high,Conan Doyle 'The Great Boer War' p.274,
+British forces total,1900-01-24,Spion Kop,243,1250,,,1493,high,Wikipedia Spion Kop; historyofwar.org,~2500 committed to summit assault; 20000 total in Natal
+Boer forces (Botha),1900-01-24,Spion Kop,68,267,,,335,high,Wikipedia Spion Kop,Prinsloo commando alone: 55 k/w out of 88 men
+Royal Canadian Regiment,1900-02-18,Paardeberg,17,60,,,77,high,Conan Doyle 'The Great Boer War' p.314; Pakenham,Canadians' celebrated night assault
+2nd Black Watch,1900-02-18,Paardeberg,7,38,,,45,medium,Pakenham 'The Boer War',
+De Wet's Commando,1900-02-27,Paardeberg (Cronje's surrender),,,4082,,4082,high,Pakenham 'The Boer War',Cronje's force surrendered 27 Feb — 4082 captured (De Wet escaped with ~2000)
+Q Battery Royal Horse Artillery,1900-03-31,Sanna's Post,3,5,,7,15,high,Pakenham 'The Boer War',Sanna's Post ambush
+U Battery Royal Horse Artillery,1900-03-31,Sanna's Post,4,8,,3,15,high,Pakenham 'The Boer War',
+10th (Prince of Wales's Own Royal) Hussars,1900-03-31,Sanna's Post,5,12,,,17,medium,Pakenham 'The Boer War',
+British forces total,1900-03-31,Sanna's Post,155,,,428,583,high,Wikipedia Sanna's Post; historyofwar.org,7 RHA guns lost; 117 wagons captured; 428 prisoners
+De Wet's Commando,1900-03-31,Sanna's Post,3,5,,,8,high,Wikipedia Sanna's Post,Minimal Boer casualties — textbook ambush
+13th Battalion Imperial Yeomanry,1900-05-27,Lindley,80,,530,,610,high,Pakenham 'The Boer War' p.404; Conan Doyle,13th IY disaster — 80 killed 530 captured; Irish companies (45th/46th/47th/54th) destroyed
+Natal Carabineers,1900-01-06,Platrand (Caesar's Camp),17,48,,,65,high,Pakenham 'The Boer War',Boer assault on Ladysmith perimeter 6 Jan 1900
+1st Gordon Highlanders,1900-01-06,Platrand (Caesar's Camp),12,31,,,43,high,Pakenham 'The Boer War',
+British forces total,1900-12-13,Nooitgedacht,66,187,346,,599,high,Wikipedia Nooitgedacht; military-history.fandom.com,66 killed; 187 wounded (14 died of wounds); 346 captured. 1st Border Regt may NOT have been present — flagged for verification
+2nd Northumberland Fusiliers,1900-12-13,Nooitgedacht,,,,,, low,angloboerwar.com,Present confirmed; unit-level k/w/c figure not available in online sources
+11th Battalion Imperial Yeomanry,1901-12-25,Groenkop (Tweefontein),68,77,206,,351,high,Wikipedia Groenkop; military-history.fandom.com,NOTE: previously misattributed to 11th Hussars in seed data — CORRECTED. Groenkop was 11th Bn IY not 11th (Prince Albert's Own) Hussars.
+Boer forces (De Wet),1901-12-25,Groenkop (Tweefontein),11,30,,,41,high,Wikipedia Groenkop,Surprise night assault on sleeping camp
+British forces total,1901-10-30,Bakenlaagte,73,134,,,207,high,Wikipedia Bakenlaagte; SAMHS journal vol184,73 killed (62 KIA + 11 DoW); 134 wounded; ~210-man rearguard annihilated
+Scottish Horse,1901-10-30,Bakenlaagte,33,,,,33,medium,SAMHS journal vol184rs,33 fatalities — largest single-unit loss at Bakenlaagte
+3rd Bn King's Royal Rifle Corps,1901-10-30,Bakenlaagte,15,,,,15,medium,SAMHS journal vol184rs,Detachment present
+2nd Bn KOYLI (Yorkshire Light Infantry),1901-10-30,Bakenlaagte,13,,,,13,medium,SAMHS journal vol184rs,Detachment present
+2nd Bn East Kent Regiment,1901-10-30,Bakenlaagte,10,,,,10,medium,SAMHS journal vol184rs,Detachment present
+Boer forces (Botha/Grobler),1901-10-30,Bakenlaagte,14,48,,,62,high,Wikipedia Bakenlaagte,Including Gen Opperman KIA
+5th (Royal Irish) Lancers,1902-03-07,Tweebosch,12,41,,,53,medium,Pakenham 'The Boer War',Tweebosch — De la Rey ambushes Methuen
+Ashburner's Light Horse,1902-03-07,Tweebosch,9,22,,,31,medium,Pakenham 'The Boer War',
+Diamond Fields Horse,1902-03-07,Tweebosch,6,19,,,25,medium,Pakenham 'The Boer War',
+Cape Police,1902-03-07,Tweebosch,4,11,,,15,medium,Pakenham 'The Boer War',

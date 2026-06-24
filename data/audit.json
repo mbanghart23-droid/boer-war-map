@@ -1,0 +1,1128 @@
+{
+ "summary": {
+  "total_rows": 712,
+  "id_range": "1-720",
+  "id_gaps": [
+   42,
+   65,
+   67,
+   121,
+   124,
+   622,
+   623,
+   624
+  ],
+  "event_types": {
+   "capture": 20,
+   "advance": 27,
+   "rail-move": 3,
+   "engagement": 123,
+   "defeat": 11,
+   "raid": 32,
+   "march": 2,
+   "command": 1,
+   "drive": 12,
+   "pursuit": 6,
+   "skirmish": 3,
+   "execution": 2,
+   "retreat": 2,
+   "redeployment": 2,
+   "trial": 1,
+   "exile": 1,
+   "deployment": 403,
+   "move": 18,
+   "garrison": 2,
+   "disembark": 7,
+   "siege": 11,
+   "surrender": 3,
+   "occupation": 7,
+   "movement": 13
+  },
+  "thin_descriptions": 282,
+  "no_source": 0,
+  "low_confidence": 0,
+  "battles_missing": 6,
+  "eastern_events_missing": 3,
+  "commanders_missing": 0,
+  "movement_rows_no_line": 0
+ },
+ "battle_audit": [
+  {
+   "battle": "Talana Hill",
+   "expected_date": "1899-10-20",
+   "note": "Natal — Penn Symons killed",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Elandslaagte",
+   "expected_date": "1899-10-21",
+   "note": "Natal — Imperial Light Horse glory",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Lombard's Kop",
+   "expected_date": "1899-10-30",
+   "note": "Natal — White repulsed",
+   "status": "✗ MISSING"
+  },
+  {
+   "battle": "Modder River",
+   "expected_date": "1899-11-28",
+   "note": "Western — Methuen vs De la Rey",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Magersfontein",
+   "expected_date": "1899-12-11",
+   "note": "Western — Highland Brigade disaster",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Stormberg",
+   "expected_date": "1899-12-10",
+   "note": "Eastern Cape — Gatacre's disaster",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Colenso",
+   "expected_date": "1899-12-15",
+   "note": "Natal — Black Week third defeat",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Spion Kop",
+   "expected_date": "1900-01-24",
+   "note": "Natal — Tugela debacle",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Vaal Krantz",
+   "expected_date": "1900-02-05",
+   "note": "Natal — third Tugela attempt",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Paardeberg",
+   "expected_date": "1900-02-18",
+   "note": "OFS — Cronjé captured",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Hlangwane",
+   "expected_date": "1900-02-14",
+   "note": "Natal — key to Tugela",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Dreifontein",
+   "expected_date": "1900-03-10",
+   "note": "OFS — Roberts's advance",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Karee Siding",
+   "expected_date": "1900-03-29",
+   "note": "OFS — Roberts's advance",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Sannaspos",
+   "expected_date": "1900-03-31",
+   "note": "OFS — De Wet destroys convoy",
+   "status": "✗ MISSING"
+  },
+  {
+   "battle": "Wepener siege",
+   "expected_date": "1900-04-09",
+   "note": "OFS — Olivier besieges town",
+   "status": "✗ MISSING"
+  },
+  {
+   "battle": "Mafeking relief",
+   "expected_date": "1900-05-17",
+   "note": "Western — siege ended",
+   "status": "✗ MISSING"
+  },
+  {
+   "battle": "Diamond Hill",
+   "expected_date": "1900-06-11",
+   "note": "Transvaal — last major OFS/Tvl battle",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Bergendal",
+   "expected_date": "1900-08-27",
+   "note": "Transvaal — last conventional battle",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Nooitgedacht",
+   "expected_date": "1900-12-13",
+   "note": "Transvaal — Clements ambushed",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Helvetia",
+   "expected_date": "1901-01-29",
+   "note": "Transvaal — Boer night attack",
+   "status": "✗ MISSING"
+  },
+  {
+   "battle": "Moedwil",
+   "expected_date": "1901-09-30",
+   "note": "Transvaal — De la Rey attacks",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Bakenlaagte",
+   "expected_date": "1901-10-30",
+   "note": "Transvaal — Botha kills Benson",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Yzerspruit",
+   "expected_date": "1902-02-25",
+   "note": "Transvaal — De la Rey ambush",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Tweebosch",
+   "expected_date": "1902-03-07",
+   "note": "Transvaal — De la Rey captures Methuen",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Rooiwal",
+   "expected_date": "1902-04-11",
+   "note": "Transvaal — last cavalry charge",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Colesburg operations",
+   "expected_date": "1899-12-01",
+   "note": "Eastern Cape — French's holding action",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Elands River Poort",
+   "expected_date": "1901-09-17",
+   "note": "Cape — Smuts ambushes 17th Lancers",
+   "status": "✓ covered"
+  },
+  {
+   "battle": "Okiep siege",
+   "expected_date": "1902-04-01",
+   "note": "Cape — Smuts besieges copper mine",
+   "status": "✗ MISSING"
+  }
+ ],
+ "commander_audit": [
+  {
+   "commander": "Roberts, Lord",
+   "side": "British",
+   "role": "Commander-in-Chief from Jan 1900",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Kitchener, Lord",
+   "side": "British",
+   "role": "Chief of Staff then C-in-C from Nov 1900",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Buller, Sir Redvers",
+   "side": "British",
+   "role": "Natal Army commander",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Methuen, Lord",
+   "side": "British",
+   "role": "Western front, 1st Division",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "French, General",
+   "side": "British",
+   "role": "Cavalry Division",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Hunter, General",
+   "side": "British",
+   "role": "OFS encirclement Jun-Jul 1900",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "White, General",
+   "side": "British",
+   "role": "Ladysmith garrison",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Gatacre, General",
+   "side": "British",
+   "role": "Eastern Cape / 3rd Division",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Baden-Powell, Colonel",
+   "side": "British",
+   "role": "Mafeking garrison",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Botha, Louis",
+   "side": "Boer",
+   "role": "Transvaal Commandant-General",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "De Wet, Christiaan",
+   "side": "Boer",
+   "role": "OFS guerrilla commander",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "De la Rey, Koos",
+   "side": "Boer",
+   "role": "Western Transvaal guerrilla",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Smuts, Jan",
+   "side": "Boer",
+   "role": "Cape raid commander 1901-02",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Joubert, Piet",
+   "side": "Boer",
+   "role": "Natal invasion commander",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Prinsloo, Marthinus",
+   "side": "Boer",
+   "role": "OFS commandant; surrendered Brandwater",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Cronjé, Piet",
+   "side": "Boer",
+   "role": "Paardeberg commander; surrendered",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Hertzog, J.B.M.",
+   "side": "Boer",
+   "role": "Cape Colony invasion 1901",
+   "status": "✓ covered"
+  },
+  {
+   "commander": "Kritzinger, P.H.",
+   "side": "Boer",
+   "role": "Eastern Cape guerrilla commander",
+   "status": "✓ covered"
+  }
+ ],
+ "eastern_missing": [
+  {
+   "place": "Barkly East",
+   "date": "1901",
+   "note": "Smuts's commando passed through Barkly East during Cape raid",
+   "status": "✓ covered"
+  },
+  {
+   "place": "Lady Grey",
+   "date": "1901",
+   "note": "Cape rebel activity / Smuts's raid route",
+   "status": "✓ covered"
+  },
+  {
+   "place": "Elliot",
+   "date": "1901",
+   "note": "Smuts's commando operations eastern Cape",
+   "status": "✓ covered"
+  },
+  {
+   "place": "Dordrecht",
+   "date": "1901",
+   "note": "Boer commando raids into Dordrecht district",
+   "status": "✓ covered"
+  },
+  {
+   "place": "Indwe",
+   "date": "1900",
+   "note": "Coal mining district; Boer raids on colliery",
+   "status": "✗ MISSING"
+  },
+  {
+   "place": "Maclear",
+   "date": "1901",
+   "note": "Remote eastern Cape town; commando activity",
+   "status": "✗ MISSING"
+  },
+  {
+   "place": "Barkly East",
+   "date": "1902",
+   "note": "Smuts's commando winter quarters",
+   "status": "✓ covered"
+  },
+  {
+   "place": "Steynsburg",
+   "date": "1901",
+   "note": "Cape rebel assembly point; Muller's commando",
+   "status": "✓ covered"
+  },
+  {
+   "place": "Hanover Road",
+   "date": "1899",
+   "note": "Gatacre's advance base before Stormberg",
+   "status": "✗ MISSING"
+  },
+  {
+   "place": "Molteno",
+   "date": "1899",
+   "note": "Gatacre's force retreated here after Stormberg",
+   "status": "✓ covered"
+  }
+ ],
+ "thin_descriptions": [
+  {
+   "id": "1",
+   "force": "OFS commandos (Rouxville & Thaba Nchu)",
+   "event_type": "capture",
+   "action_place": "Aliwal North",
+   "description": "Boer OFS commandos cross the Orange and capture Aliwal North",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "2",
+   "force": "OFS commandos",
+   "event_type": "advance",
+   "action_place": "Stormberg Junction",
+   "description": "Boers occupy Stormberg junction and range through Colesberg/Barkly East/Dordrecht districts",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "3",
+   "force": "3rd Division",
+   "event_type": "rail-move",
+   "action_place": "Molteno",
+   "description": "Gatacre entrains his force to Molteno the nearest British-held railhead to Stormberg",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "4",
+   "force": "3rd Division column",
+   "event_type": "engagement",
+   "action_place": "Kissieberg (Stormberg)",
+   "description": "Night march to storm the Kissieberg goes astray (lost guides + route change); British defeated",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "5",
+   "force": "Stormberg defenders",
+   "event_type": "engagement",
+   "action_place": "Kissieberg (Stormberg)",
+   "description": "Boers hold the Kissieberg and repel Gatacre; one of the three Black Week defeats",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "6",
+   "force": "3rd Division (losses)",
+   "event_type": "defeat",
+   "action_place": "Stormberg",
+   "description": "British retreat; 13 officers and 548 men captured plus killed/wounded; at least one gun lost",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "7",
+   "force": "Kritzinger commando (1st invasion)",
+   "event_type": "raid",
+   "action_place": "Venterstad, Steynsburg, Stormberg, New Bethesda, Richmond, Murraysburg, Aberdeen, Willowmore, Oudtshoorn, Uniondale, Mossel Bay, Somerset East, Bedford, Tarkastad, Cradock",
+   "description": "First Cape invasion - long looping raid through the Karoo/Midlands; exits near Bethulie 29 Apr 1901",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "8",
+   "force": "Scheepers commando",
+   "event_type": "raid",
+   "action_place": "Middelburg, Graaff-Reinet, Aberdeen, Cradock, Murraysburg, Willowmore, Uniondale, Oudtshoorn",
+   "description": "Enters with Kritzinger then wide-ranging Midlands guerrilla operations until capture",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "9",
+   "force": "Scheepers commando",
+   "event_type": "capture",
+   "action_place": "near Prince Albert",
+   "description": "Scheepers captured (later tried and executed)",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "10",
+   "force": "Kritzinger commando (2nd invasion)",
+   "event_type": "raid",
+   "action_place": "Steynsburg, Theebus, Molteno, Cradock, Tarkastad, Middelburg",
+   "description": "Second invasion with reinforcements; route partly aggregates a 3-way commando split",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "11",
+   "force": "Kritzinger commando",
+   "event_type": "capture",
+   "action_place": "Jamestown",
+   "description": "Kritzinger's commando captures Jamestown after a fight",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "12",
+   "force": "Doran's column",
+   "event_type": "engagement",
+   "action_place": "Fransmanskop (near Hanover)",
+   "description": "Kritzinger wounded & captured charging the Noupoort-De Aar blockhouse line in daylight",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "13",
+   "force": "Smuts commando",
+   "event_type": "march",
+   "action_place": "near Jansenville, Aberdeen",
+   "description": "Smuts's commando transits the eastern Cape; bypasses Jansenville's armed Town Guard fort",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "14",
+   "force": "Cape Colony command",
+   "event_type": "command",
+   "action_place": "Cape Colony (Midlands)",
+   "description": "French given supreme command of Cape Colony operations; runs the flying-column and blockhouse system",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "15",
+   "force": "Four-column drive (Crewe/Wyndham/Doran/Scobell)",
+   "event_type": "drive",
+   "action_place": "Camdeboo / near Aberdeen",
+   "description": "Four columns sweep the Camdeboo after Scheepers; a laager near Aberdeen is surprised 15 Aug (~30 taken)",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "16",
+   "force": "Crabbe's column",
+   "event_type": "pursuit",
+   "action_place": "Cape Midlands",
+   "description": "Crabbe's column brushes Fouche (May) and Kritzinger (July); falls back on Mortimer 21 Jul",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "17",
+   "force": "Gorringe's column",
+   "event_type": "engagement",
+   "action_place": "near Steynsburg",
+   "description": "Gorringe routs Kritzinger's commando near Steynsburg; Erasmus and Cachet taken",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "18",
+   "force": "Lotter commando",
+   "event_type": "raid",
+   "action_place": "Bamboesberg, Bankberg, Bethesda Road, Cradock district",
+   "description": "Lotter splits from Kritzinger (~Mar) and raids the Cape Midlands until destroyed",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "19",
+   "force": "Lotter commando",
+   "event_type": "skirmish",
+   "action_place": "Bethesda Road",
+   "description": "Lotter's commando captures a party of French's Scouts near Bethesda Road",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "20",
+   "force": "Doran's column",
+   "event_type": "engagement",
+   "action_place": "Garstland Kloof",
+   "description": "Doran's column strikes Lotter at Garstland Kloof near Cradock",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "21",
+   "force": "Scobell's column",
+   "event_type": "engagement",
+   "action_place": "Groenkloof / Bouwershoek (Tandjesberg) ~32.32S 24.97E",
+   "description": "Scobell destroys Lotter's commando at Groenkloof; Boer ~19 killed / ~114 captured",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "22",
+   "force": "Lotter (capture & execution)",
+   "event_type": "execution",
+   "action_place": "Middelburg (Cape)",
+   "description": "Lotter tried under martial law and executed at Middelburg ~12 Oct 1901",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "23",
+   "force": "Maritz commando",
+   "event_type": "raid",
+   "action_place": "Vanrhynsdorp, Leliefontein",
+   "description": "Maritz raids the western Cape/Namaqualand; Leliefontein mission attack 31 Jan 1902",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "24",
+   "force": "Smuts/van Deventer commando",
+   "event_type": "march",
+   "action_place": "Springbokfontein, Concordia, Okiep",
+   "description": "Smuts turns north into Namaqualand; Springbokfontein 1 Apr, Concordia 4 Apr, besieges Okiep ~a month",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "25",
+   "force": "van Reenen commando",
+   "event_type": "retreat",
+   "action_place": "Orange River",
+   "description": "Van Reenen leads ~300 men (half a commando) back north across the Orange River",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "27",
+   "force": "Gorringe's column",
+   "event_type": "pursuit",
+   "action_place": "Steynsburg, Venterstad",
+   "description": "Gorringe pursues the commandos from Steynsburg to Venterstad killing ~20 and taking prisoners",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "28",
+   "force": "Smuts commando",
+   "event_type": "engagement",
+   "action_place": "Modderfontein near Tarkastad ~31.85S 26.17E",
+   "description": "Smuts overwhelms C Squadron 17th Lancers (Capt Sandeman) at Modderfontein; Boer victory",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "29",
+   "force": "van Reenen commando (under Gen Malan)",
+   "event_type": "redeployment",
+   "action_place": "North-west Cape",
+   "description": "One of four commandos (Pypers/Smit/Hugo/Van Reenen) under Gen Malan tasked to return to the Midlands",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "30",
+   "force": "Martial-law court (Steynsburg)",
+   "event_type": "trial",
+   "action_place": "Steynsburg",
+   "description": "Five rebels of van Reenen's commando condemned; lots drawn (one to be shot as example) - the lot fell on Kloppert",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "31",
+   "force": "Execution (martial law)",
+   "event_type": "execution",
+   "action_place": "Burgersdorp",
+   "description": "Petrus Kloppert executed at Burgersdorp as a deterrent; the other four condemned (incl. both Krugers) exiled to Bermuda",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "33",
+   "force": "Kritzinger commando",
+   "event_type": "engagement",
+   "action_place": "Klipplaat",
+   "description": "Kritzinger's men overwhelm a ~25-man British detachment at Klipplaat",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "34",
+   "force": "Imperial Yeomanry",
+   "event_type": "engagement",
+   "action_place": "near Willowmore",
+   "description": "An Imperial Yeomanry patrol is surprised and captured near Willowmore",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "35",
+   "force": "Gorringe's column",
+   "event_type": "engagement",
+   "action_place": "Fish River Station",
+   "description": "Kritzinger engages Gorringe's column at Fish River Station north of Cradock",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "36",
+   "force": "Malan commando",
+   "event_type": "engagement",
+   "action_place": "Richmond",
+   "description": "Malan's commando tries to occupy Richmond but is repulsed",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "37",
+   "force": "Kritzinger commando",
+   "event_type": "engagement",
+   "action_place": "Pearston",
+   "description": "Kritzinger surrounds the village of Pearston",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "38",
+   "force": "Kritzinger commando",
+   "event_type": "raid",
+   "action_place": "Cradock railway line / Conway",
+   "description": "Kritzinger derails a train on the Cradock line (8 Apr) and loots Conway (9 Apr)",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "39",
+   "force": "17th Lancers",
+   "event_type": "deployment",
+   "action_place": "Cape Colony (Midlands)",
+   "description": "17th Lancers enter Cape Colony (Dec 1900); split into column squadrons from June 1901",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "40",
+   "force": "Gorringe's column",
+   "event_type": "pursuit",
+   "action_place": "Tarkastad",
+   "description": "Gorringe's column pursues Smuts southward after the Modderfontein action",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "41",
+   "force": "Imperial Yeomanry / Scobell & Parsons",
+   "event_type": "engagement",
+   "action_place": "near Aberdeen",
+   "description": "Columns under Parsons & Scobell relieve the Aberdeen garrison attacked by Scheepers; IY patrols lose 4 killed",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "43",
+   "force": "Brabant's Horse",
+   "event_type": "engagement",
+   "action_place": "near Richmond",
+   "description": "Brabant's Horse 1st corps heavily engaged near Richmond vs Malan (May-June Cradock/Richmond ops)",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "44",
+   "force": "Nesbitt's Horse",
+   "event_type": "engagement",
+   "action_place": "Ganna Hoek",
+   "description": "Nesbitt's Horse (Lt Callaghan) repulses a Boer attack at Ganna Hoek",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "45",
+   "force": "Nesbitt's Horse + Jansenville DMT",
+   "event_type": "capture",
+   "action_place": "near Sheldon",
+   "description": "Local troops defeat and capture Cmdt Wynand Malan near Sheldon, ~4 days before peace",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "48",
+   "force": "17th Lancers (Haig's command)",
+   "event_type": "move",
+   "action_place": "Modderfontein, Tarkastad, Cradock",
+   "description": "Modderfontein wounded carried back into Tarkastad and on to the Red Cross hospital at Cradock",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "52",
+   "force": "Scheepers commando",
+   "event_type": "engagement",
+   "action_place": "Graaff-Reinet",
+   "description": "Scheepers clashes with colonial scouts at Graaff-Reinet; the farm Uitkomst destroyed",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "53",
+   "force": "Scheepers commando",
+   "event_type": "engagement",
+   "action_place": "Jansenville",
+   "description": "Scheepers engages colonial troops at Jansenville",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "54",
+   "force": "Scheepers commando",
+   "event_type": "raid",
+   "action_place": "Mortimer, Pearston",
+   "description": "Scheepers derails a train at Mortimer and loots the stores at Pearston",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "55",
+   "force": "Scheepers commando",
+   "event_type": "engagement",
+   "action_place": "Gannahoek near Cradock",
+   "description": "Scheepers engaged at Gannahoek near Cradock",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "56",
+   "force": "Scheepers commando",
+   "event_type": "engagement",
+   "action_place": "Quaggashoek near Tarkastad",
+   "description": "Scheepers clashes at Quaggashoek near Tarkastad",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "57",
+   "force": "Scheepers commando",
+   "event_type": "raid",
+   "action_place": "Marais Siding (Midland line)",
+   "description": "Scheepers ambushes and burns a train at Marais Siding on the midland railway",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "58",
+   "force": "Scheepers commando",
+   "event_type": "raid",
+   "action_place": "Murraysburg",
+   "description": "Scheepers occupies Murraysburg three times (14 & 27 Jun and 6 Jul); public buildings and shops destroyed",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "59",
+   "force": "Scheepers commando",
+   "event_type": "engagement",
+   "action_place": "Camdeboo Mountains",
+   "description": "Scheepers engaged in the Camdeboo Mountains as French's four columns sweep the district",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "60",
+   "force": "Scheepers commando",
+   "event_type": "engagement",
+   "action_place": "Rooiklip near Steytlerville",
+   "description": "Scheepers engaged at Rooiklip/Wanhoop near Steytlerville before drifting south-west out of the Eastern Cape",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "61",
+   "force": "Malan commando",
+   "event_type": "engagement",
+   "action_place": "Richmond",
+   "description": "The day after the repulse at Richmond Malan captures a patrol of Kitchener's Fighting Scouts",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "62",
+   "force": "Malan commando",
+   "event_type": "engagement",
+   "action_place": "Blaauwkrantz ~20km N of Jansenville",
+   "description": "Malan suffers a severe reverse at Blaauwkrantz - 14 Boers killed and 4 taken prisoner (3 British killed)",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "64",
+   "force": "Malan commando",
+   "event_type": "move",
+   "action_place": "Richmond",
+   "description": "Malan is driven north into the Richmond district by pursuing columns",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "66",
+   "force": "Malan commando",
+   "event_type": "engagement",
+   "action_place": "Richmond",
+   "description": "Malan again attacks Richmond (Brabant's Horse heavily engaged nearby on 28 Jun - row 43)",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "69",
+   "force": "Town Guards & DMT",
+   "event_type": "engagement",
+   "action_place": "Pearston",
+   "description": "The Pearston Town Guard is overwhelmed when Kritzinger surrounds and loots the village (3-6 Mar 1901)",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "70",
+   "force": "Town Guards & DMT",
+   "event_type": "engagement",
+   "action_place": "Aberdeen",
+   "description": "The Aberdeen Town Guard repulses the attack by Scheepers & Fouché (6 Mar 1901)",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "71",
+   "force": "Town Guards & DMT",
+   "event_type": "engagement",
+   "action_place": "Willowmore",
+   "description": "Scheepers attacks Willowmore for the second time; six of the Town Guard are killed defending the village",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "80",
+   "force": "Monro's column",
+   "event_type": "engagement",
+   "action_place": "near Tarkastad",
+   "description": "Monro with Lovat's Scouts and Bethune's Mounted Infantry has a minor success against the commandos near Tarkastad",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "83",
+   "force": "Lategan commando",
+   "event_type": "engagement",
+   "action_place": "near Murraysburg",
+   "description": "Lukin with 90 men rides into 150 of Lategan's band near Murraysburg, capturing 10 men and 100 horses",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "86",
+   "force": "Byng's column",
+   "event_type": "engagement",
+   "action_place": "near Murraysburg",
+   "description": "Byng's column has a sharp skirmish with Kritzinger's men near Murraysburg at a cost of ~20 casualties",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "89",
+   "force": "Kritzinger commando",
+   "event_type": "move",
+   "action_place": "Nieu-Bethesda",
+   "description": "Kritzinger falls back to Bethesda with Gorringe and Lowe's columns at his heels",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "103",
+   "force": "OFS commandos",
+   "event_type": "advance",
+   "action_place": "Dordrecht",
+   "description": "A Boer commando of about 500 men occupies Dordrecht north-east of Sterkstroom",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "110",
+   "force": "Brabant's Colonial Division",
+   "event_type": "capture",
+   "action_place": "Dordrecht",
+   "description": "Brabant's colonial division advances from Penhoek and occupies Dordrecht on 18 Feb 1900 after a spirited action",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "111",
+   "force": "Brabant's Colonial Division",
+   "event_type": "engagement",
+   "action_place": "Labuschagne's Nek (N of Dordrecht)",
+   "description": "Brabant drives the Boers out of the Labuschagne's Nek position north of Dordrecht after a long day's fighting",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "112",
+   "force": "Brabant's Colonial Division",
+   "event_type": "capture",
+   "action_place": "Jamestown",
+   "description": "Leaving a garrison at Dordrecht, Brabant pushes on with ~2,000 men and eight guns and occupies Jamestown",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "120",
+   "force": "Scheepers commando",
+   "event_type": "skirmish",
+   "action_place": "Grootvlei",
+   "description": "Scheepers skirmishes near Middelburg at Grootvlei; one British soldier killed",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "122",
+   "force": "Scheepers commando",
+   "event_type": "engagement",
+   "action_place": "Bedford",
+   "description": "Scheepers brushes the Bedford Town Guard (7 May) and clashes with Col Henniker's column near Bedford (8 May)",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "123",
+   "force": "Scheepers commando",
+   "event_type": "raid",
+   "action_place": "Ganna Siding (Cradock district)",
+   "description": "Scheepers loots a train at Ganna Siding; three soldiers killed",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "125",
+   "force": "Smuts commando",
+   "event_type": "engagement",
+   "action_place": "Stormberg Mountain",
+   "description": "Smuts's commando is briefly cornered atop the Stormberg mountain while pushing south, four days before Modderfontein",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "127",
+   "force": "Lukin's column",
+   "event_type": "engagement",
+   "action_place": "Steilhoogte (Graaff-Reinet district)",
+   "description": "Col Lukin surprises Van Deventer's commando at Steilhoogte; 14 captured and 60 horses/mules taken",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "128",
+   "force": "Bouwer commando",
+   "event_type": "capture",
+   "action_place": "Springvale (Graaff-Reinet district)",
+   "description": "Cmdt Bouwer clashes with the District Defence Force at Springvale and captures 20 men",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "129",
+   "force": "Wessels commando",
+   "event_type": "raid",
+   "action_place": "Murraysburg",
+   "description": "Wessels (Kritzinger's successor) enters Murraysburg with ~20 men in early Jan 1902 and is welcomed by the inhabitants",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "130",
+   "force": "Wessels commando",
+   "event_type": "capture",
+   "action_place": "Cradock",
+   "description": "Cmdt Wessels with ~200 invaders captures 50 of the Cradock Town Guard who had ridden out to find the Boers",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "131",
+   "force": "Van Heerden commando",
+   "event_type": "engagement",
+   "action_place": "Aberdeen",
+   "description": "Malan and Fouché help Van Heerden attack Aberdeen; many horses are taken but Van Heerden is killed",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "132",
+   "force": "Fouché commando",
+   "event_type": "move",
+   "action_place": "Cradock",
+   "description": "Fouché surrenders in the Cradock district on learning the war has ended (Peace of Vereeniging, 31 May 1902)",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "133",
+   "force": "9th Lancers",
+   "event_type": "disembark",
+   "action_place": "Cape Town",
+   "description": "The 9th Lancers (from Muttra, India) disembark at Cape Town c.12 Oct 1899 off the transport Nairung",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "134",
+   "force": "9th Lancers",
+   "event_type": "engagement",
+   "action_place": "Belmont",
+   "description": "As Methuen's only cavalry the 9th Lancers work round the Boer rear at the Battle of Belmont on the Kimberley line",
+   "issue": "short (<120)"
+  },
+  {
+   "id": "135",
+   "force": "9th Lancers",
+   "event_type": "engagement",
+   "action_place": "Modder River",
+   "description": "The 9th Lancers and mounted infantry guard the right flank at the Battle of Modder River",
+   "issue": "short (<120)"
+  }
+ ],
+ "low_confidence": [],
+ "no_source": [],
+ "deployment_stacks": [
+  {
+   "place": "Pretoria",
+   "count": 90
+  },
+  {
+   "place": "Bloemfontein",
+   "count": 54
+  },
+  {
+   "place": "Cape Town",
+   "count": 39
+  },
+  {
+   "place": "Ladysmith",
+   "count": 22
+  },
+  {
+   "place": "Orange Free State",
+   "count": 13
+  },
+  {
+   "place": "Natal",
+   "count": 10
+  },
+  {
+   "place": "Orange River Colony",
+   "count": 9
+  },
+  {
+   "place": "Modder River",
+   "count": 9
+  },
+  {
+   "place": "King William's Town",
+   "count": 7
+  },
+  {
+   "place": "Durban",
+   "count": 7
+  },
+  {
+   "place": "Mafeking",
+   "count": 7
+  },
+  {
+   "place": "Johannesburg",
+   "count": 6
+  },
+  {
+   "place": "Cape Colony",
+   "count": 6
+  },
+  {
+   "place": "Kimberley",
+   "count": 6
+  },
+  {
+   "place": "Cradock",
+   "count": 5
+  },
+  {
+   "place": "Grahamstown",
+   "count": 5
+  },
+  {
+   "place": "Aliwal North",
+   "count": 4
+  },
+  {
+   "place": "Piet Retief",
+   "count": 3
+  },
+  {
+   "place": "Transvaal",
+   "count": 3
+  },
+  {
+   "place": "Pietermaritzburg",
+   "count": 3
+  }
+ ],
+ "movement_rows_no_line": [],
+ "id_gaps": [
+  42,
+  65,
+  67,
+  121,
+  124,
+  622,
+  623,
+  624
+ ]
+}

@@ -1,0 +1,30 @@
+{
+"type":"FeatureCollection",
+"_note":"QSA clasp reference geography. State-clasp territories follow the 1899 colony borders (Cape Colony along the Orange River + coast; OFS between Orange and Vaal; etc.) and remain approximate orientation aids, not survey boundaries. Wittebergen is the defined-area battle clasp. 19 battle clasps shown as points. Cape Colony/Natal/OFS/Transvaal are STATE clasps; South Africa 1901/1902 are date clasps (not mapped).",
+"features":[
+{"type":"Feature","properties":{"qtype":"state","clasp":"Cape Colony","kind_clasp":"state clasp","dates":"11 Oct 1899 – 31 May 1902","color":"#3b82f6"},"geometry":{"type":"Polygon","coordinates":[[[16.45,-28.63],[18.0,-28.55],[20.34,-28.59],[21.8,-28.9],[22.75,-29.66],[24.1,-29.62],[25.0,-29.35],[25.45,-30.63],[26.71,-30.70],[27.5,-30.35],[28.0,-30.5],[28.9,-30.65],[29.4,-30.55],[30.16,-31.08],[29.2,-31.7],[28.0,-32.7],[27.9,-33.02],[26.0,-33.75],[25.6,-34.01],[22.5,-34.1],[20.0,-34.83],[18.42,-34.35],[18.0,-33.0],[17.4,-31.5],[16.9,-30.0],[16.45,-28.63]]]}},
+{"type":"Feature","properties":{"qtype":"state","clasp":"Orange Free State","kind_clasp":"state clasp","dates":"28 Feb 1900 – 31 May 1902","color":"#f59e0b"},"geometry":{"type":"Polygon","coordinates":[[[23.77,-29.07],[24.6,-28.6],[25.7,-28.2],[26.8,-27.5],[27.8,-27.0],[28.9,-26.85],[29.45,-27.1],[29.4,-28.4],[29.0,-28.9],[28.3,-29.4],[27.5,-30.3],[26.71,-30.70],[25.45,-30.63],[25.0,-29.35],[24.1,-29.62],[23.77,-29.07]]]}},
+{"type":"Feature","properties":{"qtype":"state","clasp":"Transvaal","kind_clasp":"state clasp","dates":"24 May 1900 – 31 May 1902","color":"#a855f7"},"geometry":{"type":"Polygon","coordinates":[[[24.0,-27.1],[25.5,-26.9],[26.8,-27.4],[28.0,-27.1],[29.0,-26.8],[29.45,-27.1],[30.5,-26.4],[31.4,-25.7],[31.95,-25.95],[31.3,-22.4],[29.4,-22.35],[27.0,-22.7],[25.8,-24.3],[25.0,-25.7],[24.0,-27.1]]]}},
+{"type":"Feature","properties":{"qtype":"state","clasp":"Natal","kind_clasp":"state clasp","dates":"11 Oct 1899 – 11 Jun 1900","color":"#10b981"},"geometry":{"type":"Polygon","coordinates":[[[29.0,-28.9],[29.4,-28.4],[29.45,-27.1],[30.2,-27.3],[30.95,-27.0],[32.1,-26.85],[32.9,-27.6],[32.0,-28.7],[31.05,-29.3],[30.05,-30.85],[29.4,-30.55],[28.9,-30.65],[29.0,-28.9]]]}},
+{"type":"Feature","properties":{"qtype":"area","clasp":"Wittebergen","kind_clasp":"defined-area clasp","dates":"1–29 Jul 1900","color":"#ef4444"},"geometry":{"type":"Polygon","coordinates":[[[27.6,-28.2],[28.9,-28.2],[29.1,-28.9],[27.9,-29.0],[27.6,-28.2]]]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Talana","dates":"20 Oct 1899"},"geometry":{"type":"Point","coordinates":[30.25,-28.16]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Elandslaagte","dates":"21 Oct 1899"},"geometry":{"type":"Point","coordinates":[29.98,-28.55]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Defence of Ladysmith","dates":"3 Nov 1899 – 28 Feb 1900"},"geometry":{"type":"Point","coordinates":[29.78,-28.56]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Defence of Kimberley","dates":"14 Oct 1899 – 15 Feb 1900"},"geometry":{"type":"Point","coordinates":[24.74,-28.72]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Belmont","dates":"23 Nov 1899"},"geometry":{"type":"Point","coordinates":[24.40,-29.46]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Modder River","dates":"28 Nov 1899"},"geometry":{"type":"Point","coordinates":[24.62,-29.03]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Relief of Ladysmith","dates":"15 Dec 1899 – 28 Feb 1900"},"geometry":{"type":"Point","coordinates":[29.78,-28.50]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Tugela Heights","dates":"14–27 Feb 1900"},"geometry":{"type":"Point","coordinates":[29.82,-28.74]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Relief of Kimberley","dates":"15 Feb 1900"},"geometry":{"type":"Point","coordinates":[24.78,-28.76]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Paardeberg","dates":"17–26 Feb 1900"},"geometry":{"type":"Point","coordinates":[25.30,-28.99]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Driefontein","dates":"10 Mar 1900"},"geometry":{"type":"Point","coordinates":[25.47,-29.18]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Wepener","dates":"9–25 Apr 1900"},"geometry":{"type":"Point","coordinates":[27.04,-29.73]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Defence of Mafeking","dates":"13 Oct 1899 – 17 May 1900"},"geometry":{"type":"Point","coordinates":[25.64,-25.86]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Relief of Mafeking","dates":"17 May 1900"},"geometry":{"type":"Point","coordinates":[25.62,-25.80]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Johannesburg","dates":"29 May 1900"},"geometry":{"type":"Point","coordinates":[28.04,-26.20]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Laing's Nek","dates":"2–9 Jun 1900"},"geometry":{"type":"Point","coordinates":[29.90,-27.47]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Diamond Hill","dates":"11–12 Jun 1900"},"geometry":{"type":"Point","coordinates":[28.46,-25.79]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Wittebergen","dates":"1–29 Jul 1900"},"geometry":{"type":"Point","coordinates":[28.30,-28.60]}},
+{"type":"Feature","properties":{"qtype":"battle","clasp":"Belfast","dates":"26–27 Aug 1900"},"geometry":{"type":"Point","coordinates":[30.03,-25.69]}}
+]
+}

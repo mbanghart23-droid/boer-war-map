@@ -1,0 +1,787 @@
+{
+  "Aliwal North": [
+    -30.694167,
+    26.709722,
+    "geocoded"
+  ],
+  "Stormberg": [
+    -31.2826518,
+    26.290829,
+    "geocoded"
+  ],
+  "Queenstown": [
+    -31.8959475,
+    26.8709762,
+    "geocoded"
+  ],
+  "Molteno": [
+    -31.396667,
+    26.362778,
+    "geocoded"
+  ],
+  "Graaff-Reinet": [
+    -32.2535405,
+    24.5336485,
+    "geocoded"
+  ],
+  "Prince Albert": [
+    -33.222626,
+    22.030331,
+    "geocoded"
+  ],
+  "Steynsburg": [
+    -31.294444,
+    25.823889,
+    "geocoded"
+  ],
+  "Jamestown": [
+    -31.1251195,
+    26.8064896,
+    "geocoded"
+  ],
+  "Hanover": [
+    -31.0675,
+    24.443611,
+    "geocoded"
+  ],
+  "Jansenville": [
+    -32.943333,
+    24.670833,
+    "geocoded"
+  ],
+  "Aberdeen": [
+    -32.4767191,
+    24.0657994,
+    "geocoded"
+  ],
+  "Mortimer": [
+    -32.3660139,
+    25.6925442,
+    "geocoded"
+  ],
+  "Hofmeyr": [
+    -31.653623,
+    25.804688,
+    "geocoded"
+  ],
+  "New Bethesda": [
+    -31.865069,
+    24.5537011,
+    "geocoded"
+  ],
+  "Cradock": [
+    -32.1644444,
+    25.6208333,
+    "geocoded"
+  ],
+  "Middelburg (Cape)": [
+    -31.493889,
+    25.006667,
+    "geocoded"
+  ],
+  "Venterstad": [
+    -30.775739,
+    25.800017,
+    "geocoded"
+  ],
+  "Burgersdorp": [
+    -30.992222,
+    26.324722,
+    "geocoded"
+  ],
+  "Vanrhynsdorp": [
+    -31.6088889,
+    18.7416667,
+    "geocoded"
+  ],
+  "Okiep": [
+    -29.6127759,
+    17.875165,
+    "geocoded"
+  ],
+  "Richmond": [
+    -31.413056,
+    23.943611,
+    "geocoded"
+  ],
+  "Murraysburg": [
+    -31.9625,
+    23.760556,
+    "geocoded"
+  ],
+  "Willowmore": [
+    -33.29533,
+    23.488296,
+    "geocoded"
+  ],
+  "Oudtshoorn": [
+    -33.5902954,
+    22.204206,
+    "geocoded"
+  ],
+  "Uniondale": [
+    -33.6555556,
+    23.1255556,
+    "geocoded"
+  ],
+  "Mossel Bay": [
+    -34.1832022,
+    22.1536248,
+    "geocoded"
+  ],
+  "Somerset East": [
+    -32.7183216,
+    25.5889114,
+    "geocoded"
+  ],
+  "Bedford": [
+    -32.6783333,
+    26.0883333,
+    "geocoded"
+  ],
+  "Tarkastad": [
+    -32.0072222,
+    26.2605556,
+    "geocoded"
+  ],
+  "Theebus": [
+    -31.3607689,
+    25.6624216,
+    "geocoded"
+  ],
+  "Klipplaat": [
+    -33.018294,
+    24.341594,
+    "geocoded"
+  ],
+  "Pearston": [
+    -32.581667,
+    25.137778,
+    "geocoded"
+  ],
+  "Sheldon": [
+    -33.0131738,
+    25.8389319,
+    "geocoded"
+  ],
+  "Steytlerville": [
+    -33.329496,
+    24.344948,
+    "geocoded"
+  ],
+  "Hanover Road": [
+    -31.0675,
+    24.443611,
+    "geocoded"
+  ],
+  "Colesberg": [
+    -30.721111,
+    25.096667,
+    "geocoded"
+  ],
+  "Barkly East": [
+    -30.9682842,
+    27.5957182,
+    "geocoded"
+  ],
+  "Dordrecht": [
+    -31.37337,
+    27.046462,
+    "geocoded"
+  ],
+  "Sterkstroom": [
+    -31.557222,
+    26.553333,
+    "geocoded"
+  ],
+  "Cape Town": [
+    -33.9288301,
+    18.4172197,
+    "geocoded"
+  ],
+  "De Aar": [
+    -30.6505556,
+    24.0075,
+    "geocoded"
+  ],
+  "East London": [
+    -33.0191604,
+    27.8998573,
+    "geocoded"
+  ],
+  "Port Elizabeth": [
+    -33.9618598,
+    25.6186731,
+    "geocoded"
+  ],
+  "Bloemfontein": [
+    -29.116395,
+    26.215496,
+    "geocoded"
+  ],
+  "Pretoria": [
+    -25.7459277,
+    28.1879101,
+    "geocoded"
+  ],
+  "Bethulie": [
+    -30.496373,
+    25.974962,
+    "geocoded"
+  ],
+  "Belmont": [
+    -29.4167832,
+    24.3663805,
+    "geocoded"
+  ],
+  "Kimberley": [
+    -28.7383012,
+    24.7642251,
+    "geocoded"
+  ],
+  "Wepener": [
+    -29.728921,
+    27.036538,
+    "geocoded"
+  ],
+  "Boshof": [
+    -28.538603,
+    25.238769,
+    "geocoded"
+  ],
+  "Lindley": [
+    -27.8813889,
+    27.9186111,
+    "geocoded"
+  ],
+  "Dewetsdorp": [
+    -29.583007,
+    26.669209,
+    "geocoded"
+  ],
+  "Ladysmith": [
+    -28.5587291,
+    29.7825044,
+    "geocoded"
+  ],
+  "Elandslaagte": [
+    -28.408959,
+    29.9579412,
+    "geocoded"
+  ],
+  "Belfast": [
+    -25.686667,
+    30.033611,
+    "geocoded"
+  ],
+  "Jacobsdal": [
+    -29.129203,
+    24.774192,
+    "geocoded"
+  ],
+  "Newcastle": [
+    -27.7544581,
+    29.932561,
+    "geocoded"
+  ],
+  "Vryheid": [
+    -27.7704908,
+    30.7885741,
+    "geocoded"
+  ],
+  "Melmoth": [
+    -28.586667,
+    31.398056,
+    "geocoded"
+  ],
+  "Piet Retief": [
+    -27.006667,
+    30.807778,
+    "geocoded"
+  ],
+  "Ermelo": [
+    -26.5201061,
+    29.9862195,
+    "geocoded"
+  ],
+  "Carolina": [
+    -26.068889,
+    30.116389,
+    "geocoded"
+  ],
+  "Machadodorp": [
+    -25.686667,
+    30.033611,
+    "geocoded"
+  ],
+  "Heidelberg (Tvl)": [
+    -26.497222,
+    28.359167,
+    "geocoded"
+  ],
+  "Krugersdorp": [
+    -26.095556,
+    27.775556,
+    "geocoded"
+  ],
+  "Potchefstroom": [
+    -26.707778,
+    27.095833,
+    "geocoded"
+  ],
+  "Lichtenburg": [
+    -26.149862,
+    26.159257,
+    "geocoded"
+  ],
+  "Klerksdorp": [
+    -26.8625383,
+    26.6656814,
+    "geocoded"
+  ],
+  "Zeerust": [
+    -25.537731,
+    26.074382,
+    "geocoded"
+  ],
+  "Wolmaranstad": [
+    -27.1896165,
+    25.9668875,
+    "geocoded"
+  ],
+  "Middelburg (Tvl)": [
+    -25.7678012,
+    29.4555234,
+    "geocoded"
+  ],
+  "Lydenburg": [
+    -25.099437,
+    30.458881,
+    "geocoded"
+  ],
+  "Senekal": [
+    -28.316944,
+    27.6225,
+    "geocoded"
+  ],
+  "Bethlehem": [
+    -28.2308333,
+    28.3088889,
+    "geocoded"
+  ],
+  "Reitz": [
+    -27.800556,
+    28.4275,
+    "geocoded"
+  ],
+  "Frankfort": [
+    -27.2787932,
+    28.4978324,
+    "geocoded"
+  ],
+  "Harrismith": [
+    -28.2784237,
+    29.1332389,
+    "geocoded"
+  ],
+  "Heilbron": [
+    -27.286389,
+    27.969444,
+    "geocoded"
+  ],
+  "Kroonstad": [
+    -27.6532701,
+    27.235515,
+    "geocoded"
+  ],
+  "Brandfort": [
+    -28.6966256,
+    26.4611673,
+    "geocoded"
+  ],
+  "Edenburg": [
+    -29.7347222,
+    25.9369444,
+    "geocoded"
+  ],
+  "Fauresmith": [
+    -29.748544,
+    25.314647,
+    "geocoded"
+  ],
+  "Ficksburg": [
+    -28.873721,
+    27.879371,
+    "geocoded"
+  ],
+  "Hoopstad": [
+    -27.834182,
+    25.912649,
+    "geocoded"
+  ],
+  "Ladybrand": [
+    -29.192706,
+    27.457589,
+    "geocoded"
+  ],
+  "Parys": [
+    -26.904354,
+    27.456125,
+    "geocoded"
+  ],
+  "Philippolis": [
+    -30.2652355,
+    25.2739026,
+    "geocoded"
+  ],
+  "Rouxville": [
+    -30.418428,
+    26.837205,
+    "geocoded"
+  ],
+  "Smithfield OFS": [
+    -30.2131422,
+    26.5306135,
+    "geocoded"
+  ],
+  "Thaba Nchu": [
+    -29.197875,
+    26.832217,
+    "geocoded"
+  ],
+  "Ventersburg": [
+    -28.084444,
+    27.139167,
+    "geocoded"
+  ],
+  "Vrede": [
+    -27.4264699,
+    29.1637064,
+    "geocoded"
+  ],
+  "Vredefort": [
+    -27.005,
+    27.365556,
+    "geocoded"
+  ],
+  "Winburg": [
+    -28.516667,
+    27.010833,
+    "geocoded"
+  ],
+  "Bethal": [
+    -26.4570945,
+    29.467136,
+    "geocoded"
+  ],
+  "Bloemhof": [
+    -27.6461111,
+    25.6066667,
+    "geocoded"
+  ],
+  "Boksburg": [
+    -26.2124639,
+    28.2617471,
+    "geocoded"
+  ],
+  "Christiana": [
+    -27.9136426,
+    25.1646182,
+    "geocoded"
+  ],
+  "Elandsrivier": [
+    -25.7010124,
+    27.2498262,
+    "geocoded"
+  ],
+  "Germiston": [
+    -26.229444,
+    28.180556,
+    "geocoded"
+  ],
+  "Louis Trichardt": [
+    -23.038326,
+    29.906665,
+    "geocoded"
+  ],
+  "Nylstroom": [
+    -24.701111,
+    28.408889,
+    "geocoded"
+  ],
+  "Rustenburg": [
+    -25.665655,
+    27.241448,
+    "geocoded"
+  ],
+  "Standerton": [
+    -26.9433333,
+    29.2436111,
+    "geocoded"
+  ],
+  "Utrecht": [
+    -27.6625,
+    30.325,
+    "geocoded"
+  ],
+  "Wakkerstroom": [
+    -27.353611,
+    30.145,
+    "geocoded"
+  ],
+  "King William's Town": [
+    -32.8797222,
+    27.3944444,
+    "geocoded"
+  ],
+  "Grahamstown": [
+    -33.3070589,
+    26.5272648,
+    "geocoded"
+  ],
+  "Pietermaritzburg": [
+    -29.6,
+    30.3788889,
+    "geocoded"
+  ],
+  "Durban": [
+    -29.861825,
+    31.009909,
+    "geocoded"
+  ],
+  "Naauwpoort": [
+    -31.179983,
+    24.95158,
+    "geocoded"
+  ],
+  "Clanwilliam": [
+    -32.178551,
+    18.89104,
+    "geocoded"
+  ],
+  "Calvinia": [
+    -31.469444,
+    19.777222,
+    "geocoded"
+  ],
+  "Estcourt": [
+    -29.010278,
+    29.868611,
+    "geocoded"
+  ],
+  "Chieveley": [
+    -28.8309345,
+    29.8071179,
+    "geocoded"
+  ],
+  "Lady Grey": [
+    -30.711933,
+    27.215609,
+    "geocoded"
+  ],
+  "Indwe": [
+    -31.467778,
+    27.338611,
+    "geocoded"
+  ],
+  "Maclear": [
+    -31.0661931,
+    28.3461799,
+    "geocoded"
+  ],
+  "Diamond Hill": [
+    -25.7833,
+    28.6833,
+    "manual"
+  ],
+  "Colenso": [
+    -28.7333,
+    29.8167,
+    "manual"
+  ],
+  "Spion Kop": [
+    -28.6333,
+    29.5333,
+    "manual"
+  ],
+  "Mafeking": [
+    -25.6444,
+    25.6442,
+    "manual"
+  ],
+  "Springfontein": [
+    -30.2833,
+    25.7167,
+    "manual"
+  ],
+  "Volksrust": [
+    -27.3667,
+    29.8833,
+    "manual"
+  ],
+  "Pieters Hill": [
+    -28.7,
+    29.85,
+    "manual"
+  ],
+  "Rhenoster Kop": [
+    -27.95,
+    27.1333,
+    "manual"
+  ],
+  "Lobatsi": [
+    -25.2167,
+    25.6833,
+    "manual"
+  ],
+  "Bulawayo": [
+    -20.1594,
+    28.5773,
+    "manual"
+  ],
+  "Laing's Nek": [
+    -27.3833,
+    29.9167,
+    "manual"
+  ],
+  "Uitenhage": [
+    -33.7333,
+    25.3833,
+    "manual"
+  ],
+  "Orange River Station": [
+    -28.75,
+    24.87,
+    "manual"
+  ],
+  "Bergendal": [
+    -25.62,
+    30.17,
+    "manual"
+  ],
+  "Frere": [
+    -28.98,
+    29.85,
+    "manual"
+  ],
+  "Sanna's Post": [
+    -28.85,
+    26.18,
+    "manual"
+  ],
+  "Alicedale": [
+    -33.3167,
+    26.1,
+    "manual"
+  ],
+  "Alexandria": [
+    -33.65,
+    26.4167,
+    "manual"
+  ],
+  "Beaufort West": [
+    -32.35,
+    22.5833,
+    "manual"
+  ],
+  "Burghersdorp": [
+    -31.0,
+    26.3333,
+    "manual"
+  ],
+  "Cathcart": [
+    -32.3,
+    27.1333,
+    "manual"
+  ],
+  "Hopefield": [
+    -33.0667,
+    18.3667,
+    "manual"
+  ],
+  "Knysna": [
+    -34.0333,
+    23.05,
+    "manual"
+  ],
+  "Komgha": [
+    -32.5833,
+    27.9,
+    "manual"
+  ],
+  "Steytleville": [
+    -33.3333,
+    24.35,
+    "manual"
+  ],
+  "Stockenstrom": [
+    -32.55,
+    26.7833,
+    "manual"
+  ],
+  "Sutherland": [
+    -32.4,
+    20.6667,
+    "manual"
+  ],
+  "Victoria East": [
+    -32.6167,
+    26.5833,
+    "manual"
+  ],
+  "Warrenton": [
+    -28.1167,
+    24.85,
+    "manual"
+  ],
+  "Wellington": [
+    -33.6333,
+    19.0167,
+    "manual"
+  ],
+  "Green River": [
+    -33.0,
+    22.0,
+    "manual"
+  ],
+  "Houw Hoek": [
+    -34.2,
+    19.0,
+    "manual"
+  ],
+  "Fraserburg": [
+    -31.92,
+    21.52,
+    "karoo-place"
+  ],
+  "Pietersburg": [
+    -23.9,
+    29.45,
+    "ntvl-capital"
+  ],
+  "Kokstad": [
+    -30.55,
+    29.42,
+    "east-griqualand"
+  ],
+  "Herschel": [
+    -30.62,
+    27.18,
+    "ne-cape-border"
+  ],
+  "Loxton": [
+    -31.46,
+    22.37,
+    "karoo-place"
+  ],
+  "Upington": [
+    -28.45,
+    21.25,
+    "nc-capital"
+  ],
+  "Vryburg": [
+    -26.96,
+    24.73,
+    "nc-town"
+  ]
+}

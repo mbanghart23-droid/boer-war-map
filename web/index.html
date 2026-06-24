@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+<title>Eastern Cape — Boer War movements (1899–1902)</title>
+<link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<style>
+  html,body{margin:0;height:100%;font-family:system-ui,-apple-system,sans-serif;background:#0b0f14;color:#e8eef5;overflow:hidden}
+  #map{position:absolute;inset:0}
+  .panel{position:absolute;z-index:5;background:rgba(16,22,30,.93);border:1px solid #2b3a49;
+         border-radius:12px;backdrop-filter:blur(5px);box-shadow:0 4px 16px rgba(0,0,0,.4)}
+  #title{top:max(8px,env(safe-area-inset-top));left:10px;right:10px;padding:9px 12px}
+  #title b{font-size:15px} #title span{font-size:11px;color:#9fb0c3}
+  #legendbtn,#unitbtn,#qsabtn,#bhbtn{position:absolute;z-index:6;top:max(58px,calc(env(safe-area-inset-top) + 50px));
+    background:rgba(16,22,30,.93);border:1px solid #2b3a49;border-radius:10px;color:#e8eef5;
+    padding:8px 11px;font-size:13px;cursor:pointer}
+  #legendbtn{right:10px} #unitbtn{left:10px}
+  #qsabtn{right:10px;top:max(100px,calc(env(safe-area-inset-top) + 92px))}
+  #bhbtn{right:10px;top:max(142px,calc(env(safe-area-inset-top) + 134px))}
+  #qsabtn.on,#bhbtn.on{background:#2563eb;border-color:#2563eb}
+  #units{top:max(98px,calc(env(safe-area-inset-top) + 90px));left:10px;width:230px;max-height:56vh;
+    overflow-y:auto;padding:10px 13px;display:none}
+  #units.show{display:block}
+  .uhead{display:flex;justify-content:space-between;align-items:center;font-size:11px;text-transform:uppercase;
+    letter-spacing:.05em;color:#9fb0c3;margin-bottom:6px}
+  .uhead a{color:#67e8f9;cursor:pointer;text-decoration:underline;text-transform:none}
+  #byReg,#byCol{text-decoration:none;color:#7f8ea0} #byReg.on,#byCol.on{color:#67e8f9;font-weight:700}
+  .uside{font-size:11px;font-weight:700;color:#cdd9e6;margin:8px 0 3px;border-top:1px solid #25313f;padding-top:6px}
+  .uside{margin:9px 0 3px;font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:#9fb0c3;font-weight:700}
+  .uitem-row{display:flex;align-items:center;justify-content:space-between;gap:4px}
+  .uitem-row .uitem{flex:1;margin:0}
+  .solo-btn{flex:0 0 auto;background:none;border:1px solid #2b3a49;border-radius:5px;color:#7a8da0;font-size:10px;padding:1px 5px;cursor:pointer;white-space:nowrap}
+  .solo-btn:hover{border-color:#67e8f9;color:#67e8f9}
+  .dl-btn{flex:0 0 auto;background:none;border:1px solid #2b3a49;border-radius:5px;color:#7a8da0;font-size:10px;padding:1px 5px;cursor:pointer;white-space:nowrap}
+  .dl-btn:hover{border-color:#34d399;color:#34d399}
+  #dlsel-btn{width:100%;box-sizing:border-box;background:#0f2a1e;border:1px solid #1a4a30;border-radius:7px;color:#34d399;font-size:12px;padding:5px 9px;cursor:pointer;margin-bottom:6px;display:none}
+  #dlsel-btn:hover{background:#163d28}
+  .uitem{display:flex;align-items:center;gap:7px;padding:4px 0;font-size:12px;color:#e8eef5;cursor:pointer}
+  .uitem input{width:auto;margin:0;accent-color:#67e8f9;flex:0 0 auto}
+  .ritem{display:flex;align-items:flex-start;gap:6px;padding:2px 0 2px 22px;font-size:11px;color:#aab8c7;cursor:pointer;line-height:1.25}
+  .ritem input{width:auto;margin:1px 0 0;accent-color:#67e8f9;flex:0 0 auto;transform:scale(.85)}
+  .udot{width:11px;height:11px;border-radius:50%;border:1.5px solid #fff;flex:0 0 auto}
+  .uB{background:#ef4444} .ub{background:#22c55e}
+  #legend{top:max(58px,calc(env(safe-area-inset-top) + 50px));right:10px;width:210px;padding:11px 13px;font-size:12px;display:none}
+  #legend.show{display:block}
+  #legend h4{margin:0 0 7px;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:#9fb0c3}
+  .lrow{display:flex;align-items:center;gap:8px;margin:5px 0;line-height:1.3}
+  .dotB{width:13px;height:13px;border-radius:50%;background:#ef4444;border:2px solid #fff;flex:0 0 auto}
+  .dotb{width:13px;height:13px;border-radius:50%;background:#22c55e;border:2px solid #fff;flex:0 0 auto}
+  .lnB{width:18px;border-top:2px dashed #ef4444;flex:0 0 auto}
+  .lnb{width:18px;border-top:2px dashed #22c55e;flex:0 0 auto}
+  #timebar{left:10px;right:10px;bottom:max(12px,calc(env(safe-area-inset-bottom) + 8px));padding:10px 14px}
+  #date{font-size:17px;font-weight:700;color:#67e8f9;text-align:center;margin-bottom:5px}
+  input[type=range]{width:100%;height:30px;accent-color:#67e8f9}
+  .ctrls{display:flex;gap:8px;margin-top:7px}
+  .ctrls button{flex:1;background:#1b2531;color:#e8eef5;border:1px solid #2d3a49;border-radius:8px;padding:10px;font-size:14px;cursor:pointer}
+  .ctrls button.active{background:#2563eb;border-color:#2563eb}
+  #phases{display:flex;gap:5px;margin-top:8px;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  #phases::-webkit-scrollbar{display:none}
+  .pbtn{flex:0 0 auto;background:#1b2531;color:#9fb0c3;border:1px solid #2d3a49;border-radius:7px;
+    padding:5px 8px;font-size:11px;cursor:pointer;text-align:center;line-height:1.3}
+  .pbtn:hover{border-color:#67e8f9;color:#e8eef5}
+  #etypes{display:flex;gap:5px;margin-top:7px;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  #etypes::-webkit-scrollbar{display:none}
+  .ebtn{flex:0 0 auto;background:#1b2531;color:#9fb0c3;border:1px solid #2d3a49;border-radius:7px;
+    padding:5px 7px;font-size:11px;cursor:pointer;text-align:center}
+  .ebtn.on{background:#0f4c3a;border-color:#22c55e;color:#67e8f9}
+  /* search box */
+  #searchbox{position:absolute;z-index:7;top:max(58px,calc(env(safe-area-inset-top)+50px));
+    left:50%;transform:translateX(-50%);width:min(280px,55vw)}
+  #searchinput{width:100%;box-sizing:border-box;background:rgba(16,22,30,.93);border:1px solid #2b3a49;
+    border-radius:10px;color:#e8eef5;padding:8px 32px 8px 12px;font-size:13px;outline:none}
+  #searchinput:focus{border-color:#67e8f9}
+  #searchinput::placeholder{color:#5a6a7a}
+  #searchclear{position:absolute;right:8px;top:50%;transform:translateY(-50%);
+    color:#5a6a7a;cursor:pointer;font-size:16px;background:none;border:none;padding:0}
+  #searchresults{position:absolute;top:calc(100% + 4px);left:0;right:0;
+    background:rgba(16,22,30,.97);border:1px solid #2b3a49;border-radius:10px;
+    max-height:260px;overflow-y:auto;z-index:8}
+  .sresult{padding:8px 12px;cursor:pointer;border-bottom:1px solid #1e2a38;font-size:12px}
+  .sresult:last-child{border-bottom:none}
+  .sresult:hover{background:rgba(37,99,235,.25)}
+  .sresult b{color:#e8eef5;display:block}
+  .sresult span{color:#7a8da0}
+  /* side filter buttons */
+  .side-btn{background:rgba(16,22,30,.6);border:1px solid #2b3a49;border-radius:6px;color:#9fb0c3;
+    font-size:11px;padding:3px 6px;cursor:pointer;transition:background .15s}
+  .side-btn:hover,.side-btn.on{background:rgba(37,99,235,.3);color:#e8eef5;border-color:#3b82f6}
+  /* theater buttons */
+  #theaters{display:flex;flex-wrap:wrap;gap:3px;margin-top:5px}
+  .tbtn{background:rgba(16,22,30,.6);border:1px solid #2b3a49;border-radius:6px;color:#9fb0c3;
+    font-size:11px;padding:3px 8px;cursor:pointer;transition:background .15s}
+  .tbtn:hover{background:rgba(16,120,100,.3);color:#e8eef5;border-color:#34d399}
+  /* popup improvements */
+  .pw-head{font-size:14px;font-weight:700;margin-bottom:3px;color:#111}
+  .pw-meta{font-size:11px;color:#555;margin-bottom:5px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+  .pw-badge{display:inline-block;background:#e8f0fe;color:#1a4ab9;border-radius:4px;
+    padding:1px 6px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+  .pw-badge.boer{background:#e8fce8;color:#166534}
+  .pw-desc{font-size:12px;color:#222;line-height:1.45;margin-bottom:5px}
+  .pw-units{font-size:11px;color:#444;margin-bottom:4px}
+  .pw-foot{font-size:10px;color:#888;border-top:1px solid #e5e7eb;padding-top:4px;margin-top:4px;display:flex;gap:8px;flex-wrap:wrap}
+  .pw-foot a{color:#2563eb;text-decoration:none}
+  /* battle pause flash */
+  @keyframes battleflash{0%{opacity:0}30%{opacity:1}70%{opacity:1}100%{opacity:0}}
+  #battletoast{position:absolute;z-index:20;top:70px;left:50%;transform:translateX(-50%);
+    background:rgba(220,38,38,.92);color:#fff;padding:7px 18px;border-radius:20px;
+    font-size:13px;font-weight:700;pointer-events:none;display:none;white-space:nowrap}
+  #battletoast.show{display:block;animation:battleflash 2.5s ease forwards}
+  /* cluster bubbles */
+  .cluster-circle{cursor:pointer}
+  .maplibregl-popup-content{font:13px system-ui;color:#111;border-radius:10px;max-width:280px}
+  .blabel{background:rgba(15,23,38,.82);color:#ffd27f;font:700 10px system-ui;padding:2px 6px;border-radius:4px;
+    white-space:nowrap;transform:translateX(11px);pointer-events:none;border:1px solid rgba(255,210,127,.4)}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div id="title" class="panel"><b>The Boer War, 1899–1902</b> <span>movements · unit journeys · QSA clasps · blockhouses — all fronts · tap a marker</span></div>
+<button id="legendbtn">Legend ▾</button>
+<button id="qsabtn">QSA ▾</button>
+<button id="bhbtn">Blockhouses ▾</button>
+<div id="legend" class="panel">
+  <h4>Historical 1900 map</h4>
+  <label class="lrow" style="cursor:pointer"><input type="checkbox" id="histchk" style="width:auto;accent-color:#67e8f9"> overlay 1900 war map</label>
+  <div class="lrow"><input type="range" id="histop" min="0" max="100" value="60" style="width:100%;accent-color:#67e8f9"></div>
+  <div style="color:#9fb0c3;font-size:11px;line-height:1.4;margin-bottom:4px">Approximate corner-fit (towns may be off by tens of km). Public-domain 1900 war map.</div>
+  <h4>Symbol = what happened</h4>
+  <div class="lrow"><svg width="15" height="15"><circle cx="7.5" cy="7.5" r="6" fill="#9fb0c3" stroke="#fff" stroke-width="1.5"/></svg> Battle / engagement</div>
+  <div class="lrow"><svg width="15" height="15"><polygon points="7.5,1.5 14,13.5 1,13.5" fill="#9fb0c3" stroke="#fff" stroke-width="1.5"/></svg> Movement / raid</div>
+  <div class="lrow"><svg width="15" height="15"><path d="M1.5 5 V3 H4 V5 H6 V3 H8.5 V5 H11 V3 H13.5 V5 V13.5 H1.5 Z" fill="#9fb0c3" stroke="#fff" stroke-width="1"/></svg> Garrison — <i>static</i> (town guard)</div>
+  <div class="lrow"><svg width="15" height="15"><polygon points="7.5,1 14,7.5 7.5,14 1,7.5" fill="#9fb0c3" stroke="#fff" stroke-width="1.5"/></svg> Capture</div>
+  <div class="lrow"><svg width="15" height="15"><path d="M3 3 L12 12 M12 3 L3 12" stroke="#9fb0c3" stroke-width="3" stroke-linecap="round"/></svg> Execution</div>
+  <div class="lrow"><svg width="15" height="15"><g fill="none" stroke="#9fb0c3" stroke-width="1.4"><circle cx="7.5" cy="3" r="1.6"/><path d="M7.5 4.5 V13"/><path d="M4 6 H11"/><path d="M2.5 9.5 A5 5 0 0 0 12.5 9.5"/></g></svg> Disembark / logistics</div>
+  <h4 style="margin-top:10px">Colour = side</h4>
+  <div class="lrow"><span class="dotB"></span> British / Imperial</div>
+  <div class="lrow"><span class="dotb"></span> Boer commando</div>
+  <div class="lrow"><span class="lnB"></span> British move / pursuit (line)</div>
+  <div class="lrow"><span class="lnb"></span> Boer move / raid (line)</div>
+  <div class="lrow"><svg width="15" height="15"><path d="M3 10 L7.5 4 L12 10" fill="none" stroke="#9fb0c3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> Arrows = direction of march/raid</div>
+  <h4 style="margin-top:10px">Blockhouses (toggle)</h4>
+  <div class="lrow"><svg width="22" height="9"><line x1="0" y1="4.5" x2="22" y2="4.5" stroke="#b08d57" stroke-width="2" stroke-dasharray="2,2.5"/><rect x="8" y="1.5" width="6" height="6" fill="#8a6d3b" stroke="#fff" stroke-width="1"/></svg> Blockhouse line (railway cordon)</div>
+  <h4 style="margin-top:10px">QSA clasps (toggle "QSA")</h4>
+  <div class="lrow"><span style="width:13px;height:13px;background:#3b82f6;opacity:.5;border:1px solid #3b82f6;flex:0 0 auto"></span> State-clasp area (Cape Colony etc.)</div>
+  <div class="lrow"><span style="width:11px;height:11px;border-radius:50%;background:#ffd27f;border:1.5px solid #7a5b1e;flex:0 0 auto"></span> Battle clasp (tap for dates)</div>
+  <div style="color:#9fb0c3;line-height:1.4;font-size:11px">Eastern-Cape service earned the <b>Cape Colony</b> state clasp; areas approximate.</div>
+  <h4 style="margin-top:10px">Notes</h4>
+  <div style="color:#9fb0c3;line-height:1.45">Fainter marker = lower confidence or approximate location.
+  <b>Town guards are static</b> — shown as forts at their town; they did not range out. Western-Cape
+  events (Maritz, Smuts→Okiep) lie far west of this view.</div>
+</div>
+<div id="searchbox">
+  <input id="searchinput" type="text" placeholder="Search unit, place, commander…" autocomplete="off" />
+  <button id="searchclear">×</button>
+  <div id="searchresults" style="display:none"></div>
+</div>
+<div id="battletoast"></div>
+<button id="unitbtn">Regiments ▾</button>
+<div id="units" class="panel">
+  <div class="uhead">Group: <a id="byReg" class="on">regiment</a> / <a id="byCol">column</a> <span><a id="uall">all</a> · <a id="unone">none</a></span></div>
+  <button id="dlsel-btn">⬇ Download selected units CSV</button>
+  <div style="display:flex;gap:4px;margin-top:5px"><button class="side-btn" id="sideAll" style="flex:1">All sides</button><button class="side-btn" id="sideBritish" style="flex:1">🇬🇧 British</button><button class="side-btn" id="sideBoer" style="flex:1">⚑ Boer</button></div>
+  <input id="regsearch" type="text" placeholder="Filter units…" autocomplete="off" style="width:100%;box-sizing:border-box;background:rgba(16,22,30,.7);border:1px solid #2b3a49;border-radius:7px;color:#e8eef5;padding:5px 9px;font-size:12px;outline:none;margin-bottom:5px">
+  <div id="ulist"></div>
+</div>
+<div id="timebar" class="panel">
+  <div id="date">—</div>
+  <input id="slider" type="range" min="0" max="1" value="1" step="1" />
+  <div class="ctrls"><button id="play">▶ Play</button><button id="all" class="active">Show all</button></div>
+  <div id="phases">
+    <button class="pbtn" data-from="1899-10-01" data-to="1899-12-31">1899<br>Invasion</button>
+    <button class="pbtn" data-from="1900-01-01" data-to="1900-05-31">Jan–May 1900<br>Relief</button>
+    <button class="pbtn" data-from="1900-06-01" data-to="1900-12-31">Jun–Dec 1900<br>Advance</button>
+    <button class="pbtn" data-from="1901-01-01" data-to="1901-12-31">1901<br>Guerrilla</button>
+    <button class="pbtn" data-from="1902-01-01" data-to="1902-05-31">1902<br>Final</button>
+  </div>
+  <div id="theaters">
+    <button class="tbtn" data-lng="25.6" data-lat="-31.7" data-zoom="7">Eastern Cape</button>
+    <button class="tbtn" data-lng="29.8" data-lat="-29.0" data-zoom="7">Natal</button>
+    <button class="tbtn" data-lng="26.8" data-lat="-28.6" data-zoom="7">OFS</button>
+    <button class="tbtn" data-lng="28.5" data-lat="-25.8" data-zoom="7">Transvaal</button>
+    <button class="tbtn" data-lng="25.0" data-lat="-28.8" data-zoom="5.5">All fronts</button>
+  </div>
+  <div id="etypes">
+    <button class="ebtn on" data-et="deployment">Deployments</button>
+    <button class="ebtn on" data-et="engagement">Battles</button>
+    <button class="ebtn on" data-et="movement">Movements</button>
+  </div>
+</div>
+<script>
+const TOPO="https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}";
+const map=new maplibregl.Map({container:"map",
+  style:{version:8,
+    glyphs:"https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
+    sources:{topo:{type:"raster",tiles:[TOPO],tileSize:256,attribution:"Tiles © Esri"}},
+    layers:[{id:"topo",type:"raster",source:"topo"}]},
+  center:[25.6,-31.7],zoom:6});
+window._map=map;
+map.addControl(new maplibregl.NavigationControl({showCompass:false}),"bottom-right");
+const $=id=>document.getElementById(id);
+$("legendbtn").onclick=()=>$("legend").classList.toggle("show");
+let DATES=[],curDate=null,playing=null;
+let FEATS=[],selUnits=new Set(),unitRegs={},selRegs={},featRegs={},MODES={},curMode="regiment";
+let selETypes=new Set(["deployment","engagement","movement","garrison","capture","execution","logistics","command"]);
+const sideColor=["case",["==",["get","side"],"British"],"#ef4444","#22c55e"];
+// --- shaped marker icons: shape = category, colour = side ---
+const SIDECOL={B:"#ef4444",b:"#22c55e"};
+const CATS=["battle","movement","garrison","capture","execution","command","arrow","logistics"];
+function drawIcon(cat,col){
+  const S=44,cv=document.createElement("canvas");cv.width=S;cv.height=S;
+  const x=cv.getContext("2d"),c=S/2; x.lineJoin="round";x.lineCap="round";
+  const fillStroke=(w)=>{x.fillStyle=col;x.fill();x.lineWidth=w;x.strokeStyle="#fff";x.stroke();};
+  if(cat==="battle"){x.beginPath();x.arc(c,c,13,0,7);fillStroke(3);}
+  else if(cat==="movement"){x.beginPath();x.moveTo(c,c-14);x.lineTo(c+13,c+11);x.lineTo(c-13,c+11);x.closePath();fillStroke(3);}
+  else if(cat==="capture"){x.beginPath();x.moveTo(c,c-14);x.lineTo(c+14,c);x.lineTo(c,c+14);x.lineTo(c-14,c);x.closePath();fillStroke(3);}
+  else if(cat==="garrison"){const L=c-13,R=c+13,T=c-9,B=c+13,m=(R-L)/5,M=5;
+    x.beginPath();x.moveTo(L,T);
+    for(let i=0;i<5;i++){const a=L+i*m;if(i%2===0){x.lineTo(a,T-M);x.lineTo(a+m,T-M);x.lineTo(a+m,T);}else{x.lineTo(a+m,T);}}
+    x.lineTo(R,B);x.lineTo(L,B);x.closePath();fillStroke(2.5);}
+  else if(cat==="execution"){x.strokeStyle="#fff";x.lineWidth=9;
+    x.beginPath();x.moveTo(c-10,c-10);x.lineTo(c+10,c+10);x.moveTo(c+10,c-10);x.lineTo(c-10,c+10);x.stroke();
+    x.strokeStyle=col;x.lineWidth=4.5;
+    x.beginPath();x.moveTo(c-10,c-10);x.lineTo(c+10,c+10);x.moveTo(c+10,c-10);x.lineTo(c-10,c+10);x.stroke();}
+  else if(cat==="logistics"){ // anchor = disembarkation / logistics
+    const anc=(color,w)=>{x.strokeStyle=color;x.lineWidth=w;
+      x.beginPath();x.arc(c,c-12,3.4,0,7);x.stroke();              // ring
+      x.beginPath();x.moveTo(c,c-9);x.lineTo(c,c+13);x.stroke();   // shank
+      x.beginPath();x.moveTo(c-7,c-5);x.lineTo(c+7,c-5);x.stroke();// stock
+      x.beginPath();x.arc(c,c+4,10,0.18*Math.PI,0.82*Math.PI);x.stroke(); // flukes
+      x.beginPath();x.moveTo(c-9.5,c+8.5);x.lineTo(c-12,c+4);x.moveTo(c+9.5,c+8.5);x.lineTo(c+12,c+4);x.stroke();};
+    anc("#fff",6.5); anc(col,3);}
+  else if(cat==="blockhouse"){ // small fort square repeated along a blockhouse line
+    x.fillStyle=col;x.strokeStyle="#fff";x.lineWidth=2;
+    x.beginPath();x.rect(c-7,c-6,14,13);x.fill();x.stroke();
+    x.fillStyle="#fff";x.fillRect(c-2.5,c-9,5,3);}
+  else if(cat==="arrow"){ // filled arrowhead pointing "up" = direction of travel along line
+    x.beginPath();x.moveTo(c,c-11);x.lineTo(c+9,c+7);x.lineTo(c-9,c+7);x.closePath();
+    x.fillStyle="#fff";x.fill();
+    x.beginPath();x.moveTo(c,c-9);x.lineTo(c+7,c+6);x.lineTo(c-7,c+6);x.closePath();
+    x.fillStyle=col;x.fill();}
+  else if(cat==="command"){x.strokeStyle="#fff";x.lineWidth=5;x.beginPath();x.moveTo(c-9,c-15);x.lineTo(c-9,c+15);x.stroke();
+    x.strokeStyle="#334";x.lineWidth=2.5;x.beginPath();x.moveTo(c-9,c-15);x.lineTo(c-9,c+15);x.stroke();
+    x.beginPath();x.moveTo(c-9,c-15);x.lineTo(c+13,c-9);x.lineTo(c-9,c-2);x.closePath();fillStroke(2);}
+  return x.getImageData(0,0,S,S);
+}
+function addIcons(){for(const k in SIDECOL)for(const cat of CATS){const id=cat+"-"+k;if(!map.hasImage(id))map.addImage(id,drawIcon(cat,SIDECOL[k]),{pixelRatio:2});}
+  if(!map.hasImage("bh"))map.addImage("bh",drawIcon("blockhouse","#8a6d3b"),{pixelRatio:2});}
+
+// Filter is organised by regiment/commando (selUnits) -> squadron/sub (selRegs).
+// featRegs[id] = [[regiment, squadron], ...] for that row, from the builder's `groups`.
+function _pairsRegiment(p){return p.groups||[];}            // [regiment, squadron]
+function _pairsColumn(p){                                    // [column, regiment]
+  const col=p.unit, regs=[...new Set((p.groups||[]).map(g=>g[0]))];
+  if(regs.length===0||(regs.length===1&&regs[0]===col)) return [[col,""]];
+  return regs.map(r=>[col,r]);
+}
+function _buildMode(gj,pairFn){
+  const feat={},bySide={},subs={};
+  for(const f of gj.features){const p=f.properties; if(p.kind!=="event"||!p.groups)continue;
+    const pairs=pairFn(p); feat[p.id]=pairs;
+    for(const pr of pairs){const top=pr[0],sub=pr[1];
+      (bySide[p.side]=bySide[p.side]||new Set()).add(top);
+      (subs[top]=subs[top]||new Set()); if(sub)subs[top].add(sub);}
+  }
+  return {feat,bySide,subs};
+}
+function buildFilter(gj){
+  FEATS=gj.features;
+  MODES.regiment=_buildMode(gj,_pairsRegiment);
+  MODES.column=_buildMode(gj,_pairsColumn);
+  applyGrouping(curMode);
+}
+function applyGrouping(mode){
+  curMode=mode; const M=MODES[mode];
+  featRegs=M.feat; selUnits=new Set(); unitRegs={}; selRegs={};
+  for(const t in M.subs){unitRegs[t]=[...M.subs[t]].sort(); selRegs[t]=new Set(unitRegs[t]);}
+  let html="";
+  for(const side of ["British","Boer"]){
+    if(!M.bySide[side])continue;
+    html+=`<div class="uside">${side}</div>`;
+    [...M.bySide[side]].sort().forEach(top=>{selUnits.add(top);
+      const te=top.replace(/"/g,"&quot;");
+        html+=`<div class="uitem-row"><label class="uitem"><input type="checkbox" class="uchk" checked data-u="${te}"><span class="udot ${side==="British"?"uB":"ub"}"></span><b>${top}</b></label><button class="solo-btn" data-u="${te}" title="Show only this unit">solo</button><button class="dl-btn" data-u="${te}" title="Download CSV for QA">⬇</button></div>`;
+      (unitRegs[top]||[]).forEach(s=>{const se=s.replace(/"/g,"&quot;");
+        html+=`<label class="ritem"><input type="checkbox" class="rchk" checked data-u="${te}" data-r="${se}">${s}</label>`;});
+    });
+  }
+  $("ulist").innerHTML=html;
+  $("ulist").querySelectorAll(".uchk").forEach(cb=>cb.onchange=()=>{
+    const u=cb.dataset.u; cb.checked?selUnits.add(u):selUnits.delete(u);
+    $("ulist").querySelectorAll(".rchk").forEach(rc=>{if(rc.dataset.u===u){rc.checked=cb.checked; cb.checked?selRegs[u].add(rc.dataset.r):selRegs[u].delete(rc.dataset.r);}});
+    applyFilter();});
+  $("ulist").querySelectorAll(".rchk").forEach(cb=>cb.onchange=()=>{
+    const u=cb.dataset.u; cb.checked?selRegs[u].add(cb.dataset.r):selRegs[u].delete(cb.dataset.r);
+    applyFilter();});
+  $("ulist").querySelectorAll(".solo-btn").forEach(btn=>btn.onclick=()=>{
+    const u=btn.dataset.u;
+    $("ulist").querySelectorAll(".uchk").forEach(cb=>{cb.checked=(cb.dataset.u===u); cb.checked?selUnits.add(cb.dataset.u):selUnits.delete(cb.dataset.u);});
+    $("ulist").querySelectorAll(".rchk").forEach(cb=>{cb.checked=(cb.dataset.u===u); const uu=cb.dataset.u; if(cb.checked){if(!selRegs[uu])selRegs[uu]=new Set(); selRegs[uu].add(cb.dataset.r);}else if(selRegs[uu])selRegs[uu].delete(cb.dataset.r);});
+    applyFilter();});
+  $("ulist").querySelectorAll(".dl-btn").forEach(btn=>btn.onclick=()=>downloadUnit(btn.dataset.u));
+  if($("byReg"))$("byReg").classList.toggle("on",mode==="regiment");
+  if($("byCol"))$("byCol").classList.toggle("on",mode==="column");
+  applyFilter();
+}
+function setAll(on){
+  selUnits=new Set();
+  $("ulist").querySelectorAll(".uchk").forEach(cb=>{cb.checked=on; if(on)selUnits.add(cb.dataset.u);});
+  $("ulist").querySelectorAll(".rchk").forEach(cb=>{cb.checked=on; const u=cb.dataset.u; if(on)selRegs[u].add(cb.dataset.r); else if(selRegs[u])selRegs[u].delete(cb.dataset.r);});
+  applyFilter();
+}
+function visibleIds(){
+  const ids=[];
+  for(const id in featRegs){
+    for(const g of featRegs[id]){const reg=g[0],sub=g[1];
+      if(!selUnits.has(reg))continue;
+      const real=unitRegs[reg]||[];
+      if(real.length===0||sub===""||(selRegs[reg]&&selRegs[reg].has(sub))){ids.push(id);break;}
+    }
+  }
+  return ids;
+}
+function applyFilter(){
+  const df=["<=",["coalesce",["get","date_start"],"9999"],curDate];
+  const ids=["in",["get","id"],["literal",visibleIds()]];
+  const etArr=[...selETypes];
+  const etf=etArr.length===0?["==","1","0"]:["in",["get","event_type"],["literal",etArr]];
+  const byEvent=["all",["==",["get","kind"],"event"],df,ids,etf];
+  const byMove=k=>["all",["==",["get","kind"],k],df,ids];  // moves follow unit filter only, not event-type
+  if(map.getLayer("pts"))map.setFilter("pts",byEvent);
+  // update cluster source with filtered point IDs
+  if(map.getSource("ev-cluster")){
+    const visIds=new Set(visibleIds());
+    const cutoff=curDate;
+    const filtered={type:"FeatureCollection",features:_clusterFeats.filter(f=>{
+      const p=f.properties;
+      return visIds.has(p.id)&&(p.date_start||"")<="9999"&&(p.date_start||"")<=cutoff&&selETypes.has(p.event_type||"deployment");
+    })};
+    map.getSource("ev-cluster").setData(filtered);
+  }
+  for(const l of ["moves","move-arrows"]) if(map.getLayer(l)) map.setFilter(l,byMove("move"));
+  for(const l of ["routes","route-arrows"]) if(map.getLayer(l)) map.setFilter(l,byMove("route"));
+  $("date").textContent=curDate;
+}
+let _clusterFeats=[];
+async function init(){
+  const gj=await (await fetch("data/events.geojson")).json();
+  DATES=[...new Set(gj.features.map(f=>f.properties.date_start).filter(Boolean))].sort();
+  curDate=DATES[DATES.length-1];
+  $("slider").max=DATES.length-1; $("slider").value=DATES.length-1;
+  buildFilter(gj);
+  buildSearchIndex(gj);
+  $("searchinput").oninput=e=>doSearch(e.target.value.trim());
+  $("searchclear").onclick=()=>{$("searchinput").value="";$("searchresults").style.display="none";};
+  document.addEventListener("click",e=>{if(!e.target.closest("#searchbox"))$("searchresults").style.display="none";});
+  // historical 1900 map overlay (corner-pinned, approximate; off by default)
+  try{
+    map.addSource("hist",{type:"image",
+      url:"https://upload.wikimedia.org/wikipedia/commons/e/e6/South_Africa_and_the_Transvaal_War_(1900)_(14786161043).jpg",
+      coordinates:[[15.5,-21.6],[33.6,-21.6],[33.6,-35.0],[15.5,-35.0]]});
+    map.addLayer({id:"hist-layer",type:"raster",source:"hist",layout:{visibility:"none"},paint:{"raster-opacity":0.6}});
+  }catch(err){}
+  // QSA clasp overlay (separate source, off by default, drawn under the movement layers)
+  try{
+    const qsa=await (await fetch("data/qsa.geojson")).json();
+    map.addSource("qsa",{type:"geojson",data:qsa});
+    map.addLayer({id:"qsa-fill",type:"fill",source:"qsa",filter:["in",["get","qtype"],["literal",["state","area"]]],
+      layout:{visibility:"none"},paint:{"fill-color":["coalesce",["get","color"],"#888"],"fill-opacity":0.12}});
+    map.addLayer({id:"qsa-line",type:"line",source:"qsa",filter:["in",["get","qtype"],["literal",["state","area"]]],
+      layout:{visibility:"none"},paint:{"line-color":["coalesce",["get","color"],"#888"],"line-width":1.5,"line-opacity":0.6,"line-dasharray":[3,2]}});
+    map.addLayer({id:"qsa-pts",type:"circle",source:"qsa",filter:["==",["get","qtype"],"battle"],
+      layout:{visibility:"none"},paint:{"circle-radius":["interpolate",["linear"],["zoom"],4,4,8,6],
+      "circle-color":"#ffd27f","circle-stroke-color":"#7a5b1e","circle-stroke-width":2,"circle-opacity":0.95}});
+    map.on("click","qsa-pts",e=>{const p=e.features[0].properties;
+      new maplibregl.Popup({maxWidth:"240px"}).setLngLat(e.features[0].geometry.coordinates)
+        .setHTML(`<div style="color:#111"><b>${p.clasp}</b> — QSA battle clasp<br><span style="color:#555">${p.dates}</span></div>`).addTo(map);});
+    map.on("click","qsa-fill",e=>{const p=e.features[0].properties;
+      new maplibregl.Popup({maxWidth:"240px"}).setLngLat(e.lngLat)
+        .setHTML(`<div style="color:#111"><b>${p.clasp}</b> — QSA ${p.kind_clasp}<br><span style="color:#555">${p.dates}</span><br><span style="color:#777;font-size:11px">qualifying area (approximate)</span></div>`).addTo(map);});
+  }catch(err){}
+  map.addSource("ev",{type:"geojson",data:gj});
+  addIcons();
+  // national blockhouse network (separate source, under the movement layers)
+  try{
+    const bh=await (await fetch("data/blockhouses.geojson")).json();
+    map.addSource("bh",{type:"geojson",data:bh});
+    map.addLayer({id:"bh-line",type:"line",source:"bh",
+      paint:{"line-color":"#b08d57","line-width":["interpolate",["linear"],["zoom"],4,1.2,9,2.2],"line-opacity":0.85,"line-dasharray":[1,1.6]}});
+    map.addLayer({id:"bh-forts",type:"symbol",source:"bh",
+      layout:{"symbol-placement":"line","symbol-spacing":34,"icon-image":"bh",
+        "icon-size":["interpolate",["linear"],["zoom"],4,0.3,9,0.5],"icon-allow-overlap":true,"icon-ignore-placement":true},
+      paint:{"icon-opacity":0.9}});
+    map.on("click","bh-line",e=>{const p=e.features[0].properties;
+      new maplibregl.Popup({maxWidth:"260px"}).setLngLat(e.lngLat)
+        .setHTML(`<div style="color:#111"><b>Blockhouse line</b> — ${p.front}<br>${p.name}<br><span style="color:#777;font-size:11px">${p.dates}</span></div>`).addTo(map);});
+  }catch(err){}
+  const arrowImg=["concat","arrow-",["match",["get","side"],"British","B","b"]];
+  map.addLayer({id:"routes",type:"line",source:"ev",filter:["==",["get","kind"],"route"],
+    layout:{"line-cap":"round","line-join":"round"},
+    paint:{"line-color":sideColor,"line-width":["interpolate",["linear"],["zoom"],5,2.5,9,4],
+      "line-opacity":0.45}});
+  map.addLayer({id:"moves",type:"line",source:"ev",filter:["==",["get","kind"],"move"],
+    paint:{"line-color":sideColor,"line-width":2.2,"line-opacity":0.8,"line-dasharray":[2,1.5]}});
+  map.addLayer({id:"route-arrows",type:"symbol",source:"ev",filter:["==",["get","kind"],"route"],
+    layout:{"symbol-placement":"line","symbol-spacing":110,"icon-image":arrowImg,
+      "icon-size":["interpolate",["linear"],["zoom"],5,0.4,9,0.7],
+      "icon-rotation-alignment":"map","icon-allow-overlap":true,"icon-ignore-placement":true},
+    paint:{"icon-opacity":0.8}});
+  map.addLayer({id:"move-arrows",type:"symbol",source:"ev",filter:["==",["get","kind"],"move"],
+    layout:{"symbol-placement":"line","symbol-spacing":75,"icon-image":arrowImg,
+      "icon-size":["interpolate",["linear"],["zoom"],5,0.45,9,0.78],
+      "icon-rotation-alignment":"map","icon-allow-overlap":true,"icon-ignore-placement":true},
+    paint:{"icon-opacity":0.95}});
+  map.addLayer({id:"pts",type:"symbol",source:"ev",filter:["==",["get","kind"],"event"],
+    layout:{
+      "icon-image":["concat",["coalesce",["get","category"],"battle"],"-",["match",["get","side"],"British","B","b"]],
+      "icon-size":["interpolate",["linear"],["zoom"],5,["case",["get","major"],0.8,0.5],9,["case",["get","major"],1.3,0.85]],
+      "icon-allow-overlap":true,"icon-ignore-placement":true},
+    paint:{"icon-opacity":["match",["get","confidence"],"high",1,"medium",0.8,"low",0.55,0.85]}});
+  // always-on gold labels for the major set-piece battles
+  gj.features.filter(f=>f.properties.major&&f.geometry.type==="Point").forEach(f=>{
+    const el=document.createElement("div"); el.className="blabel"; el.textContent=f.properties.major_label;
+    new maplibregl.Marker({element:el,anchor:"left"}).setLngLat(f.geometry.coordinates).addTo(map);
+  });
+  // fit to all event points (national view — all fronts)
+  const e=gj.features.filter(f=>f.geometry.type==="Point"&&f.properties.kind==="event");
+  const b=new maplibregl.LngLatBounds();
+  e.forEach(f=>b.extend(f.geometry.coordinates));
+  map.fitBounds(b,{padding:40,maxZoom:7});
+
+  // --- clustering: separate source of points only, shown at low zoom ---
+  _clusterFeats=gj.features.filter(f=>f.geometry.type==="Point"&&f.properties.kind==="event");
+  const clusterGJ={type:"FeatureCollection",features:_clusterFeats};
+  map.addSource("ev-cluster",{type:"geojson",data:clusterGJ,cluster:true,clusterMaxZoom:7,clusterRadius:45});
+  map.addLayer({id:"clusters",type:"circle",source:"ev-cluster",
+    filter:["has","point_count"],
+    paint:{"circle-color":["step",["get","point_count"],"#2563eb",10,"#7c3aed",50,"#dc2626"],
+      "circle-radius":["step",["get","point_count"],14,10,20,50,26],
+      "circle-opacity":["interpolate",["linear"],["zoom"],6,0.85,7.5,0]},
+    layout:{visibility:"visible"}});
+  // cluster count text drawn via canvas icons to avoid glyphs dependency
+  function _clusterIcon(n){
+    const S=56,cv=document.createElement("canvas");cv.width=S;cv.height=S;
+    const x=cv.getContext("2d"),c=S/2;
+    const col=n>=50?"#dc2626":n>=10?"#7c3aed":"#2563eb";
+    const r=n>=50?24:n>=10?18:12;
+    x.beginPath();x.arc(c,c,r,0,7);x.fillStyle=col;x.fill();
+    x.fillStyle="#fff";x.font=`bold ${n>=100?13:14}px system-ui`;x.textAlign="center";x.textBaseline="middle";
+    x.fillText(String(n),c,c+1);
+    return map.hasImage("cl"+n)?null:x.getImageData(0,0,S,S);
+  }
+  // pre-render common counts; update dynamically on clusterrender
+  const _clusterIconCache=new Set();
+  map.on("data",e=>{
+    if(e.sourceId!=="ev-cluster"||!e.isSourceLoaded)return;
+    map.querySourceFeatures("ev-cluster",{filter:["has","point_count"]}).forEach(f=>{
+      const n=f.properties.point_count;
+      if(_clusterIconCache.has(n))return;
+      _clusterIconCache.add(n);
+      const img=_clusterIcon(n);
+      if(img&&!map.hasImage("cl"+n))map.addImage("cl"+n,img,{pixelRatio:2});
+    });
+  });
+  // hide pts symbol layer at very low zoom (clusters take over)
+  map.addLayer({id:"pts-zoom-ctrl",type:"circle",source:"ev-cluster",
+    filter:["!",["has","point_count"]],
+    paint:{"circle-radius":0,"circle-opacity":0}});
+  map.on("click","clusters",e=>{
+    const f=map.queryRenderedFeatures(e.point,{layers:["clusters"]});
+    if(!f.length)return;
+    map.getSource("ev-cluster").getClusterExpansionZoom(f[0].properties.cluster_id,(err,zoom)=>{
+      if(err)return;
+      map.easeTo({center:f[0].geometry.coordinates,zoom:zoom+0.5});
+    });
+  });
+  map.on("mouseenter","clusters",()=>map.getCanvas().style.cursor="pointer");
+  map.on("mouseleave","clusters",()=>map.getCanvas().style.cursor="");
+
+  // --- phase quick-jump buttons ---
+  document.querySelectorAll(".pbtn").forEach(btn=>{
+    btn.onclick=()=>{
+      document.querySelectorAll(".pbtn").forEach(b=>b.style.borderColor="");
+      btn.style.borderColor="#67e8f9";
+      const to=btn.dataset.to;
+      const idx=DATES.findIndex(d=>d>=to);
+      const i=idx<0?DATES.length-1:Math.min(idx,DATES.length-1);
+      $("slider").value=i; curDate=DATES[i]; setActive(""); applyFilter();
+    };
+  });
+
+  // --- event type filter buttons ---
+  document.querySelectorAll(".ebtn").forEach(btn=>{
+    btn.onclick=()=>{
+      const et=btn.dataset.et;
+      if(selETypes.has(et)){selETypes.delete(et);btn.classList.remove("on");}
+      else{selETypes.add(et);btn.classList.add("on");}
+      // sync all mapped event types that aren't shown as buttons
+      ["garrison","capture","execution","logistics","command"].forEach(t=>{
+        if(selETypes.has("deployment"))selETypes.add(t); else selETypes.delete(t);
+      });
+      applyFilter();
+    };
+  });
+
+  // ── Popup builder ──────────────────────────────────────────────────────────
+  const ET_ICON={engagement:"⚔",defeat:"⚔",battle:"⚔",raid:"⚡",advance:"→",movement:"→",
+    move:"→",siege:"🏰",capture:"🏳",surrender:"🏳",retreat:"←",pursuit:"→",drive:"→",
+    skirmish:"⚔",garrison:"🛡",execution:"✕",disembark:"⚓",rail_move:"🚂",redeployment:"↔",
+    occupation:"🏳",command:"⛳"};
+  function fmtDate(s,e){if(!s)return"";if(e&&e!==s){const a=s.replace(/-/g," "),b=e.replace(/-/g," ");return`${a} → ${b}`;}return s.replace(/-/g," ");}
+  function fmtSource(src){if(!src)return"";
+    // linkify Conan Doyle chapter refs
+    return src.replace(/(Conan Doyle ch\.([\w]+))/g,'<a href="https://www.gutenberg.org/files/3069/3069-h/3069-h.htm" target="_blank">$1</a>');
+  }
+  function buildPopup(p){
+    const icon=ET_ICON[p.event_type]||"•";
+    const badge=`<span class="pw-badge${p.side==="Boer"?" boer":""}">${p.side}</span>`;
+    const etLabel=`<span class="pw-badge" style="background:#f3f4f6;color:#374151">${icon} ${(p.event_type||"").replace(/_/g," ")}</span>`;
+    const confDot=p.confidence==="high"?"🟢":p.confidence==="medium"?"🟡":"🔴";
+    const d=fmtDate(p.date_start,p.date_end);
+    const cmd=p.commander?`<span style="color:#374151">⚑ ${p.commander}</span>`:"";
+    const reg=(p.regiments&&!/^(Boer commando|~)/.test(p.regiments))?`<div class="pw-units"><b>Units:</b> ${p.regiments}</div>`:"";
+    const src=p.source?`<span>${confDot} ${p.confidence} · ${fmtSource(p.source)}</span>`:`<span>${confDot} ${p.confidence}</span>`;
+    const isMoveType=["movement","advance","retreat","raid","pursuit","drive","redeployment","rail_move","disembark"].includes(p.event_type);
+    const route=(isMoveType&&p.from_place&&p.to_place&&p.from_place!==p.to_place)?
+      `<div class="pw-units" style="color:#374151">📍 ${p.from_place} → ${p.to_place}</div>`:"";
+    const noteHtml=p.note?`<div style="font-size:10px;color:#9fb0c3;margin-top:3px;font-style:italic">${p.note}</div>`:"";
+    return `<div class="pw-head">${p.force}</div>
+<div class="pw-meta">${badge}${etLabel}${cmd}<span style="color:#6b7280">${d}</span></div>
+<div class="pw-desc">${p.description||""}</div>${route}${reg}${noteHtml}
+<div class="pw-foot">${src}<span>📍 ${p.place||""}</span></div>`;
+  }
+  map.on("click","pts",e=>{
+    const p=e.features[0].properties;
+    new maplibregl.Popup({maxWidth:"310px"}).setLngLat(e.features[0].geometry.coordinates)
+      .setHTML(buildPopup(p)).addTo(map);
+  });
+  map.on("mouseenter","pts",()=>map.getCanvas().style.cursor="pointer");
+  map.on("mouseleave","pts",()=>map.getCanvas().style.cursor="");
+  map.on("click","routes",e=>{
+    const p=e.features[0].properties;
+    new maplibregl.Popup({maxWidth:"310px"}).setLngLat(e.lngLat).setHTML(buildPopup(p)).addTo(map);
+  });
+  map.on("click","moves",e=>{
+    const p=e.features[0].properties;
+    new maplibregl.Popup({maxWidth:"310px"}).setLngLat(e.lngLat).setHTML(buildPopup(p)).addTo(map);
+  });
+  map.on("mouseenter","moves",()=>map.getCanvas().style.cursor="pointer");
+  map.on("mouseleave","moves",()=>map.getCanvas().style.cursor="");
+  map.on("mouseenter","routes",()=>map.getCanvas().style.cursor="pointer");
+  map.on("mouseleave","routes",()=>map.getCanvas().style.cursor="");
+  $("slider").oninput=e=>{curDate=DATES[+e.target.value];setActive("");applyFilter();};
+  $("all").onclick=()=>{$("slider").value=DATES.length-1;curDate=DATES[DATES.length-1];setActive("all");applyFilter();};
+  $("play").onclick=togglePlay;
+  $("unitbtn").onclick=()=>$("units").classList.toggle("show");
+  if($("regsearch"))$("regsearch").oninput=e=>{
+    const q=e.target.value.toLowerCase();
+    $("ulist").querySelectorAll(".uitem-row,.ritem,.uside").forEach(el=>{
+      if(!q){el.style.display="";return;}
+      const txt=(el.querySelector("b")||el).textContent.toLowerCase();
+      el.style.display=txt.includes(q)?"":"none";
+    });
+  };
+  $("uall").onclick=()=>setAll(true);
+  $("unone").onclick=()=>setAll(false);
+  $("byReg").onclick=()=>applyGrouping("regiment");
+  $("byCol").onclick=()=>applyGrouping("column");
+  // Side quick-filter buttons
+  function setSide(side){
+    const M=MODES[curMode];
+    $("ulist").querySelectorAll(".uchk").forEach(cb=>{
+      const inSide=!!(M.bySide[side]&&M.bySide[side].has(cb.dataset.u));
+      cb.checked=(side==="All")||inSide;
+      cb.checked?selUnits.add(cb.dataset.u):selUnits.delete(cb.dataset.u);
+    });
+    $("ulist").querySelectorAll(".rchk").forEach(cb=>{
+      const u=cb.dataset.u;
+      const inSide=!!(M.bySide[side]&&M.bySide[side].has(u));
+      cb.checked=(side==="All")||inSide;
+      if(cb.checked){if(!selRegs[u])selRegs[u]=new Set(); selRegs[u].add(cb.dataset.r);}
+      else if(selRegs[u]) selRegs[u].delete(cb.dataset.r);
+    });
+    document.querySelectorAll(".side-btn").forEach(b=>b.classList.remove("on"));
+    if(side==="British") $("sideBritish").classList.add("on");
+    else if(side==="Boer") $("sideBoer").classList.add("on");
+    else $("sideAll").classList.add("on");
+    applyFilter();
+  }
+  $("sideAll").onclick=()=>setSide("All");
+  $("sideBritish").onclick=()=>setSide("British");
+  $("sideBoer").onclick=()=>setSide("Boer");
+  $("sideAll").classList.add("on");
+  $("dlsel-btn").onclick=()=>downloadSelected();
+  // show the "download selected" button whenever the unit panel is open and has a selection
+  const _origApply=applyFilter;
+  applyFilter=function(){_origApply();
+    const n=selUnits.size;
+    $("dlsel-btn").style.display=(n>0&&n<[...Object.keys(MODES[curMode]?.feat||{})].length)?"block":"none";
+  };
+  // Theater quick-zoom buttons
+  document.querySelectorAll(".tbtn").forEach(btn=>{
+    btn.onclick=()=>map.flyTo({center:[+btn.dataset.lng,+btn.dataset.lat],zoom:+btn.dataset.zoom,duration:900});
+  });
+  $("qsabtn").onclick=()=>{
+    if(!map.getLayer("qsa-fill"))return;
+    const on=map.getLayoutProperty("qsa-fill","visibility")!=="visible";
+    ["qsa-fill","qsa-line","qsa-pts"].forEach(l=>map.setLayoutProperty(l,"visibility",on?"visible":"none"));
+    $("qsabtn").classList.toggle("on",on);
+  };
+  $("histchk").onchange=e=>{if(map.getLayer("hist-layer"))map.setLayoutProperty("hist-layer","visibility",e.target.checked?"visible":"none");};
+  $("histop").oninput=e=>{if(map.getLayer("hist-layer"))map.setPaintProperty("hist-layer","raster-opacity",+e.target.value/100);};
+  $("bhbtn").classList.add("on");  // blockhouses on by default
+  $("bhbtn").onclick=()=>{
+    if(!map.getLayer("bh-line"))return;
+    const on=map.getLayoutProperty("bh-line","visibility")==="none";
+    ["bh-line","bh-forts"].forEach(l=>map.setLayoutProperty(l,"visibility",on?"visible":"none"));
+    $("bhbtn").classList.toggle("on",on);
+  };
+  applyFilter();
+}
+function setActive(which){$("all").classList.toggle("active",which==="all");}
+
+// ── Battle toast (shown when play hits a major battle) ─────────────────────
+const MAJOR_DATES={
+  "1899-10-20":"⚔ Talana Hill","1899-10-21":"⚔ Elandslaagte",
+  "1899-11-23":"⚔ Belmont","1899-11-28":"⚔ Modder River",
+  "1899-12-10":"⚔ Stormberg","1899-12-11":"⚔ Magersfontein","1899-12-15":"⚔ Colenso",
+  "1900-01-24":"⚔ Spion Kop","1900-02-15":"🏇 Kimberley relieved",
+  "1900-02-18":"⚔ Paardeberg begins","1900-02-27":"🏳 Cronjé surrenders",
+  "1900-02-28":"🏆 Ladysmith relieved","1900-03-13":"🏛 Bloemfontein falls",
+  "1900-03-31":"⚡ Sannaspos — De Wet strikes","1900-05-17":"🏆 Mafeking relieved",
+  "1900-06-05":"🏛 Pretoria falls","1900-08-27":"⚔ Bergendal — last battle",
+  "1900-12-13":"⚡ Nooitgedacht — Clements ambushed","1901-09-17":"⚡ Elands River Poort",
+  "1902-03-07":"⚡ Tweebosch — Methuen captured","1902-04-11":"🏇 Rooiwal — last charge",
+  "1902-05-31":"✌ Peace of Vereeniging"
+};
+let _toastTimer=null;
+function showBattleToast(label){
+  const t=$("battletoast"); t.textContent=label;
+  t.classList.remove("show"); void t.offsetWidth; t.classList.add("show");
+  if(_toastTimer)clearTimeout(_toastTimer);
+  _toastTimer=setTimeout(()=>t.classList.remove("show"),2600);
+}
+
+function togglePlay(){
+  if(playing){clearInterval(playing);playing=null;$("play").textContent="▶ Play";return;}
+  const n=DATES.length; if(!n)return;
+  $("play").textContent="⏸ Pause";setActive("");
+  const step=Math.max(1,Math.ceil(n/140));
+  let i=+$("slider").value; if(i>=n-1)i=0;
+  let pausedUntil=0;
+  playing=setInterval(()=>{
+    if(Date.now()<pausedUntil)return;
+    if(i>=n){clearInterval(playing);playing=null;$("play").textContent="▶ Play";
+      $("slider").value=n-1;curDate=DATES[n-1];applyFilter();return;}
+    $("slider").value=i;curDate=DATES[i];applyFilter();
+    const label=MAJOR_DATES[curDate];
+    if(label){showBattleToast(label);pausedUntil=Date.now()+2200;}
+    i+=step;
+  },100);
+}
+
+// ── Search ──────────────────────────────────────────────────────────────────
+let _searchIndex=[];
+function buildSearchIndex(gj){
+  _searchIndex=gj.features
+    .filter(f=>f.geometry.type==="Point"&&f.properties.kind==="event")
+    .map(f=>{const p=f.properties;
+      return {id:p.id,label:p.force,sub:`${p.event_type} · ${p.place||""} · ${p.date_start||""}`,
+              commander:p.commander||"",desc:(p.description||"").slice(0,80),
+              coords:f.geometry.coordinates};
+    });
+}
+function doSearch(q){
+  const sr=$("searchresults"); if(!q){sr.style.display="none";return;}
+  const ql=q.toLowerCase();
+  const hits=_searchIndex.filter(r=>
+    r.label.toLowerCase().includes(ql)||
+    r.commander.toLowerCase().includes(ql)||
+    r.sub.toLowerCase().includes(ql)||
+    r.desc.toLowerCase().includes(ql)
+  ).slice(0,12);
+  if(!hits.length){sr.style.display="none";return;}
+  sr.innerHTML=hits.map(h=>`<div class="sresult" data-id="${h.id}" data-lng="${h.coords[0]}" data-lat="${h.coords[1]}">
+    <b>${h.label}</b><span>${h.sub}</span></div>`).join("");
+  sr.style.display="block";
+  sr.querySelectorAll(".sresult").forEach(el=>{
+    el.onclick=()=>{
+      map.flyTo({center:[+el.dataset.lng,+el.dataset.lat],zoom:Math.max(map.getZoom(),8),duration:800});
+      sr.style.display="none"; $("searchinput").value=el.querySelector("b").textContent;
+    };
+  });
+}
+// ── Unit CSV download ────────────────────────────────────────────────────────
+const CSV_COLS=["id","date_start","date_end","event_type","place","from_place","to_place",
+                "force","commander","regiments","description","confidence","source","note"];
+function csvCell(v){
+  const s=String(v==null?"":v);
+  return (s.includes(",")||s.includes('"')||s.includes("\n"))?`"${s.replace(/"/g,'""')}"`  :s;
+}
+function eventsForUnit(unitName){
+  return FEATS
+    .filter(f=>{
+      if(f.properties.kind!=="event")return false;
+      const pairs=featRegs[f.properties.id]||[];
+      return pairs.some(p=>p[0]===unitName);
+    })
+    .sort((a,b)=>(a.properties.date_start||"").localeCompare(b.properties.date_start||""));
+}
+function buildCSV(events,unitName){
+  const header=["unit_filter",...CSV_COLS];
+  const rows=[header.join(",")];
+  for(const f of events){
+    const p=f.properties;
+    rows.push([csvCell(unitName),...CSV_COLS.map(c=>csvCell(p[c]))].join(","));
+  }
+  return rows.join("\n");
+}
+function triggerDownload(csv,filename){
+  const blob=new Blob([csv],{type:"text/csv;charset=utf-8;"});
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement("a");
+  a.href=url; a.download=filename; a.click();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+function downloadUnit(unitName){
+  const events=eventsForUnit(unitName);
+  if(!events.length){alert("No events found for: "+unitName);return;}
+  const fname=unitName.replace(/[^a-z0-9]+/gi,"_").replace(/^_|_$/g,"")+"_events.csv";
+  triggerDownload(buildCSV(events,unitName),fname);
+}
+function downloadSelected(){
+  const units=[...selUnits];
+  if(!units.length){alert("No units selected.");return;}
+  const allEvents=[];
+  const seen=new Set();
+  for(const u of units.sort()){
+    for(const f of eventsForUnit(u)){
+      const key=u+"|"+f.properties.id;
+      if(!seen.has(key)){seen.add(key);allEvents.push([u,f]);}
+    }
+  }
+  if(!allEvents.length){alert("No events found for selected units.");return;}
+  const header=["unit_filter",...CSV_COLS];
+  const rows=[header.join(",")];
+  for(const [u,f] of allEvents){
+    const p=f.properties;
+    rows.push([csvCell(u),...CSV_COLS.map(c=>csvCell(p[c]))].join(","));
+  }
+  triggerDownload(rows.join("\n"),"boerwar_selected_units.csv");
+}
+
+map.on("load",init);
+</script>
+</body>
+</html>

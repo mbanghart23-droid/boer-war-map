@@ -1,0 +1,4770 @@
+[
+ {
+  "unit": "10th (Prince of Wales's Own Royal) Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "11th (Prince Albert's Own) Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "12th (Prince of Wales's Royal) Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "13th Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "14th (King's) Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "15th (The King's) Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "16th (Queen's) Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "17th (Duke of Cambridge's Own) Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape/Transvaal"
+ },
+ {
+  "unit": "18th Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "19th (Princess of Wales's Own) Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "1st (King's) Dragoon Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "1st (Royal) Dragoons",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "20th Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "21st Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "2nd (Queen's Bays) Dragoon Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "2nd (Royal Scots Greys) Dragoons",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "3rd (Prince of Wales's) Dragoon Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "3rd Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "4th (Royal Irish) Dragoon Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "4th (The Queen's Own) Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "5th (Princess Charlotte of Wales's) Dragoon Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "5th (Royal Irish) Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Natal"
+ },
+ {
+  "unit": "6th (Inniskilling) Dragoons",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "6th Dragoon Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "7th (Princess Royal's) Dragoon Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "7th (Queen's Own) Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "8th (King's Royal Irish) Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "9th (Queen's Royal) Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape/OFS"
+ },
+ {
+  "unit": "Life Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Horse Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "Argyll and Sutherland Highlanders",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Bedfordshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Black Watch",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Border Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Cameron Highlanders",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Cameronians (Scottish Rifles)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Cheshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "City Imperial Volunteers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS/Transvaal"
+ },
+ {
+  "unit": "Coldstream Guards",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape/OFS"
+ },
+ {
+  "unit": "Connaught Rangers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Derbyshire Regiment (Sherwood Foresters)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Devonshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Dorsetshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Duke of Cornwall's Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Durham Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "East Kent Regiment (Buffs)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "East Lancashire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "East Surrey Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "East Yorkshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Essex Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Gloucestershire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Gordon Highlanders",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Grenadier Guards",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape/OFS"
+ },
+ {
+  "unit": "Hampshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Highland Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Irish Guards",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "King's Own Scottish Borderers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "King's Royal Rifle Corps",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Lancashire Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Leicestershire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Leinster Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Lincolnshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Liverpool Regiment (King's)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Loyal North Lancashire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Manchester Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Middlesex Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Norfolk Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "North Staffordshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Northamptonshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Northumberland Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Oxford Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Rifle Brigade",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Berkshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Dublin Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Inniskilling Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Irish Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Irish Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Irish Rifles",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Lancaster Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Munster Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Scots",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Royal Scots Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Royal Sussex Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Warwickshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Welsh Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Royal West Kent Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal West Surrey Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Scots Guards",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape/OFS"
+ },
+ {
+  "unit": "Seaforth Highlanders",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Shropshire Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Somerset Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "South Lancashire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "South Staffordshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "South Wales Borderers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Suffolk Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Welsh Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "West Riding Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "West Yorkshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Wiltshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Worcestershire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "York and Lancaster Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Yorkshire Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Yorkshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Army Chaplains Department",
+  "side": "British",
+  "type": "support",
+  "theater": "All"
+ },
+ {
+  "unit": "Army Ordnance Department",
+  "side": "British",
+  "type": "support",
+  "theater": "All"
+ },
+ {
+  "unit": "Army Pay Corps",
+  "side": "British",
+  "type": "support",
+  "theater": "All"
+ },
+ {
+  "unit": "Army Post Office Corps",
+  "side": "British",
+  "type": "support",
+  "theater": "All"
+ },
+ {
+  "unit": "Army Service Corps",
+  "side": "British",
+  "type": "support",
+  "theater": "All"
+ },
+ {
+  "unit": "Army Veterinary Corps",
+  "side": "British",
+  "type": "support",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Army Medical Corps",
+  "side": "British",
+  "type": "support",
+  "theater": "All"
+ },
+ {
+  "unit": "Military Foot Police",
+  "side": "British",
+  "type": "support",
+  "theater": "All"
+ },
+ {
+  "unit": "Military Mounted Police",
+  "side": "British",
+  "type": "support",
+  "theater": "All"
+ },
+ {
+  "unit": "Militia",
+  "side": "British",
+  "type": "garrison",
+  "theater": "All"
+ },
+ {
+  "unit": "Lovat's Scouts",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Cape"
+ },
+ {
+  "unit": "Scottish Cyclist Company",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All"
+ },
+ {
+  "unit": "Elswick Battery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal"
+ },
+ {
+  "unit": "Royal Garrison Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Regiment of Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Engineers",
+  "side": "British",
+  "type": "engineers",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Horse Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "All"
+ },
+ {
+  "unit": "1st Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "2nd Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "3rd Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "4th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "5th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "6th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "7th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "8th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "9th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "10th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "11th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "12th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "13th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "15th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "17th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "18th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "19th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "20th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "21st Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "22nd Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "23rd Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "24th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "25th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "26th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "27th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "28th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "29th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "30th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "31st Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "32nd Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "33rd Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "34th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "35th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "36th Btn Imperial Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "Imperial Yeomanry Hospital",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All"
+ },
+ {
+  "unit": "Bethlehem Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Bethulie Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Bloemfontein Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Boshof Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Bothaville Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Brandfort Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Edenburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Fauresmith Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Ficksburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Frankfort Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Heilbron Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Hoopstad Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Jacobsdal Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Kroonstad Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Ladybrand Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Lindley Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Parys Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Philippolis Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Rouxville Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Senekal Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Smithfield Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Thaba Nchu Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Ventersburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Vrede Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Vredefort Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Wepener Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Winburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Bethal Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Bloemhof Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Boksburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Carolina Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Christiana Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Elandsrivier Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Ermelo Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Fordsburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Gatsrand Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Germiston Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Heidelberg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Jeppestown Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Johannesburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Klerksdorp Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Krugersdorp Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Lichtenburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Lydenburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Marico Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Middelburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Piet Retief Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Potchefstroom Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Pretoria Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Rustenburg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Standerton Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Swaziland Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Utrecht Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Vryheid Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Wakkerstroom Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Waterberg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Zoutpansberg Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Zwartruggens Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Artillerie (OFS)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Foreign volunteers",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal"
+ },
+ {
+  "unit": "Ashburner's Light Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Baca Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Bechuanaland Rifle Volunteers",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Beddy's Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Bethune's Mounted Infantry",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Border Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Border Mounted Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Border Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Brabant's Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Brett's Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "British South Africa Police",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Burgher Camps Department",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Bush Veldt Carbineers",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Canadian Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Colonial Forces",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Colony Cyclists' Corps",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Colony Volunteers",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Garrison Artillery",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Government Railways",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Infantry",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Medical Staff Corps",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Mounted Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Police",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Railway Sharpshooters",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cape Town Highlanders",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Clarke's Light Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Colonial Light Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Colonial Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Commander in Chief's Body Guard",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Corps of Cattle Rangers",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Cullinan's Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Damant's Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "De Beers Maxim Battery",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Dennison's Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Diamond Fields Artillery",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Diamond Fields Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "District Mounted Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Driscoll's Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Duke of Edinburgh's Own Volunteer Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Durban Light Infantry",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "East Griqualand Field Force",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "East Griqualand Mounted Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Eastern Province Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Field Intelligence Department",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Fingo Levies",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "First City (Grahamstown) Volunteers",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "French's Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Frontier Light Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Frontier Mounted Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Gorringe's Flying Column",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Imperial Bearer Corps",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Imperial Hospital Corps",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Imperial Light Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Imperial Light Infantry",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Imperial Military Railways",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Imperial Transport Service",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Imperial Yeomanry Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Johannesburg Mounted Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Kaffrarian Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Kimberley Mounted Corps",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Kimberley Regiment",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Kitchener's Fighting Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Kitchener's Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Loch's Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Marshall's Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Midland Mounted Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Montmorency's Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Murray's Horse and Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Namaqualand Border Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Natal Carbineers",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Natal Field Artillery",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Natal Government Railways",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Natal Guides",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Natal Mounted Infantry",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Natal Mounted Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Natal Naval Volunteers",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Natal Police",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Natal Royal Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Natal Volunteer Composite Regiment",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "National Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Nesbitt's Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Orange River Scouts",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Orpen's Light Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Prince Alfred's Guard Mounted Infantry",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Prince of Wales' Light Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Protectorate Regiment",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Queensland Contingents",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Railway Pioneer Regiment",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Rand Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Rhodesia Regiment",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Rhodesian Volunteers",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Roberts' Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Ross Machine Gun Battery",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Scottish Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "South African Constabulary",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "South African Light Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "South African Mounted Irregular Forces",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Steinaecker's Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Thorneycroft's Mounted Infantry",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Town Guard and District Mounted Troops",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Umvoti Mounted Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Warren's Mounted Infantry",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Western Light Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Western Province Mounted Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Mafeking Cadet Corps",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "Mafeking Railway Volunteers",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape/Natal"
+ },
+ {
+  "unit": "West Australian Contingents",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "Victorian Contingents",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "Tasmanian Contingents",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "South Australian Contingents",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New South Wales Contingents",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New Zealand - 1st Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New Zealand - 2nd Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New Zealand - 3rd Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New Zealand - 4th Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New Zealand - 5th Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New Zealand - 6th Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New Zealand - 7th Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New Zealand - 8th Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New Zealand - 9th Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "New Zealand - 10th Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "All"
+ },
+ {
+  "unit": "1st Canadian Mounted Rifles (Royal Canadian Dragoons)",
+  "side": "Colonial",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "2nd Canadian Mounted Rifles",
+  "side": "Colonial",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "Strathcona's Horse",
+  "side": "Colonial",
+  "type": "cavalry",
+  "theater": "All"
+ },
+ {
+  "unit": "Royal Canadian Regiment of Infantry",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "OFS"
+ },
+ {
+  "unit": "Royal Canadian Artillery",
+  "side": "Colonial",
+  "type": "artillery",
+  "theater": "All"
+ },
+ {
+  "unit": "10th Canadian Field Hospital",
+  "side": "Colonial",
+  "type": "support",
+  "theater": "All"
+ },
+ {
+  "unit": "1st Bn Grenadier Guards",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Guards Brigade, Methuen's column; Belmont, Magersfontein; also served Transvaal advance"
+ },
+ {
+  "unit": "3rd Bn Grenadier Guards",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Guards Brigade, Methuen's column; Belmont, Magersfontein, advance on Pretoria"
+ },
+ {
+  "unit": "1st Bn Coldstream Guards",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Guards Brigade, Methuen; Belmont, Magersfontein, Paardeberg, Transvaal"
+ },
+ {
+  "unit": "2nd Bn Coldstream Guards",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "Colvile",
+  "notes": "Guards Brigade; Belmont, Magersfontein, Diamond Hill, commanded by Colvile"
+ },
+ {
+  "unit": "1st Bn Scots Guards",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Guards Brigade, Methuen's column; Belmont, Magersfontein, Transvaal advance"
+ },
+ {
+  "unit": "1st Bn Devonshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent; Elandslaagte; Ladysmith garrison; Wagon Hill defence Jan 1900"
+ },
+ {
+  "unit": "2nd Bn Devonshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Hildyard's 2nd Brigade; Colenso; Tugela operations; relieved Ladysmith"
+ },
+ {
+  "unit": "1st Bn Manchester Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Elandslaagte Oct 1899; Ladysmith garrison throughout siege"
+ },
+ {
+  "unit": "1st Bn Liverpool Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Ladysmith garrison; Indian contingent arrival Sept 1899"
+ },
+ {
+  "unit": "1st Bn Gordon Highlanders",
+  "side": "British",
+  "type": "infantry",
+  "theater": "All",
+  "commander": "",
+  "notes": "Highland Brigade (Magersfontein); later 19th Brigade; Paardeberg; Transvaal advance; Diamond Hill"
+ },
+ {
+  "unit": "2nd Bn Gordon Highlanders",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent; Elandslaagte; Ladysmith garrison; siege; served later ORC/Transvaal"
+ },
+ {
+  "unit": "1st Bn Gloucestershire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent; Dundee/Glencoe area; Ladysmith garrison; siege"
+ },
+ {
+  "unit": "2nd Bn King's Royal Rifle Corps",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent; Ladysmith garrison; siege"
+ },
+ {
+  "unit": "3rd Bn King's Royal Rifle Corps",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Lyttelton's 4th Brigade; Colenso; Spion Kop; Twin Peaks assault Jan 1900; Tugela operations"
+ },
+ {
+  "unit": "2nd Bn Rifle Brigade",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Ladysmith garrison; Lyttelton's 4th Brigade later Tugela operations"
+ },
+ {
+  "unit": "1st Bn Rifle Brigade",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Lyttelton's 4th Brigade; Colenso; Tugela operations; Vaalkrantz"
+ },
+ {
+  "unit": "1st Bn Leicester Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Dundee/Glencoe garrison Oct 1899; Talana Hill; withdrew to Ladysmith"
+ },
+ {
+  "unit": "1st Bn Royal Irish Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Reinforced Dundee; held against Boers near Ladysmith; Natal operations"
+ },
+ {
+  "unit": "2nd Bn Royal Dublin Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Dundee/Glencoe garrison; Talana Hill; Hart's Irish Brigade Colenso"
+ },
+ {
+  "unit": "1st Bn Royal Dublin Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Hart's 5th Brigade; Colenso; Tugela operations; Spion Kop reinforcement"
+ },
+ {
+  "unit": "1st Bn Royal Inniskilling Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Hart's 5th Brigade; Colenso; Spion Kop; Hart's Hill; Pieter's Hill Feb 1900"
+ },
+ {
+  "unit": "1st Bn Connaught Rangers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Hart's 5th Brigade; Colenso; Tugela operations; Hart's Hill Feb 1900"
+ },
+ {
+  "unit": "1st Bn Border Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Hart's 5th Brigade; Colenso; replaced 2nd Irish Rifles from Gatacre"
+ },
+ {
+  "unit": "2nd Bn Royal Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "Barton",
+  "notes": "Barton's 6th Fusilier Brigade; Colenso; Pieter's Hill Feb 1900"
+ },
+ {
+  "unit": "2nd Bn Royal Scots Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Barton's 6th Fusilier Brigade; Colenso; Tugela operations"
+ },
+ {
+  "unit": "1st Bn Royal Welsh Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Barton's 6th Fusilier Brigade; Colenso; Tugela operations"
+ },
+ {
+  "unit": "2nd Bn Royal Irish Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Barton's 6th Fusilier Brigade; Colenso; Tugela operations"
+ },
+ {
+  "unit": "2nd Bn West Surrey Regiment (Queen's)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Hildyard's 2nd Brigade; Colenso; Tugela operations"
+ },
+ {
+  "unit": "2nd Bn West Yorkshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Hildyard's 2nd Brigade; Colenso; Tugela operations"
+ },
+ {
+  "unit": "2nd Bn East Surrey Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Hildyard's 2nd Brigade; Colenso; Tugela operations; also listed in Barton OOB"
+ },
+ {
+  "unit": "2nd Bn Cameronians (Scottish Rifles)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Lyttelton's 4th Brigade; Colenso; Spion Kop (sent as reinforcement); Vaalkrantz"
+ },
+ {
+  "unit": "1st Bn Durham Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Lyttelton's 4th Brigade; Colenso; Tugela operations"
+ },
+ {
+  "unit": "2nd Bn Scottish Rifles",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Warren's 4th Brigade; Spion Kop; Vaalkrantz; also Gatacre Cape Colony"
+ },
+ {
+  "unit": "2nd Bn Royal Lancaster Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Warren's 5th Division, 11th Brigade; Spion Kop; Vaalkrantz; Tugela operations"
+ },
+ {
+  "unit": "2nd Bn Lancashire Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Warren's 11th Brigade; Vaalkrantz; captured at Vaalkrantz 1900"
+ },
+ {
+  "unit": "1st Bn South Lancashire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Warren's 11th Brigade; Spion Kop; Tugela operations; York & Lancaster companion"
+ },
+ {
+  "unit": "1st Bn York and Lancaster Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Warren's 11th Brigade; Spion Kop area; Tugela operations"
+ },
+ {
+  "unit": "2nd Bn Dorset Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "Coke",
+  "notes": "Talbot Coke's 10th Brigade Corps Troops; Pieter's Hill Feb 1900"
+ },
+ {
+  "unit": "2nd Bn Middlesex Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Talbot Coke's 10th Brigade; Tugela operations"
+ },
+ {
+  "unit": "2nd Bn Somerset Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Talbot Coke's 10th Brigade; Tugela operations"
+ },
+ {
+  "unit": "2nd Bn Berkshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Arrived Natal early in war; Cape Colony defence; De Aar area"
+ },
+ {
+  "unit": "1st Bn Royal Munster Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Arrived Natal; Indian reinforcement; Cape Colony/Kimberley line; North Lancashires reconnaissance Belmont"
+ },
+ {
+  "unit": "2nd Bn Royal Irish Rifles",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Gatacre's force Stormberg; Cape Colony operations"
+ },
+ {
+  "unit": "1st Bn Northumberland Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Methuen's column; Belmont, Enslin, Modder River, Magersfontein; Orange River area"
+ },
+ {
+  "unit": "2nd Bn Northumberland Fusiliers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Stormberg; later Colesberg area; Gatacre/Clements commands; Cape Colony ops"
+ },
+ {
+  "unit": "2nd Bn Northamptonshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Methuen 9th Brigade; Enslin, Magersfontein; Orange River advance; Paardeberg"
+ },
+ {
+  "unit": "2nd Bn Yorkshire Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Methuen's 9th Brigade; Modder River; Magersfontein; advance to Pretoria"
+ },
+ {
+  "unit": "1st Bn Loyal North Lancashire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Methuen's 9th Brigade; Belmont; Modder River; Kimberley advance; Magersfontein"
+ },
+ {
+  "unit": "2nd Bn Black Watch (Royal Highlanders)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Highland Brigade under Wauchope; Magersfontein Dec 1899; Paardeberg Feb 1900"
+ },
+ {
+  "unit": "2nd Bn Seaforth Highlanders",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Highland Brigade; Magersfontein; Paardeberg; Transvaal advance; MacDonald's brigade"
+ },
+ {
+  "unit": "1st Bn Highland Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Highland Brigade; Magersfontein; Paardeberg; Transvaal advance"
+ },
+ {
+  "unit": "2nd Bn Royal Highlanders (Black Watch)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Part of Highland/3rd Brigade under Roberts; Paardeberg advance"
+ },
+ {
+  "unit": "1st Bn Argyll and Sutherland Highlanders",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Modder River battle; heavy casualties; 3rd Highland Brigade; Paardeberg advance"
+ },
+ {
+  "unit": "2nd Bn King's Own Yorkshire Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "De Aar/Orange River area early war; later Methuen command"
+ },
+ {
+  "unit": "1st Bn Royal Scots",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Stormberg (Gatacre's force) Dec 1899; Colesberg area; Cape Colony ops"
+ },
+ {
+  "unit": "1st Bn Essex Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division, 18th Brigade (Stephenson); Paardeberg; OFS advance"
+ },
+ {
+  "unit": "1st Bn Yorkshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division, 18th Brigade; Paardeberg; OFS advance; Colesberg reinf."
+ },
+ {
+  "unit": "1st Bn Welsh Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division, 18th Brigade; Paardeberg; OFS advance"
+ },
+ {
+  "unit": "2nd Bn Royal Warwickshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division, 18th Brigade; Paardeberg; OFS advance; Colesberg ops"
+ },
+ {
+  "unit": "2nd Bn East Kent Regiment (Buffs)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division, 13th Brigade (Knox); Paardeberg; OFS advance"
+ },
+ {
+  "unit": "1st Bn Oxfordshire Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division, 13th Brigade; Paardeberg; OFS advance"
+ },
+ {
+  "unit": "1st Bn West Riding Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division, 13th Brigade; OFS advance; later Transvaal"
+ },
+ {
+  "unit": "2nd Bn Gloucester Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division, 13th Brigade; OFS advance; Wepener area"
+ },
+ {
+  "unit": "2nd Bn Norfolk Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Tucker's 7th Division, 14th Brigade; advance through OFS to Transvaal"
+ },
+ {
+  "unit": "2nd Bn Lincolnshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Tucker's 7th Division, 14th Brigade; advance through OFS to Transvaal"
+ },
+ {
+  "unit": "1st Bn King's Own Scottish Borderers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Tucker's 7th Division, 14th Brigade; OFS advance; Transvaal"
+ },
+ {
+  "unit": "2nd Bn Hampshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Tucker's 7th Division, 14th Brigade; OFS advance to Pretoria"
+ },
+ {
+  "unit": "2nd Bn Cheshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Tucker's 7th Division, 15th Brigade (Wavell); advance through OFS/Transvaal"
+ },
+ {
+  "unit": "1st Bn East Lancashire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Tucker's 7th Division, 15th Brigade; OFS advance to Transvaal"
+ },
+ {
+  "unit": "2nd Bn South Wales Borderers",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Tucker's 7th Division, 15th Brigade; OFS advance to Transvaal"
+ },
+ {
+  "unit": "2nd Bn North Staffordshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Tucker's 7th Division, 15th Brigade; OFS advance to Transvaal"
+ },
+ {
+  "unit": "2nd Bn Duke of Cornwall's Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "Smith-Dorrien",
+  "notes": "19th Brigade; Paardeberg; advance through OFS; crossed to north bank"
+ },
+ {
+  "unit": "2nd Bn Shropshire Light Infantry",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "19th Brigade; Paardeberg; Diamond Hill; advance Transvaal"
+ },
+ {
+  "unit": "1st Bn Suffolk Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Colesberg area with French; Clements' command; Cape Colony operations"
+ },
+ {
+  "unit": "2nd Bn Worcester Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Clements' command; Colesberg area; Cape Colony; later Transvaal"
+ },
+ {
+  "unit": "2nd Bn Wiltshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Clements' command; Colesberg/Cape Colony; later Transvaal ops; ORC guerrilla phase"
+ },
+ {
+  "unit": "1st Bn Derbyshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Stormberg/Gatacre's force; later Colesberg; Cape Colony operations"
+ },
+ {
+  "unit": "4th Bn Derbyshire Regiment (Militia)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Militia battalion; sent up to hold Heilbron 1900; surprised by De Wet's commando June 1900"
+ },
+ {
+  "unit": "3rd Bn York and Lancaster Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Garrison duties; Orange River Colony; mentioned serving in OFS area"
+ },
+ {
+  "unit": "2nd Bn Wiltshire Regiment (column)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony late war column operations; Wiltshire column area"
+ },
+ {
+  "unit": "5th Dragoon Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent; Ladysmith cavalry; Elandslaagte; siege; evacuated with French"
+ },
+ {
+  "unit": "5th Royal Irish Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent; Elandslaagte; Ladysmith siege cavalry; Tugela relief ops"
+ },
+ {
+  "unit": "18th King George's Own Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Natal",
+  "commander": "Moller",
+  "notes": "Dundee/Glencoe; Talana Hill; part captured Moller; remainder Ladysmith siege"
+ },
+ {
+  "unit": "19th Princess of Wales's Own Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent; Dundee area; Ladysmith cavalry during siege; Tugela relief"
+ },
+ {
+  "unit": "9th Queen's Royal Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "Gough",
+  "notes": "Methuen's column; Belmont reconnaissance; Magersfontein; Paardeberg; advance to Pretoria"
+ },
+ {
+  "unit": "12th Royal Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Reinforcement; G Battery escort; Enslin relief; Magersfontein; Kimberley relief; Paardeberg"
+ },
+ {
+  "unit": "6th Dragoon Guards (Carabiniers)",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's Cavalry Division, 1st Brigade (Porter); Colesberg ops; Kimberley relief Feb 1900"
+ },
+ {
+  "unit": "6th Dragoons (Inniskilling)",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's 1st Cavalry Brigade; Colesberg; Kimberley relief; Paardeberg pursuit; OFS advance"
+ },
+ {
+  "unit": "2nd Royal Dragoons (Royal Scots Greys)",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's 1st Cavalry Brigade; Kimberley relief; Paardeberg; OFS advance"
+ },
+ {
+  "unit": "10th Prince of Wales's Own Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's 2nd Cavalry Brigade (Broadwood); Colesberg; Sannah's Post; Diamond Hill; OFS"
+ },
+ {
+  "unit": "12th Prince of Wales's Royal Lancers (2nd)",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's 2nd Cavalry Brigade; Kimberley relief; Paardeberg; Broadwood's force"
+ },
+ {
+  "unit": "Household Cavalry (Composite Regiment)",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's 2nd Brigade; formed composite regiment for active service; Kimberley advance; OFS ops"
+ },
+ {
+  "unit": "16th Queen's Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's 3rd Cavalry Brigade (Gordon); Kimberley relief Feb 1900; excellent work Klip Drift"
+ },
+ {
+  "unit": "13th King's Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Dundonald's mounted brigade Natal; Colenso; Spion Kop; Tugela relief ops"
+ },
+ {
+  "unit": "1st Royal Dragoons",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Dundonald's mounted brigade Natal; Colenso; Tugela operations; Burn Murdoch command"
+ },
+ {
+  "unit": "14th King's Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Reinforcement; Colesberg area French/Clements; Burn Murdoch's cavalry brigade Natal"
+ },
+ {
+  "unit": "8th King's Royal Irish Hussars",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Later operations; advance Transvaal; skirmishes ORC/Transvaal guerrilla phase"
+ },
+ {
+  "unit": "7th Princess Royal's Dragoon Guards",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Later operations ORC/Transvaal; Boshof area; columns guerrilla phase"
+ },
+ {
+  "unit": "17th Duke of Cambridge's Own Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Guerrilla phase Cape Colony; mentioned late war column operations"
+ },
+ {
+  "unit": "7th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "Reed",
+  "notes": "Dundonald's brigade Natal; Colenso action with Long; rescued two guns heroically"
+ },
+ {
+  "unit": "14th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Colenso: captured (5 guns lost); heavy casualties; Long's guns; Natal ops"
+ },
+ {
+  "unit": "66th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Colenso: guns lost; Long's column; Natal ops; Spion Kop area"
+ },
+ {
+  "unit": "63rd Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Barton's 6th Brigade Natal; Colenso; Tugela operations"
+ },
+ {
+  "unit": "64th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Hildyard/Hart brigade Natal; Colenso; Tugela operations"
+ },
+ {
+  "unit": "13th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Dundee/Glencoe; Talana Hill Oct 1899; Natal operations"
+ },
+ {
+  "unit": "67th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Left at Dundee; Talana Hill; Natal early operations"
+ },
+ {
+  "unit": "69th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Dundee/Glencoe; Natal operations; later Orange River Colony guerrilla phase"
+ },
+ {
+  "unit": "21st Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Ladysmith garrison Indian contingent; siege of Ladysmith throughout"
+ },
+ {
+  "unit": "42nd Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent Natal; Ladysmith garrison; relief ops Tugela"
+ },
+ {
+  "unit": "53rd Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent Natal; Ladysmith garrison; Tugela relief ops; Colenso"
+ },
+ {
+  "unit": "19th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Warren's 5th Division; Spion Kop; Tugela operations"
+ },
+ {
+  "unit": "28th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Warren's 5th Division; Spion Kop; Vaalkrantz; Tugela operations; later ORC"
+ },
+ {
+  "unit": "73rd Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Extra field battery sent Natal; Tugela operations"
+ },
+ {
+  "unit": "61st Howitzer Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Howitzer battery sent Natal; Vaalkrantz; Tugela operations"
+ },
+ {
+  "unit": "78th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Warren's 5th Division; Tugela; Spion Kop; Vaalkrantz; also later Cape Colony ops"
+ },
+ {
+  "unit": "4th Mountain Battery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Corps troops Natal; mountain guns for Spion Kop; Tugela operations"
+ },
+ {
+  "unit": "10th Mountain Battery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent; Ladysmith garrison; 'No. 10 Mountain Battery'"
+ },
+ {
+  "unit": "75th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Methuen's column; Belmont; Modder River; Magersfontein; Paardeberg; OFS advance"
+ },
+ {
+  "unit": "18th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Methuen's column; Belmont; Modder River; Magersfontein; western advance"
+ },
+ {
+  "unit": "62nd Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Modder River; Magersfontein; forced march to Enslin relief; Argyll support; OFS advance"
+ },
+ {
+  "unit": "G Battery Royal Horse Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Reinforcement for Methuen; Magersfontein reconnaissance; Kimberley relief with French"
+ },
+ {
+  "unit": "U Battery Royal Horse Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's Cavalry Division; guns captured/partly lost Colesberg area; Paardeberg pursuit"
+ },
+ {
+  "unit": "Q Battery Royal Horse Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's Cavalry Division; Sannah's Post action; Q Battery fought rearguard action"
+ },
+ {
+  "unit": "P Battery Royal Horse Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's Cavalry Division; Kimberley relief; OFS/Transvaal advance; guerrilla phase"
+ },
+ {
+  "unit": "O Battery Royal Horse Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's Cavalry Division; Kimberley relief; Colesberg area; OFS advance"
+ },
+ {
+  "unit": "R Battery Royal Horse Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's Cavalry Division; Kimberley relief; OFS/Transvaal advance"
+ },
+ {
+  "unit": "T Battery Royal Horse Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "French's Cavalry Division; Kimberley relief advance; OFS/Transvaal"
+ },
+ {
+  "unit": "76th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division; Paardeberg; OFS advance"
+ },
+ {
+  "unit": "81st Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division; Paardeberg; OFS advance to Bloemfontein"
+ },
+ {
+  "unit": "82nd Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Kelly-Kenny's 6th Division; OFS advance; Bloemfontein; Transvaal"
+ },
+ {
+  "unit": "83rd Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Methuen's 1st Division; OFS/Transvaal advance"
+ },
+ {
+  "unit": "84th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Methuen's 1st Division; OFS/Transvaal advance; later guerrilla columns"
+ },
+ {
+  "unit": "85th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Methuen's 1st Division; OFS/Transvaal advance"
+ },
+ {
+  "unit": "38th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Corps troops Roberts; OFS; later guerrilla phase western ORC; Vlakfontein"
+ },
+ {
+  "unit": "65th Howitzer Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Corps troops Roberts; OFS advance; howitzers for Paardeberg bombardment"
+ },
+ {
+  "unit": "18th Battery Royal Field Artillery (2nd)",
+  "side": "British",
+  "type": "artillery",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Tucker's 7th Division; Paardeberg; OFS advance to Transvaal"
+ },
+ {
+  "unit": "4th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "Butcher",
+  "notes": "Colesberg/French's command; Sannah's Post area; later Cape Colony ops"
+ },
+ {
+  "unit": "20th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Colesberg area; French's/Clements' command; Cape Colony operations"
+ },
+ {
+  "unit": "37th Howitzer Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Howitzers; Colesberg area; Clements' command"
+ },
+ {
+  "unit": "77th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Gatacre's/Stormberg force; Cape Colony operations"
+ },
+ {
+  "unit": "79th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Stormberg/Gatacre; reinforcement; Cape Colony; later guerrilla columns"
+ },
+ {
+  "unit": "17th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Cape Colony/OFS operations; Brookfield's column Heilbron area"
+ },
+ {
+  "unit": "68th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony; Wepener area; colonial ops"
+ },
+ {
+  "unit": "74th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Stormberg/Gatacre's force; later Cape Colony ops"
+ },
+ {
+  "unit": "8th Battery Royal Field Artillery",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony guerrilla phase; Kitchener's Horse column"
+ },
+ {
+  "unit": "Naval Brigade (HMS Terrible)",
+  "side": "British",
+  "type": "naval",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "16 naval guns (14x12-pdr, 2x4.7-in) from HMS Terrible; Colenso Dec 1899; Natal ops throughout"
+ },
+ {
+  "unit": "Naval Brigade (Cape/Western Front)",
+  "side": "British",
+  "type": "naval",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "4.7-inch naval guns and 12-pounders with Methuen; Magersfontein; Modder River; Kimberley relief"
+ },
+ {
+  "unit": "Naval Brigade (Ladysmith)",
+  "side": "British",
+  "type": "naval",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Naval guns from Durban; arrived Ladysmith; silenced Long Tom; siege defence; Wagon Hill"
+ },
+ {
+  "unit": "23rd Company Royal Engineers",
+  "side": "British",
+  "type": "engineers",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian contingent; Ladysmith garrison; siege works; Royal Engineers"
+ },
+ {
+  "unit": "Composite Regiment Mounted Infantry (Natal)",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Dundonald's brigade; formed from MI of Rifles and Dublin Fusiliers; Natal ops"
+ },
+ {
+  "unit": "Mounted Infantry (King's Royal Rifles)",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Dundonald's brigade; Natal operations; Tugela"
+ },
+ {
+  "unit": "Hannay's Brigade Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "Hannay",
+  "notes": "Roberts' army; Paardeberg Feb 1900; Hannay killed leading charge on laager"
+ },
+ {
+  "unit": "Ridley's Brigade Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "Ridley",
+  "notes": "Roberts' army; OFS advance; Transvaal"
+ },
+ {
+  "unit": "Alderson's Brigade Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "Alderson",
+  "notes": "Roberts' force; OFS/Transvaal advance and guerrilla phase"
+ },
+ {
+  "unit": "Le Gallais's Brigade Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "Le Gallais",
+  "notes": "Roberts' force; OFS advance; guerrilla phase"
+ },
+ {
+  "unit": "Martyr's Brigade Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "Martyr",
+  "notes": "Roberts' force; OFS/Transvaal; paired with Colvile for advance"
+ },
+ {
+  "unit": "Hutton's Brigade Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "Hutton",
+  "notes": "Roberts' force; OFS/Transvaal operations"
+ },
+ {
+  "unit": "1st Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "All",
+  "commander": "",
+  "notes": "Regular mounted infantry battalion; various theaters"
+ },
+ {
+  "unit": "2nd Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony/ORC guerrilla phase operations"
+ },
+ {
+  "unit": "3rd Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Roberts' advance; Sannah's Post area; OFS/Transvaal"
+ },
+ {
+  "unit": "5th Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Guerrilla phase; Transvaal/ORC columns; Nooitgedacht area 1901"
+ },
+ {
+  "unit": "6th Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony guerrilla phase; columns under Kitchener's Horse command"
+ },
+ {
+  "unit": "7th Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony guerrilla phase; Vlakfontein area; Transvaal"
+ },
+ {
+  "unit": "8th Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony guerrilla phase; border operations"
+ },
+ {
+  "unit": "18th Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Guerrilla phase; Transvaal columns under Kitchener"
+ },
+ {
+  "unit": "19th Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Guerrilla phase; Cape Colony/Transvaal columns"
+ },
+ {
+  "unit": "25th Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony guerrilla phase columns"
+ },
+ {
+  "unit": "28th Mounted Infantry",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Guerrilla phase; Transvaal/ORC; Itala area; drawn from various regiments"
+ },
+ {
+  "unit": "Artillery Mounted Rifles",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Royal Artillery formed into mounted rifles when horses exhausted; OFS/Transvaal"
+ },
+ {
+  "unit": "Imperial Yeomanry (1st Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Imperial Yeomanry raised in Britain Jan 1900; western OFS operations with Methuen"
+ },
+ {
+  "unit": "Imperial Yeomanry (4th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Western Transvaal; De la Rey area; Tweebosch 1902"
+ },
+ {
+  "unit": "Imperial Yeomanry (5th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All",
+  "commander": "",
+  "notes": "Cape Colony/ORC; distinguished service noted; convoy escort ops"
+ },
+ {
+  "unit": "Imperial Yeomanry (7th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony columns; Border/Worcester area guerrilla phase"
+ },
+ {
+  "unit": "Imperial Yeomanry (10th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "All",
+  "commander": "",
+  "notes": "Distinguished service noted in guerrilla phase; various columns"
+ },
+ {
+  "unit": "Imperial Yeomanry (11th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Lindley area; Yeomanry captured at Lindley May 1900; large force ambushed"
+ },
+ {
+  "unit": "Imperial Yeomanry (14th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Heilbron area operations 1900"
+ },
+ {
+  "unit": "Imperial Yeomanry (17th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Guerrilla phase; Transvaal/ORC columns"
+ },
+ {
+  "unit": "Imperial Yeomanry (18th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Heilbron advance June 1900; 500 strong including Irish companies; Lindley-Heilbron"
+ },
+ {
+  "unit": "Imperial Yeomanry (59th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony guerrilla phase; escort and column duties"
+ },
+ {
+  "unit": "Imperial Yeomanry (74th Battalion - Irish)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Irish Yeomanry; Cape Colony convoy escort; ambushed 1901"
+ },
+ {
+  "unit": "Imperial Yeomanry (86th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "ORC",
+  "commander": "",
+  "notes": "Leeuwspruit area; Orange River Colony columns 1901-02"
+ },
+ {
+  "unit": "Imperial Yeomanry (91st Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "ORC",
+  "commander": "",
+  "notes": "Orange River Colony guerrilla phase; Tweebosch action Feb 1902"
+ },
+ {
+  "unit": "Derbyshire Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Defence of convoy April 1900; good performance noted; Boer War service"
+ },
+ {
+  "unit": "Warwickshire Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony columns; West Riding regiment column ops"
+ },
+ {
+  "unit": "Wiltshire Yeomanry",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony; Worcester regiment column; guerrilla phase ops"
+ },
+ {
+  "unit": "Scottish Horse (1st Regiment)",
+  "side": "Colonial",
+  "type": "yeomanry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Raised Scotland/South Africa; Transvaal guerrilla phase columns"
+ },
+ {
+  "unit": "Scottish Horse (2nd Regiment)",
+  "side": "Colonial",
+  "type": "yeomanry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony/ORC guerrilla phase; columns under Kitchener"
+ },
+ {
+  "unit": "Canadian Regiment (Royal Canadian Regiment)",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "19th Brigade Smith-Dorrien; Paardeberg: held trench within 100 yards of laager on final night; decisive action"
+ },
+ {
+  "unit": "Canadian Mounted Rifles",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Later contingent; mounted; guerrilla phase; Transvaal/ORC operations"
+ },
+ {
+  "unit": "Royal Canadian Dragoons",
+  "side": "Colonial",
+  "type": "cavalry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Cavalry; later Canadian contingent; guerrilla phase Transvaal"
+ },
+ {
+  "unit": "Toronto Company (Mounted Rifles)",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "100 Canadians part of Methuen's line-of-communications force Jan 1900; Enslin area"
+ },
+ {
+  "unit": "Canadian Field Artillery",
+  "side": "Colonial",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Canadian guns (2) noted at Suffolks/Shropshires action; Natal/Transvaal service"
+ },
+ {
+  "unit": "New South Wales Mounted Rifles",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Australian contingent; Colesberg area; French/Clements; Sannah's Post area; OFS"
+ },
+ {
+  "unit": "New South Wales Lancers",
+  "side": "Colonial",
+  "type": "cavalry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Colesberg area; Clements' force; later OFS advance; mounted work"
+ },
+ {
+  "unit": "Victorian Mounted Rifles (5th)",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "850 strong; notable service; Pietersburg expedition; Transvaal guerrilla phase"
+ },
+ {
+  "unit": "Victorian Mounted Rifles (general)",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Colesberg; Sannah's Post; Cape Colony ops; included 6th Dragoons area skirmish"
+ },
+ {
+  "unit": "Queensland Mounted Infantry",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Part of Methuen line-of-comm force; Enslin Jan 1900; OFS advance; noted at Diamond Hill"
+ },
+ {
+  "unit": "New Zealand Mounted Rifles",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Colesberg; Paardeberg relief column; French's force; Sannah's Post; OFS advance"
+ },
+ {
+  "unit": "New Zealand Contingent (infantry)",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Various contingents; OFS/Transvaal service; Pietersburg expedition"
+ },
+ {
+  "unit": "South Australian Mounted Rifles",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Colesberg area; patrol of 16 from South Australian Horse and New Zealanders in Natal"
+ },
+ {
+  "unit": "West Australian Mounted Infantry",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Australian contingents; OFS/Transvaal advance; Diamond Hill area"
+ },
+ {
+  "unit": "Tasmanian Mounted Infantry",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Colesberg; hard-riding Tasmanians noted; OFS advance; Sannah's Post area"
+ },
+ {
+  "unit": "Burmese Mounted Infantry",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Paardeberg/OFS area; advance with Roberts; New Zealanders and Burma MI together"
+ },
+ {
+  "unit": "New South Wales Ambulance",
+  "side": "Colonial",
+  "type": "garrison",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Medical support; Methuen's line of communications Jan 1900; Enslin area"
+ },
+ {
+  "unit": "Natal Mounted Police",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Natal colonial force; Ladysmith garrison; siege; Dundonald's mounted brigade"
+ },
+ {
+  "unit": "2nd Imperial Light Horse",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Second regiment of ILH; later Natal/Transvaal guerrilla phase operations"
+ },
+ {
+  "unit": "Natal Volunteers",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "General colonial volunteers Natal; Ladysmith garrison; various corps"
+ },
+ {
+  "unit": "Durban Volunteers",
+  "side": "Colonial",
+  "type": "garrison",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Durban defence; armoured train at Chieveley contained Dublin Fusiliers and 80 Durban Volunteers"
+ },
+ {
+  "unit": "Kimberley Light Horse",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Kimberley garrison defence; raised locally; Kimberley siege ops; relief support"
+ },
+ {
+  "unit": "Port Elizabeth Guards",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Colonial infantry Cape Colony; 518 strong; garrison and column duties"
+ },
+ {
+  "unit": "East London Rifles",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Colonial infantry; 673 strong; Cape Colony garrison and operations"
+ },
+ {
+  "unit": "Grahamstown Rifles",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Colonial infantry; 560 strong; Eastern Cape Colony garrison"
+ },
+ {
+  "unit": "Cape Town United Rifles",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Town garrison; combined with Cape Police approximately 1000 strong"
+ },
+ {
+  "unit": "Brabant's Horse (1st Regiment)",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "Brabant",
+  "notes": "Brabant's Colonial Division; 600 strong; Eastern Cape Colony; Wepener; guerrilla phase"
+ },
+ {
+  "unit": "Brabant's Horse (2nd Regiment)",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Brabant's Colonial Division; 600 strong; Eastern Cape Colony ops"
+ },
+ {
+  "unit": "Brabant's Horse (3rd Regiment)",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Brabant's Colonial Division; approx 400 strong; Eastern Cape Colony ops"
+ },
+ {
+  "unit": "Railway Pioneers",
+  "side": "Colonial",
+  "type": "garrison",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "1200 strong; railway protection and repair; Cape Colony and OFS advance"
+ },
+ {
+  "unit": "Bayly's Mounted Rifles",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "Bayly",
+  "notes": "450 strong; colonial mounted corps; Cape Colony operations with Brabant"
+ },
+ {
+  "unit": "Orpen's Horse",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "Orpen",
+  "notes": "300 strong; Cape Colony colonial mounted corps; Eastern Cape operations"
+ },
+ {
+  "unit": "Griqualand Mounted Rifles",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "1200 strong; Northern Cape / Kimberley area; colonial mounted corps"
+ },
+ {
+  "unit": "Kaffrarian Mounted Rifles",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "540 strong; Eastern Cape Colony; Colesberg area; Brabant's force"
+ },
+ {
+  "unit": "Queenstown Mounted Rifles",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "200 strong; Eastern Cape Colony; colonial mounted corps"
+ },
+ {
+  "unit": "Rimington's Scouts (Rimington's Guides)",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape",
+  "commander": "Rimington",
+  "notes": "Guides/scouts unit; Methuen's column; Paardeberg; Sannah's Post area; guides Roberts' advance"
+ },
+ {
+  "unit": "Paget's Horse",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Transvaal",
+  "commander": "Paget",
+  "notes": "Colonial mounted corps; guerrilla phase Transvaal; Grobler's commando action"
+ },
+ {
+  "unit": "Rhodesian Regiment",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "Transvaal",
+  "commander": "Plumer",
+  "notes": "Irregular regiment; Plumer's Rhodesian column; Mafeking relief column; Transvaal advance"
+ },
+ {
+  "unit": "Bechuanaland Rifles",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Mafeking garrison; Cape Bechuanaland local force"
+ },
+ {
+  "unit": "Natal Native Contingent",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "4th Battalion specifically mentioned; native contingent Natal service"
+ },
+ {
+  "unit": "Cape Colony Volunteers (general)",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "2000 colonial volunteers at Kimberley siege; various corps; garrison defence"
+ },
+ {
+  "unit": "Johannesburg Police",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Transvaal; fought at Elandslaagte; part of force at Spion Kop; suffered at Pieter's Hill"
+ },
+ {
+  "unit": "Transvaal State Artillery",
+  "side": "Boer",
+  "type": "artillery",
+  "theater": "All",
+  "commander": "",
+  "notes": "Highly organised; 16 Krupps plus two heavy 6-inch Creusot guns ('Long Tom'); best guns in campaign"
+ },
+ {
+  "unit": "German Corps (Transvaal)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Natal",
+  "commander": "Schiel",
+  "notes": "European auxiliaries; Schiel commanding; fought at Elandslaagte Oct 1899; Natal"
+ },
+ {
+  "unit": "Hollander Corps",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Approx 250 Hollanders; Transvaal auxiliary force; Natal operations"
+ },
+ {
+  "unit": "Irish-American Corps",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "~250 men; fought under green flag and harp; Irish/Irish-American volunteers with Boers"
+ },
+ {
+  "unit": "Foreign Volunteer Corps (German)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Greater part German corps with Free State forces; Magersfontein area; Delarey's force"
+ },
+ {
+  "unit": "Free State Commandos (general)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "OFS crossed Orange River; annexed Cape Colony border districts; Stormberg; Colesberg"
+ },
+ {
+  "unit": "Harrismith Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "OFS; Brandwater Basin; Elandslaagte reinforcement; guerrilla phase"
+ },
+ {
+  "unit": "Naauwpoort Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "OFS annexed Naauwpoort/Colesberg area; Cape Colony ops Oct–Nov 1899"
+ },
+ {
+  "unit": "Burghersdorp Commando (Cape rebels)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Du Plooy",
+  "notes": "OFS + Cape rebels; Du Plooy crossed Bethulie; Burghersdorp district annexed"
+ },
+ {
+  "unit": "Colesberg Rebel Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Schoeman",
+  "notes": "Transvaaler Schoeman; crossed at Norval's Pont Nov 1; annexed Colesberg; French vs. them"
+ },
+ {
+  "unit": "Grobler's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Grobler",
+  "notes": "OFS commando with Steenkamp; Stormberg rebel force; Grobler and Steenkamp at Stormberg Dec 1899"
+ },
+ {
+  "unit": "Olivier's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Olivier",
+  "notes": "OFS; Stormberg; took border districts for Free State; Cape Colony rebellion; Brandwater Basin"
+ },
+ {
+  "unit": "Cronje's Commando (P. Cronje)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "P. Cronje",
+  "notes": "Transvaal; from Mafeking area; Magersfontein; Paardeberg (surrender 27 Feb 1900); 4000 men"
+ },
+ {
+  "unit": "Delarey's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Delarey",
+  "notes": "Belmont; Modder River; Magersfontein (innovated forward trenches); Western Transvaal guerrilla"
+ },
+ {
+  "unit": "Prinsloo's Commando (Jacob Prinsloo)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "J. Prinsloo",
+  "notes": "OFS commando at Belmont Nov 1899 under Jacob Prinsloo; withdrew east after defeat"
+ },
+ {
+  "unit": "Ferreira's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Ferreira",
+  "notes": "OFS; relieved Kimberley besiegers; retired when French arrived Vendutie; Paardeberg area"
+ },
+ {
+  "unit": "De Beer's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS",
+  "commander": "De Beer",
+  "notes": "Transvaal advanced guard Paardeberg; driven north by cavalry; OFS advance phase"
+ },
+ {
+  "unit": "Lubbe's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Lubbe",
+  "notes": "OFS Jacobsdal garrison; observed French's cavalry; crossed Modder at Klip Kraal Drift"
+ },
+ {
+  "unit": "Steyn's Commando (of Bethlehem)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS",
+  "commander": "Steyn (of Bethlehem)",
+  "notes": "Commandant Steyn of Bethlehem (not the President); arrived Paardeberg from Natal; seized ridge"
+ },
+ {
+  "unit": "Schalk Burger's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Natal",
+  "commander": "Schalk Burger",
+  "notes": "Transvaal; Spion Kop right of Boer line; Schalk Burger commanded; withdrew after Twin Peaks"
+ },
+ {
+  "unit": "Botha's Command (L. Botha)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Natal",
+  "commander": "L. Botha",
+  "notes": "General Louis Botha; commanded Natal forces from Colenso onward; Tugela line; Pieter's Hill"
+ },
+ {
+  "unit": "Viljoen's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Natal",
+  "commander": "B. Viljoen",
+  "notes": "Transvaal; Vaalkrantz area; replaced Schalk Burger; Transvaal guerrilla phase"
+ },
+ {
+  "unit": "Meyer's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Natal",
+  "commander": "L. Meyer",
+  "notes": "Transvaal; Doom Kop Vaalkrantz Feb 1900; weakest part of Boer line Pieter's Hill"
+ },
+ {
+  "unit": "Erasmus's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Natal",
+  "commander": "Erasmus",
+  "notes": "Transvaal; stood idle at Dundee/Impati Hill; Natal campaign; later expedition against LoC"
+ },
+ {
+  "unit": "A.P. Cronje's Commando (Free State)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Natal",
+  "commander": "A.P. Cronje",
+  "notes": "OFS; near Ladysmith west side; small force joining Free State/Transvaal cordon"
+ },
+ {
+  "unit": "De Wet's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS",
+  "commander": "C. de Wet",
+  "notes": "OFS; Nicholson's Nek (blocked); Waterval Drift convoy capture; Paardeberg relief attempt; ORC guerrilla mastermind"
+ },
+ {
+  "unit": "A.P.J. Cronje's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "A.P.J. Cronje",
+  "notes": "OFS; observed French at Riet River Feb 1900; Koffyfontein direction; Paardeberg area"
+ },
+ {
+  "unit": "Roodepoort Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Transvaal Witwatersrand area; Johannesburg region; guerrilla phase"
+ },
+ {
+  "unit": "Standerton Commando (guerrilla)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "182 men Aug 1901 southeastern Transvaal; guerrilla phase Transvaal"
+ },
+ {
+  "unit": "Lotter's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Lotter",
+  "notes": "Cape Colony invaders; entirely destroyed by Cape Rifles and 9th Lancers Sept 4 1901"
+ },
+ {
+  "unit": "Scheepers' Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Scheepers",
+  "notes": "Cape Colony invaders; near Ladismith; midland district disaffection 1901"
+ },
+ {
+  "unit": "Smuts' Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Smuts",
+  "notes": "Jan Smuts' commando; hundreds strong; Cape Colony invasion 1901; Calvinia district; Moedwill"
+ },
+ {
+  "unit": "Malan's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Malan",
+  "notes": "Cape Colony; scored success May 13 1902; Fraserburg attack; Calvinia district"
+ },
+ {
+  "unit": "Hertzog's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Hertzog",
+  "notes": "Cape Colony invaders; Kloof action; returned through Cape back to ORC"
+ },
+ {
+  "unit": "Kritzinger's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Cape",
+  "commander": "Kritzinger",
+  "notes": "Cape Colony invaders; night attack surprised; severe British casualties"
+ },
+ {
+  "unit": "Fourie's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "OFS",
+  "commander": "Fourie",
+  "notes": "ORC; Free State Boers; action Sept 2 1901; ORC guerrilla phase"
+ },
+ {
+  "unit": "Britz's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "Britz",
+  "notes": "Western Transvaal; guerrilla phase; Tweebosch area; action attacking British camp"
+ },
+ {
+  "unit": "Ackermann's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "ORC",
+  "commander": "Ackermann",
+  "notes": "ORC; guerrilla phase; artillery action; Lieutenant Barry killed"
+ },
+ {
+  "unit": "Haasbroek's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "ORC",
+  "commander": "Haasbroek",
+  "notes": "ORC; detached by De Wet; ~100 men; guerrilla phase Orange River Colony"
+ },
+ {
+  "unit": "Koch's Commando (ORC)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "ORC",
+  "commander": "Koch",
+  "notes": "Orange River Colony; small commando; guerrilla phase late war"
+ },
+ {
+  "unit": "Van Zyl's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "ORC",
+  "commander": "Van Zyl",
+  "notes": "ORC; Leeuwspruit area; November 1901 action"
+ },
+ {
+  "unit": "Alberts' Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "Alberts",
+  "notes": "Eastern Transvaal; Ben Viljoen area; guerrilla phase; farm camp"
+ },
+ {
+  "unit": "Ben Viljoen's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "B. Viljoen",
+  "notes": "Eastern Transvaal; Belfast/Carolina area; Urmston/Pietersburg operations 1901"
+ },
+ {
+  "unit": "Buys' Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "Buys",
+  "notes": "Transvaal; attack at camp; first singular notice in guerrilla phase ORC"
+ },
+ {
+  "unit": "Heidelberg Commando (guerrilla)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Transvaal southeast; corps d'elite; fought stubbornly at Paardeberg perimeter"
+ },
+ {
+  "unit": "Free State Artillery",
+  "side": "Boer",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "OFS; 7-pounder light guns; Prinsloo attacked Enslin Dec 1899; OFS field artillery"
+ },
+ {
+  "unit": "Transvaal Long Tom Batteries",
+  "side": "Boer",
+  "type": "artillery",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "6-inch Creusot (Long Tom); besieged Ladysmith; Pepworth Hill; later Kimberley; repaired in Pretoria"
+ },
+ {
+  "unit": "Boer Krupp Batteries",
+  "side": "Boer",
+  "type": "artillery",
+  "theater": "All",
+  "commander": "",
+  "notes": "16 Krupp guns; Transvaal State Artillery; throughout all major battles"
+ },
+ {
+  "unit": "German Corps Artillery",
+  "side": "Boer",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "German volunteers with Boers; brought guns; Magersfontein; Creusot howitzers"
+ },
+ {
+  "unit": "Rundle's 8th Division",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "Rundle",
+  "notes": "Colonial Division under Rundle; Senekal/Brandwater Basin; OFS advance post-Bloemfontein"
+ },
+ {
+  "unit": "Brabant's Colonial Division",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape",
+  "commander": "Brabant",
+  "notes": "Cape Colony operations; Wepener; Brandwater Basin; never beaten in field; mounted cols"
+ },
+ {
+  "unit": "Diamond Fields Artillery (Kimberley)",
+  "side": "Colonial",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "7-pounders surreptitiously brought from King Williamstown before siege; Kimberley defence"
+ },
+ {
+  "unit": "Long Cecil (Kimberley)",
+  "side": "Colonial",
+  "type": "artillery",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Heavy gun manufactured in De Beers workshops during Kimberley siege; de Beers engineering"
+ },
+ {
+  "unit": "Chermside's 3rd Division",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Cape",
+  "commander": "Chermside",
+  "notes": "III Division under Gatacre then Chermside; Stormberg; Cape Colony; OFS advance via Bethulie"
+ },
+ {
+  "unit": "Colvile's 9th Division",
+  "side": "British",
+  "type": "infantry",
+  "theater": "OFS",
+  "commander": "Colvile",
+  "notes": "IX Division; Paardeberg; advance to Bloemfontein; Sannah's Post disaster (Yeomanry)"
+ },
+ {
+  "unit": "White's Ladysmith Garrison (4th Division)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "White",
+  "notes": "IV Division; all units at Ladysmith during siege Oct 1899-Feb 1900; ~11,000 besieged"
+ },
+ {
+  "unit": "Natal Field Force (general)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Natal",
+  "commander": "Buller",
+  "notes": "Buller's overall command; all units engaged in Tugela crossing attempts Nov 1899-Feb 1900"
+ },
+ {
+  "unit": "Natal Carabineers (general)",
+  "side": "Colonial",
+  "type": "cavalry",
+  "theater": "Natal",
+  "commander": "Porter",
+  "notes": "Colonel Porter commanding; Natal colonial cavalry; Elandslaagte; Dundonald's brigade; Ladysmith"
+ },
+ {
+  "unit": "Natal Native Contingent (4th Battalion)",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Native contingent Natal; commanded by officer mentioned 1881 service; Natal defence"
+ },
+ {
+  "unit": "Border Rifles",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Natal colonial; 3074 mentions 'the Border Rifles' with cavalry before Ladysmith investment"
+ },
+ {
+  "unit": "Kimberley Defence Force",
+  "side": "Colonial",
+  "type": "garrison",
+  "theater": "Cape",
+  "commander": "Kekewich",
+  "notes": "Mixed force under Kekewich; Kimberley garrison Oct 1899-Feb 1900; ~120 regular troops + 7/8 irregulars"
+ },
+ {
+  "unit": "Mafeking Town Guard",
+  "side": "Colonial",
+  "type": "garrison",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Able-bodied residents of Mafeking; formed Town Guard ~200 men; Mafeking siege Oct 1899-May 1900"
+ },
+ {
+  "unit": "Mafeking Protectorate Regiment",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "Hore",
+  "notes": "340 men; irregular corps; core fighting force Mafeking garrison; colonel Hore commanding"
+ },
+ {
+  "unit": "Mafeking Town Volunteers",
+  "side": "Colonial",
+  "type": "garrison",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "200 volunteers; adventurers, younger sons; garrison Mafeking; Colonel Vyvyan and Major Panzera defence planners"
+ },
+ {
+  "unit": "Bechuanaland Border Police",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "170 police in Mafeking garrison; part of the nine hundred defenders; Mafeking siege"
+ },
+ {
+  "unit": "Zeerust Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Western Transvaal; one of commandos investing Mafeking Oct 1899; Cronje's besieging force"
+ },
+ {
+  "unit": "Schweizer-Renecke Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Harts River district; besieged Schweizer-Renecke Aug-Nov 1900; ~500-1000 men vs. 250 garrison"
+ },
+ {
+  "unit": "2nd Bn Derbyshire Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "ORC",
+  "commander": "",
+  "notes": "Bruce Hamilton's 21st Brigade; Lindley/Heilbron district ORC guerrilla phase 1900-01"
+ },
+ {
+  "unit": "1st Bn Royal Sussex Regiment",
+  "side": "British",
+  "type": "infantry",
+  "theater": "ORC",
+  "commander": "",
+  "notes": "Bruce Hamilton's 21st Brigade; Lindley/Heilbron district ORC guerrilla phase 1900-01"
+ },
+ {
+  "unit": "1st Bn Cameron Highlanders",
+  "side": "British",
+  "type": "infantry",
+  "theater": "ORC",
+  "commander": "",
+  "notes": "Bruce Hamilton's 21st Brigade; Lindley/Heilbron district; also served Diamond Hill/Transvaal"
+ },
+ {
+  "unit": "2nd Bn Royal Lancaster Regiment (Vryheid)",
+  "side": "British",
+  "type": "infantry",
+  "theater": "Transvaal",
+  "commander": "Gawne",
+  "notes": "500 strong; Vryheid garrison Dec 1900; night attack by Boers; Colonel Gawne killed"
+ },
+ {
+  "unit": "Royal Garrison Artillery (Vryheid)",
+  "side": "British",
+  "type": "artillery",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "50 men Royal Garrison Artillery in Vryheid garrison Dec 1900; held hill north of town"
+ },
+ {
+  "unit": "Cape Mounted Police",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Cape Colony; camp advanced of Gatacre's force Jan 1900; attacked by Boers; held position"
+ },
+ {
+  "unit": "Johannesburg Volunteers",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Uitlander refugees; raised at outbreak of war; joined Imperial Light Horse cadre Natal"
+ },
+ {
+  "unit": "Natal Carbineers (2nd Regiment)",
+  "side": "Colonial",
+  "type": "cavalry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Second Natal Carabineer regiment raised wartime; Natal defence and column duties"
+ },
+ {
+  "unit": "Imperial Yeomanry (2nd Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Imperial Yeomanry; raised Jan 1900; OFS operations early 1900; also ORC guerrilla phase"
+ },
+ {
+  "unit": "Imperial Yeomanry (3rd Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Imperial Yeomanry; OFS/ORC operations 1900; convoy and column duties"
+ },
+ {
+  "unit": "Imperial Yeomanry (6th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Imperial Yeomanry; OFS/Transvaal; convoys and column work"
+ },
+ {
+  "unit": "Imperial Yeomanry (8th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "ORC",
+  "commander": "",
+  "notes": "Imperial Yeomanry; ORC/Transvaal guerrilla phase; escort and reconnaissance"
+ },
+ {
+  "unit": "Imperial Yeomanry (9th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "ORC",
+  "commander": "",
+  "notes": "Imperial Yeomanry; ORC operations; column and escort duties guerrilla phase"
+ },
+ {
+  "unit": "Imperial Yeomanry (12th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Imperial Yeomanry; OFS/ORC guerrilla phase; column duties Lindley area"
+ },
+ {
+  "unit": "Imperial Yeomanry (13th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "ORC",
+  "commander": "",
+  "notes": "Imperial Yeomanry; ORC guerrilla phase; Kimberley relief area then OFS/Transvaal"
+ },
+ {
+  "unit": "Imperial Yeomanry (15th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Imperial Yeomanry; Transvaal guerrilla phase; mobile column duties"
+ },
+ {
+  "unit": "Imperial Yeomanry (16th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "ORC",
+  "commander": "",
+  "notes": "Imperial Yeomanry; ORC/Transvaal guerrilla phase operations"
+ },
+ {
+  "unit": "Imperial Yeomanry (19th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Imperial Yeomanry; Transvaal guerrilla phase; mounted column duties"
+ },
+ {
+  "unit": "Imperial Yeomanry (20th Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "ORC",
+  "commander": "",
+  "notes": "Imperial Yeomanry; Orange River Colony guerrilla phase; columns"
+ },
+ {
+  "unit": "Imperial Yeomanry (21st Battalion)",
+  "side": "British",
+  "type": "yeomanry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Imperial Yeomanry; Cape Colony guerrilla phase; Eastern Cape/ORC column operations"
+ },
+ {
+  "unit": "De la Rey's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "De la Rey",
+  "notes": "Western Transvaal; Magersfontein innovator of forward trenches; De la Rey ops Magaliesberg; Tweebosch"
+ },
+ {
+  "unit": "Kemp's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "Kemp",
+  "notes": "Western Transvaal; Tweebosch Feb 1902; partly responsible for Methuen's capture"
+ },
+ {
+  "unit": "Snyman's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "Snyman",
+  "notes": "Transvaal; invested Mafeking; Commandant Snyman besieging Mafeking; replaced Cronje when he moved south"
+ },
+ {
+  "unit": "Sarel Eloff's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "Eloff",
+  "notes": "Young Transvaal officer; daring assault on Mafeking May 12 1900; captured with his men"
+ },
+ {
+  "unit": "Botha's Commando (guerrilla phase)",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "Transvaal",
+  "commander": "L. Botha",
+  "notes": "Louis Botha overall Transvaal command; Belfast; Dalmanutha; guerrilla mobile ops post-Pretoria"
+ },
+ {
+  "unit": "Muller's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "ORC",
+  "commander": "Muller",
+  "notes": "ORC; Free State guerrilla; often operating with De Wet; ORC late war"
+ },
+ {
+  "unit": "Vilonel's Commando",
+  "side": "Boer",
+  "type": "commando",
+  "theater": "ORC",
+  "commander": "Vilonel",
+  "notes": "ORC; guerrilla phase; sometimes joined De Wet's main body ORC"
+ },
+ {
+  "unit": "Benson's Column",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Transvaal",
+  "commander": "Benson",
+  "notes": "Colonel Benson; active guerrilla phase column eastern Transvaal; Bakenlaagte Oct 1901 Benson killed"
+ },
+ {
+  "unit": "Settle's Column",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "ORC",
+  "commander": "Settle",
+  "notes": "Colonel Settle; western ORC border; Nov 1900 Kimberley south; action vs Hertzog; 'Settle's Imperial Circus'"
+ },
+ {
+  "unit": "Plumer's Column (Rhodesian)",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Transvaal",
+  "commander": "Plumer",
+  "notes": "Colonel Plumer; Rhodesian force; Mafeking relief column May 1900; Pietersburg expedition 1901"
+ },
+ {
+  "unit": "Mahon's Column",
+  "side": "British",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "Mahon",
+  "notes": "Colonel Mahon; southern column Mafeking relief May 1900; linked with Plumer from Barkly West"
+ },
+ {
+  "unit": "Royal Canadian Regiment (2nd Bn)",
+  "side": "Colonial",
+  "type": "infantry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Second Canadian contingent; infantry battalion; South Africa service 1900-01"
+ },
+ {
+  "unit": "1st Queensland Imperial Bushmen",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Australian colonial; Queensland bushmen contingent; OFS/Transvaal guerrilla phase"
+ },
+ {
+  "unit": "New South Wales Imperial Bushmen",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Australian contingent; NSW bushmen; OFS advance and guerrilla phase Transvaal"
+ },
+ {
+  "unit": "Victorian Imperial Bushmen",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Australian contingent; Victoria Imperial Bushmen; OFS/Transvaal guerrilla phase"
+ },
+ {
+  "unit": "South Australian Imperial Bushmen",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Australian contingent; SA Imperial Bushmen; OFS and ORC guerrilla phase operations"
+ },
+ {
+  "unit": "West Australian Bushmen",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Australian contingent; West Australian Bushmen; OFS/Transvaal guerrilla phase"
+ },
+ {
+  "unit": "Tasmanian Imperial Bushmen",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "OFS",
+  "commander": "",
+  "notes": "Australian contingent; Tasmanian Bushmen contingent; OFS and guerrilla phase"
+ },
+ {
+  "unit": "New Zealand 5th Contingent",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "New Zealand; one of several contingents; Transvaal guerrilla phase operations 1901"
+ },
+ {
+  "unit": "Cape Colony Mounted Rifles (general)",
+  "side": "Colonial",
+  "type": "mounted_infantry",
+  "theater": "Cape",
+  "commander": "",
+  "notes": "Various CMR units raised Cape Colony; Eastern Cape; Stormberg area; Wepener; guerrilla phase"
+ },
+ {
+  "unit": "Swaziland Police",
+  "side": "Colonial",
+  "type": "colonial",
+  "theater": "Transvaal",
+  "commander": "",
+  "notes": "Small police force; Swaziland; eastern Transvaal border; mentioned in Vryheid area ops"
+ },
+ {
+  "unit": "Bengal Lancers",
+  "side": "British",
+  "type": "cavalry",
+  "theater": "Natal",
+  "commander": "",
+  "notes": "Indian cavalry component; part of Indian contingent; arrived Natal 1899; served Natal theater"
+ }
+]

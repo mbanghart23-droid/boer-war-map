@@ -1,0 +1,16 @@
+{
+"type":"FeatureCollection",
+"_note":"Kitchener's blockhouse system, 1901-1902 (national). Lines follow the protected railways and the main cross-country cordons; routes are approximate, traced through the principal junctions. By May 1902 ~8,000 blockhouses and ~3,700 miles of line had been built across South Africa.",
+"features":[
+{"type":"Feature","properties":{"name":"Western main line: Cape Town – De Aar – Kimberley – Mafeking","front":"Cape / Western","dates":"1901-1902"},"geometry":{"type":"LineString","coordinates":[[18.42,-33.92],[19.9,-33.6],[22.58,-32.36],[24.01,-30.65],[24.76,-28.74],[24.73,-26.96],[25.64,-25.86]]}},
+{"type":"Feature","properties":{"name":"Central main line: De Aar – Noupoort – Norvalspont – Bloemfontein – Pretoria","front":"Cape / OFS / Transvaal","dates":"1901-1902"},"geometry":{"type":"LineString","coordinates":[[24.01,-30.65],[24.95,-31.18],[25.10,-30.72],[25.45,-30.63],[25.70,-30.27],[26.21,-29.12],[27.23,-27.65],[28.04,-26.20],[28.19,-25.75]]}},
+{"type":"Feature","properties":{"name":"Midland line: Port Elizabeth – Cradock – Rosmead – Noupoort","front":"Cape","dates":"1901-1902"},"geometry":{"type":"LineString","coordinates":[[25.62,-33.96],[25.62,-32.74],[25.62,-32.16],[25.00,-31.49],[24.95,-31.18]]}},
+{"type":"Feature","properties":{"name":"Eastern line: East London – Queenstown – Stormberg – Aliwal North – Springfontein","front":"Cape / OFS","dates":"1901-1902"},"geometry":{"type":"LineString","coordinates":[[27.91,-33.02],[26.88,-31.90],[26.55,-31.56],[26.30,-31.27],[26.33,-30.99],[26.71,-30.70],[25.97,-30.50],[25.70,-30.27]]}},
+{"type":"Feature","properties":{"name":"Midland cross-link: Rosmead – Steynsburg – Molteno – Stormberg","front":"Cape","dates":"1901-1902"},"geometry":{"type":"LineString","coordinates":[[25.00,-31.49],[25.81,-31.29],[26.36,-31.39],[26.30,-31.27]]}},
+{"type":"Feature","properties":{"name":"Natal main line: Durban – Ladysmith – Volksrust – Johannesburg","front":"Natal / Transvaal","dates":"1901-1902"},"geometry":{"type":"LineString","coordinates":[[31.02,-29.86],[30.39,-29.61],[29.78,-28.56],[29.93,-27.76],[29.88,-27.37],[29.24,-26.95],[28.04,-26.20]]}},
+{"type":"Feature","properties":{"name":"Delagoa Bay line: Pretoria – Belfast – Komatipoort","front":"Transvaal","dates":"1901-1902"},"geometry":{"type":"LineString","coordinates":[[28.19,-25.75],[29.46,-25.77],[30.03,-25.69],[31.95,-25.43]]}},
+{"type":"Feature","properties":{"name":"Northern line: Pretoria – Pietersburg","front":"Transvaal","dates":"1901-1902"},"geometry":{"type":"LineString","coordinates":[[28.19,-25.75],[28.8,-24.7],[29.46,-23.90]]}},
+{"type":"Feature","properties":{"name":"Bloemfontein – Ladysmith line (via Bethlehem/Harrismith)","front":"OFS / Natal","dates":"1901-1902"},"geometry":{"type":"LineString","coordinates":[[26.21,-29.12],[27.0,-28.7],[28.31,-28.31],[29.13,-28.27],[29.78,-28.56]]}},
+{"type":"Feature","properties":{"name":"Western cross-country: Hutchinson – Carnarvon – Calvinia","front":"Western Cape","dates":"1901-1902"},"geometry":{"type":"LineString","coordinates":[[23.18,-31.49],[22.13,-30.97],[19.77,-31.47]]}}
+]
+}

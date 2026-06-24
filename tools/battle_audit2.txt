@@ -1,0 +1,51 @@
+======================================================================
+BATTLE AUDIT v2 — strict name matching + curated aliases
+======================================================================
+
+[Stormberg — 1899-12-10]
+  OK: 8
+
+[Magersfontein — 1899-12-11]
+  OK: 25
+  MISSING FROM CSV ENTIRELY:
+    - 2nd Black Watch
+    - 2nd Seaforth Highlanders
+    - 1st Highland Light Infantry
+    - 1st Gordon Highlanders
+
+[Colenso — 1899-12-15]
+  OK: 35
+
+[Spion Kop — 1900-01-24]
+  OK: 13
+
+[Paardeberg — 1900-02-18]
+  OK: 15
+  MISSING FROM CSV ENTIRELY:
+    - 2nd Black Watch
+    - 1st Highland Light Infantry
+    - 2nd Seaforth Highlanders
+
+[Sanna's Post — 1900-03-31]
+  OK: 6
+
+[Diamond Hill — 1900-06-11]
+  OK: 5
+
+[Bergendal — 1900-08-27]
+  OK: 13
+
+[Nooitgedacht — 1900-12-13]
+  OK: 4
+
+[Tweebosch — 1902-03-07]
+  OK: 5
+
+======================================================================
+ALL MISSING UNITS (need to add):
+  2nd Black Watch                                          [first at: Magersfontein]
+  2nd Seaforth Highlanders                                 [first at: Magersfontein]
+  1st Highland Light Infantry                              [first at: Magersfontein]
+  1st Gordon Highlanders                                   [first at: Magersfontein]
+
+ALL LATE UNITS (pre-battle event needed):

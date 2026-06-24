@@ -1,0 +1,4958 @@
+1964|Standerton|Newcastle|Standerton
+1965|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+1966|Johannesburg|Heidelberg (Tvl)|Johannesburg
+1967|Krugersdorp|Johannesburg|Krugersdorp
+1968|Rustenburg|Krugersdorp|Rustenburg
+1969|Lichtenburg|Rustenburg|Lichtenburg
+1970|Mafeking|Lichtenburg|Mafeking
+1971|Klerksdorp|Mafeking|Klerksdorp
+1972|Potchefstroom|Klerksdorp|Potchefstroom
+1973|Pretoria|Potchefstroom|Pretoria
+1974|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+1975|Belfast|Middelburg (Tvl)|Belfast
+1976|Colesberg|Naauwpoort|Colesberg
+1977|Aliwal North|Colesberg|Aliwal North
+1978|Queenstown|Aliwal North|Queenstown
+1979|Stormberg|Queenstown|Stormberg
+1980|Molteno|Stormberg|Molteno
+1981|Sterkstroom|Molteno|Sterkstroom
+1982|Cradock|Sterkstroom|Cradock
+1983|Middelburg (Cape)|Cradock|Middelburg (Cape)
+1984|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+1985|Aberdeen|Graaff-Reinet|Aberdeen
+1986|Murraysburg|Aberdeen|Murraysburg
+1987|Richmond|Murraysburg|Richmond
+1988|Hanover|Richmond|Hanover
+1989|De Aar|Hanover|De Aar
+1990|Hanover Road|De Aar|Hanover Road
+1991|Belfast|Middelburg (Tvl)|Belfast
+1992|Carolina|Belfast|Carolina
+1993|Lydenburg|Carolina|Lydenburg
+1994|Ermelo|Lydenburg|Ermelo
+1995|Standerton|Ermelo|Standerton
+1996|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+1997|Johannesburg|Heidelberg (Tvl)|Johannesburg
+1998|Krugersdorp|Johannesburg|Krugersdorp
+1999|Rustenburg|Krugersdorp|Rustenburg
+2000|Belfast|Middelburg (Tvl)|Belfast
+2001|Carolina|Belfast|Carolina
+2002|Lydenburg|Carolina|Lydenburg
+2003|Ermelo|Lydenburg|Ermelo
+2004|Standerton|Ermelo|Standerton
+2005|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2006|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2007|Krugersdorp|Johannesburg|Krugersdorp
+2008|Rustenburg|Krugersdorp|Rustenburg
+2009|Lichtenburg|Rustenburg|Lichtenburg
+2010|Belfast|Middelburg (Tvl)|Belfast
+2011|Carolina|Belfast|Carolina
+2012|Lydenburg|Carolina|Lydenburg
+2013|Ermelo|Lydenburg|Ermelo
+2014|Standerton|Ermelo|Standerton
+2015|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2016|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2017|Krugersdorp|Johannesburg|Krugersdorp
+2018|Rustenburg|Krugersdorp|Rustenburg
+2019|Lichtenburg|Rustenburg|Lichtenburg
+2020|Belfast|Middelburg (Tvl)|Belfast
+2021|Carolina|Belfast|Carolina
+2022|Lydenburg|Carolina|Lydenburg
+2023|Ermelo|Lydenburg|Ermelo
+2024|Standerton|Ermelo|Standerton
+2025|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2026|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2027|Krugersdorp|Johannesburg|Krugersdorp
+2028|Rustenburg|Krugersdorp|Rustenburg
+2029|Lichtenburg|Rustenburg|Lichtenburg
+2030|Belfast|Middelburg (Tvl)|Belfast
+2031|Carolina|Belfast|Carolina
+2032|Lydenburg|Carolina|Lydenburg
+2033|Ermelo|Lydenburg|Ermelo
+2034|Standerton|Ermelo|Standerton
+2035|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2036|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2037|Krugersdorp|Johannesburg|Krugersdorp
+2038|Rustenburg|Krugersdorp|Rustenburg
+2039|Lichtenburg|Rustenburg|Lichtenburg
+2040|Mafeking|Lichtenburg|Mafeking
+2041|Belfast|Middelburg (Tvl)|Belfast
+2042|Carolina|Belfast|Carolina
+2043|Lydenburg|Carolina|Lydenburg
+2044|Ermelo|Lydenburg|Ermelo
+2045|Standerton|Ermelo|Standerton
+2046|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2047|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2048|Krugersdorp|Johannesburg|Krugersdorp
+2049|Rustenburg|Krugersdorp|Rustenburg
+2050|Lichtenburg|Rustenburg|Lichtenburg
+2051|Belfast|Middelburg (Tvl)|Belfast
+2052|Carolina|Belfast|Carolina
+2053|Lydenburg|Carolina|Lydenburg
+2054|Newcastle|Dundee|Newcastle
+2055|Standerton|Newcastle|Standerton
+2056|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2057|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2058|Krugersdorp|Johannesburg|Krugersdorp
+2059|Rustenburg|Krugersdorp|Rustenburg
+2060|Lichtenburg|Rustenburg|Lichtenburg
+2061|Mafeking|Lichtenburg|Mafeking
+2062|Klerksdorp|Mafeking|Klerksdorp
+2063|Potchefstroom|Klerksdorp|Potchefstroom
+2064|Pretoria|Potchefstroom|Pretoria
+2065|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2066|Belfast|Middelburg (Tvl)|Belfast
+2067|Carolina|Belfast|Carolina
+2068|Lydenburg|Carolina|Lydenburg
+2069|Ermelo|Lydenburg|Ermelo
+2070|Standerton|Ermelo|Standerton
+2071|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2072|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2073|Krugersdorp|Johannesburg|Krugersdorp
+2074|Rustenburg|Krugersdorp|Rustenburg
+2075|Lichtenburg|Rustenburg|Lichtenburg
+2076|Belfast|Middelburg (Tvl)|Belfast
+2077|Carolina|Belfast|Carolina
+2078|Lydenburg|Carolina|Lydenburg
+2079|Ermelo|Lydenburg|Ermelo
+2080|Standerton|Ermelo|Standerton
+2081|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2082|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2083|Krugersdorp|Johannesburg|Krugersdorp
+2084|Rustenburg|Krugersdorp|Rustenburg
+2085|Heilbron|Kroonstad|Heilbron
+2086|Vrede|Heilbron|Vrede
+2087|Harrismith|Vrede|Harrismith
+2088|Bethlehem|Harrismith|Bethlehem
+2089|Senekal|Bethlehem|Senekal
+2090|Ladybrand|Senekal|Ladybrand
+2091|Standerton|Newcastle|Standerton
+2092|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2093|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2094|Krugersdorp|Johannesburg|Krugersdorp
+2095|Rustenburg|Krugersdorp|Rustenburg
+2096|Lichtenburg|Rustenburg|Lichtenburg
+2097|Mafeking|Lichtenburg|Mafeking
+2098|Klerksdorp|Mafeking|Klerksdorp
+2099|Potchefstroom|Klerksdorp|Potchefstroom
+2100|Pretoria|Potchefstroom|Pretoria
+2101|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2102|Belfast|Middelburg (Tvl)|Belfast
+2103|Carolina|Belfast|Carolina
+2104|Lydenburg|Carolina|Lydenburg
+2105|Ermelo|Lydenburg|Ermelo
+2106|Standerton|Ermelo|Standerton
+2107|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2108|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2109|Krugersdorp|Johannesburg|Krugersdorp
+2110|Rustenburg|Krugersdorp|Rustenburg
+2111|Belfast|Middelburg (Tvl)|Belfast
+2112|Carolina|Belfast|Carolina
+2113|Lydenburg|Carolina|Lydenburg
+2114|Ermelo|Lydenburg|Ermelo
+2115|Standerton|Ermelo|Standerton
+2116|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2117|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2118|Krugersdorp|Johannesburg|Krugersdorp
+2119|Rustenburg|Krugersdorp|Rustenburg
+2120|Newcastle|Dundee|Newcastle
+2121|Standerton|Newcastle|Standerton
+2122|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2123|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2124|Krugersdorp|Johannesburg|Krugersdorp
+2125|Rustenburg|Krugersdorp|Rustenburg
+2126|Lichtenburg|Rustenburg|Lichtenburg
+2127|Mafeking|Lichtenburg|Mafeking
+2128|Klerksdorp|Mafeking|Klerksdorp
+2129|Potchefstroom|Klerksdorp|Potchefstroom
+2130|Pretoria|Potchefstroom|Pretoria
+2131|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2132|Belfast|Middelburg (Tvl)|Belfast
+2133|Carolina|Belfast|Carolina
+2134|Lydenburg|Carolina|Lydenburg
+2135|Ermelo|Lydenburg|Ermelo
+2136|Standerton|Ermelo|Standerton
+2137|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2138|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2139|Krugersdorp|Johannesburg|Krugersdorp
+2140|Rustenburg|Krugersdorp|Rustenburg
+2141|Kroonstad|Bloemfontein|Kroonstad
+2142|Heilbron|Kroonstad|Heilbron
+2143|Vrede|Heilbron|Vrede
+2144|Harrismith|Vrede|Harrismith
+2145|Bethlehem|Harrismith|Bethlehem
+2146|Senekal|Bethlehem|Senekal
+2147|Middelburg (Cape)|Cradock|Middelburg (Cape)
+2148|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+2149|Aberdeen|Graaff-Reinet|Aberdeen
+2150|Murraysburg|Aberdeen|Murraysburg
+2151|Stormberg|Queenstown|Stormberg
+2152|Molteno|Stormberg|Molteno
+2153|Heilbron|Kroonstad|Heilbron
+2154|Vrede|Heilbron|Vrede
+2155|Harrismith|Vrede|Harrismith
+2156|Bethlehem|Harrismith|Bethlehem
+2157|Senekal|Bethlehem|Senekal
+2158|Ladybrand|Senekal|Ladybrand
+2159|Belfast|Middelburg (Tvl)|Belfast
+2160|Carolina|Belfast|Carolina
+2161|Lydenburg|Carolina|Lydenburg
+2162|Ermelo|Lydenburg|Ermelo
+2163|Standerton|Ermelo|Standerton
+2164|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2165|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2166|Newcastle|Dundee|Newcastle
+2167|Standerton|Newcastle|Standerton
+2168|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2169|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2170|Krugersdorp|Johannesburg|Krugersdorp
+2171|Rustenburg|Krugersdorp|Rustenburg
+2172|Lichtenburg|Rustenburg|Lichtenburg
+2173|Mafeking|Lichtenburg|Mafeking
+2174|Klerksdorp|Mafeking|Klerksdorp
+2175|Potchefstroom|Klerksdorp|Potchefstroom
+2176|Pretoria|Potchefstroom|Pretoria
+2177|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2178|Belfast|Middelburg (Tvl)|Belfast
+2179|Carolina|Belfast|Carolina
+2180|Belfast|Middelburg (Tvl)|Belfast
+2181|Carolina|Belfast|Carolina
+2182|Lydenburg|Carolina|Lydenburg
+2183|Ermelo|Lydenburg|Ermelo
+2184|Standerton|Ermelo|Standerton
+2185|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2186|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2187|Krugersdorp|Johannesburg|Krugersdorp
+2188|Rustenburg|Krugersdorp|Rustenburg
+2189|Lichtenburg|Rustenburg|Lichtenburg
+2190|Newcastle|Dundee|Newcastle
+2191|Standerton|Newcastle|Standerton
+2192|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2193|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2194|Krugersdorp|Johannesburg|Krugersdorp
+2195|Rustenburg|Krugersdorp|Rustenburg
+2196|Lichtenburg|Rustenburg|Lichtenburg
+2197|Mafeking|Lichtenburg|Mafeking
+2198|Klerksdorp|Mafeking|Klerksdorp
+2199|Potchefstroom|Klerksdorp|Potchefstroom
+2200|Pretoria|Potchefstroom|Pretoria
+2201|Belfast|Middelburg (Tvl)|Belfast
+2202|Carolina|Belfast|Carolina
+2203|Lydenburg|Carolina|Lydenburg
+2204|Ermelo|Lydenburg|Ermelo
+2205|Standerton|Ermelo|Standerton
+2206|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2207|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2208|Krugersdorp|Johannesburg|Krugersdorp
+2209|Rustenburg|Krugersdorp|Rustenburg
+2210|Lichtenburg|Rustenburg|Lichtenburg
+2211|Belfast|Middelburg (Tvl)|Belfast
+2212|Carolina|Belfast|Carolina
+2213|Lydenburg|Carolina|Lydenburg
+2214|Ermelo|Lydenburg|Ermelo
+2215|Standerton|Ermelo|Standerton
+2216|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2217|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2218|Krugersdorp|Johannesburg|Krugersdorp
+2219|Rustenburg|Krugersdorp|Rustenburg
+2220|Lichtenburg|Rustenburg|Lichtenburg
+2221|Belfast|Middelburg (Tvl)|Belfast
+2222|Carolina|Belfast|Carolina
+2223|Lydenburg|Carolina|Lydenburg
+2224|Ermelo|Lydenburg|Ermelo
+2225|Standerton|Ermelo|Standerton
+2226|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2227|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2228|Krugersdorp|Johannesburg|Krugersdorp
+2229|Rustenburg|Krugersdorp|Rustenburg
+2230|Standerton|Newcastle|Standerton
+2231|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2232|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2233|Krugersdorp|Johannesburg|Krugersdorp
+2234|Rustenburg|Krugersdorp|Rustenburg
+2235|Lichtenburg|Rustenburg|Lichtenburg
+2236|Mafeking|Lichtenburg|Mafeking
+2237|Klerksdorp|Mafeking|Klerksdorp
+2238|Potchefstroom|Klerksdorp|Potchefstroom
+2239|Pretoria|Potchefstroom|Pretoria
+2240|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2241|Belfast|Middelburg (Tvl)|Belfast
+2242|Carolina|Belfast|Carolina
+2243|Lydenburg|Carolina|Lydenburg
+2244|Ermelo|Lydenburg|Ermelo
+2245|Standerton|Ermelo|Standerton
+2246|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2247|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2248|Krugersdorp|Johannesburg|Krugersdorp
+2249|Rustenburg|Krugersdorp|Rustenburg
+2250|Lichtenburg|Rustenburg|Lichtenburg
+2251|Mafeking|Lichtenburg|Mafeking
+2252|Belfast|Middelburg (Tvl)|Belfast
+2253|Carolina|Belfast|Carolina
+2254|Lydenburg|Carolina|Lydenburg
+2255|Ermelo|Lydenburg|Ermelo
+2256|Standerton|Ermelo|Standerton
+2257|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2258|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2259|Krugersdorp|Johannesburg|Krugersdorp
+2260|Rustenburg|Krugersdorp|Rustenburg
+2261|Belfast|Middelburg (Tvl)|Belfast
+2262|Carolina|Belfast|Carolina
+2263|Lydenburg|Carolina|Lydenburg
+2264|Ermelo|Lydenburg|Ermelo
+2265|Standerton|Ermelo|Standerton
+2266|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2267|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2268|Krugersdorp|Johannesburg|Krugersdorp
+2269|Rustenburg|Krugersdorp|Rustenburg
+2270|Lichtenburg|Rustenburg|Lichtenburg
+2271|Mafeking|Lichtenburg|Mafeking
+2272|Belfast|Middelburg (Tvl)|Belfast
+2273|Carolina|Belfast|Carolina
+2274|Lydenburg|Carolina|Lydenburg
+2275|Ermelo|Lydenburg|Ermelo
+2276|Standerton|Ermelo|Standerton
+2277|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2278|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2279|Krugersdorp|Johannesburg|Krugersdorp
+2280|Rustenburg|Krugersdorp|Rustenburg
+2281|Belfast|Middelburg (Tvl)|Belfast
+2282|Carolina|Belfast|Carolina
+2283|Lydenburg|Carolina|Lydenburg
+2284|Ermelo|Lydenburg|Ermelo
+2285|Standerton|Ermelo|Standerton
+2286|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2287|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2288|Krugersdorp|Johannesburg|Krugersdorp
+2289|Rustenburg|Krugersdorp|Rustenburg
+2290|Belfast|Middelburg (Tvl)|Belfast
+2291|Carolina|Belfast|Carolina
+2292|Lydenburg|Carolina|Lydenburg
+2293|Ermelo|Lydenburg|Ermelo
+2294|Standerton|Ermelo|Standerton
+2295|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2296|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2297|Krugersdorp|Johannesburg|Krugersdorp
+2298|Rustenburg|Krugersdorp|Rustenburg
+2299|Lichtenburg|Rustenburg|Lichtenburg
+2300|Mafeking|Lichtenburg|Mafeking
+2301|Heilbron|Kroonstad|Heilbron
+2302|Vrede|Heilbron|Vrede
+2303|Harrismith|Vrede|Harrismith
+2304|Bethlehem|Harrismith|Bethlehem
+2305|Senekal|Bethlehem|Senekal
+2306|Ladybrand|Senekal|Ladybrand
+2307|Newcastle|Dundee|Newcastle
+2308|Standerton|Newcastle|Standerton
+2309|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2310|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2311|Krugersdorp|Johannesburg|Krugersdorp
+2312|Rustenburg|Krugersdorp|Rustenburg
+2313|Lichtenburg|Rustenburg|Lichtenburg
+2314|Mafeking|Lichtenburg|Mafeking
+2315|Klerksdorp|Mafeking|Klerksdorp
+2316|Potchefstroom|Klerksdorp|Potchefstroom
+2317|Pretoria|Potchefstroom|Pretoria
+2318|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2319|Belfast|Middelburg (Tvl)|Belfast
+2320|Belfast|Middelburg (Tvl)|Belfast
+2321|Carolina|Belfast|Carolina
+2322|Lydenburg|Carolina|Lydenburg
+2323|Ermelo|Lydenburg|Ermelo
+2324|Standerton|Ermelo|Standerton
+2325|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2326|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2327|Krugersdorp|Johannesburg|Krugersdorp
+2328|Belfast|Middelburg (Tvl)|Belfast
+2329|Carolina|Belfast|Carolina
+2330|Lydenburg|Carolina|Lydenburg
+2331|Ermelo|Lydenburg|Ermelo
+2332|Standerton|Ermelo|Standerton
+2333|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2334|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2335|Krugersdorp|Johannesburg|Krugersdorp
+2336|Rustenburg|Krugersdorp|Rustenburg
+2337|Lichtenburg|Rustenburg|Lichtenburg
+2338|Belfast|Middelburg (Tvl)|Belfast
+2339|Carolina|Belfast|Carolina
+2340|Lydenburg|Carolina|Lydenburg
+2341|Ermelo|Lydenburg|Ermelo
+2342|Standerton|Ermelo|Standerton
+2343|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2344|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2345|Krugersdorp|Johannesburg|Krugersdorp
+2346|Rustenburg|Krugersdorp|Rustenburg
+2347|Belfast|Middelburg (Tvl)|Belfast
+2348|Carolina|Belfast|Carolina
+2349|Lydenburg|Carolina|Lydenburg
+2350|Ermelo|Lydenburg|Ermelo
+2351|Standerton|Ermelo|Standerton
+2352|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2353|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2354|Krugersdorp|Johannesburg|Krugersdorp
+2355|Rustenburg|Krugersdorp|Rustenburg
+2356|Lichtenburg|Rustenburg|Lichtenburg
+2357|Belfast|Middelburg (Tvl)|Belfast
+2358|Carolina|Belfast|Carolina
+2359|Lydenburg|Carolina|Lydenburg
+2360|Ermelo|Lydenburg|Ermelo
+2361|Standerton|Ermelo|Standerton
+2362|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2363|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2364|Krugersdorp|Johannesburg|Krugersdorp
+2365|Rustenburg|Krugersdorp|Rustenburg
+2366|Standerton|Newcastle|Standerton
+2367|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2368|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2369|Krugersdorp|Johannesburg|Krugersdorp
+2370|Rustenburg|Krugersdorp|Rustenburg
+2371|Lichtenburg|Rustenburg|Lichtenburg
+2372|Mafeking|Lichtenburg|Mafeking
+2373|Klerksdorp|Mafeking|Klerksdorp
+2374|Potchefstroom|Klerksdorp|Potchefstroom
+2375|Pretoria|Potchefstroom|Pretoria
+2376|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2377|Heilbron|Kroonstad|Heilbron
+2378|Vrede|Heilbron|Vrede
+2379|Harrismith|Vrede|Harrismith
+2380|Bethlehem|Harrismith|Bethlehem
+2381|Senekal|Bethlehem|Senekal
+2382|Ladybrand|Senekal|Ladybrand
+2383|Pretoria|Amersfoort|Pretoria
+2384|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2385|Belfast|Middelburg (Tvl)|Belfast
+2386|Carolina|Belfast|Carolina
+2387|Lydenburg|Carolina|Lydenburg
+2388|Ermelo|Lydenburg|Ermelo
+2389|Standerton|Ermelo|Standerton
+2390|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2391|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2392|Krugersdorp|Johannesburg|Krugersdorp
+2393|Rustenburg|Krugersdorp|Rustenburg
+2394|Belfast|Middelburg (Tvl)|Belfast
+2395|Carolina|Belfast|Carolina
+2396|Lydenburg|Carolina|Lydenburg
+2397|Ermelo|Lydenburg|Ermelo
+2398|Standerton|Ermelo|Standerton
+2399|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2400|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2401|Krugersdorp|Johannesburg|Krugersdorp
+2402|Rustenburg|Krugersdorp|Rustenburg
+2403|Belfast|Middelburg (Tvl)|Belfast
+2404|Carolina|Belfast|Carolina
+2405|Lydenburg|Carolina|Lydenburg
+2406|Ermelo|Lydenburg|Ermelo
+2407|Standerton|Ermelo|Standerton
+2408|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2409|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2410|Krugersdorp|Johannesburg|Krugersdorp
+2411|Rustenburg|Krugersdorp|Rustenburg
+2412|Lichtenburg|Rustenburg|Lichtenburg
+2413|Mafeking|Lichtenburg|Mafeking
+2414|Belfast|Middelburg (Tvl)|Belfast
+2415|Carolina|Belfast|Carolina
+2416|Lydenburg|Carolina|Lydenburg
+2417|Ermelo|Lydenburg|Ermelo
+2418|Standerton|Ermelo|Standerton
+2419|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2420|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2421|Krugersdorp|Johannesburg|Krugersdorp
+2422|Rustenburg|Krugersdorp|Rustenburg
+2423|Lichtenburg|Rustenburg|Lichtenburg
+2424|Mafeking|Lichtenburg|Mafeking
+2425|Lydenburg|Carolina|Lydenburg
+2426|Ermelo|Lydenburg|Ermelo
+2427|Standerton|Ermelo|Standerton
+2428|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2429|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2430|Krugersdorp|Johannesburg|Krugersdorp
+2431|Belfast|Middelburg (Tvl)|Belfast
+2432|Carolina|Belfast|Carolina
+2433|Lydenburg|Carolina|Lydenburg
+2434|Ermelo|Lydenburg|Ermelo
+2435|Standerton|Ermelo|Standerton
+2436|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2437|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2438|Krugersdorp|Johannesburg|Krugersdorp
+2439|Rustenburg|Krugersdorp|Rustenburg
+2440|Belfast|Middelburg (Tvl)|Belfast
+2441|Carolina|Belfast|Carolina
+2442|Lydenburg|Carolina|Lydenburg
+2443|Ermelo|Lydenburg|Ermelo
+2444|Standerton|Ermelo|Standerton
+2445|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2446|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2447|Krugersdorp|Johannesburg|Krugersdorp
+2448|Rustenburg|Krugersdorp|Rustenburg
+2449|Naauwpoort|Hanover Road|Naauwpoort
+2450|Colesberg|Naauwpoort|Colesberg
+2451|Aliwal North|Colesberg|Aliwal North
+2452|Queenstown|Aliwal North|Queenstown
+2453|Stormberg|Queenstown|Stormberg
+2454|Molteno|Stormberg|Molteno
+2455|Sterkstroom|Molteno|Sterkstroom
+2456|Cradock|Sterkstroom|Cradock
+2457|Middelburg (Cape)|Cradock|Middelburg (Cape)
+2458|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+2459|Aberdeen|Graaff-Reinet|Aberdeen
+2460|Belfast|Middelburg (Tvl)|Belfast
+2461|Carolina|Belfast|Carolina
+2462|Lydenburg|Carolina|Lydenburg
+2463|Ermelo|Lydenburg|Ermelo
+2464|Standerton|Ermelo|Standerton
+2465|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2466|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2467|Krugersdorp|Johannesburg|Krugersdorp
+2468|Rustenburg|Krugersdorp|Rustenburg
+2469|Lichtenburg|Rustenburg|Lichtenburg
+2470|Mafeking|Lichtenburg|Mafeking
+2471|Belfast|Middelburg (Tvl)|Belfast
+2472|Carolina|Belfast|Carolina
+2473|Lydenburg|Carolina|Lydenburg
+2474|Ermelo|Lydenburg|Ermelo
+2475|Standerton|Ermelo|Standerton
+2476|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2477|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2478|Krugersdorp|Johannesburg|Krugersdorp
+2479|Rustenburg|Krugersdorp|Rustenburg
+2480|Heilbron|Kroonstad|Heilbron
+2481|Vrede|Heilbron|Vrede
+2482|Harrismith|Vrede|Harrismith
+2483|Bethlehem|Harrismith|Bethlehem
+2484|Senekal|Bethlehem|Senekal
+2485|Ladybrand|Senekal|Ladybrand
+2486|Standerton|Newcastle|Standerton
+2487|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2488|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2489|Krugersdorp|Johannesburg|Krugersdorp
+2490|Rustenburg|Krugersdorp|Rustenburg
+2491|Lichtenburg|Rustenburg|Lichtenburg
+2492|Mafeking|Lichtenburg|Mafeking
+2493|Klerksdorp|Mafeking|Klerksdorp
+2494|Potchefstroom|Klerksdorp|Potchefstroom
+2495|Pretoria|Potchefstroom|Pretoria
+2496|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2497|Belfast|Middelburg (Tvl)|Belfast
+2498|Carolina|Belfast|Carolina
+2499|Lydenburg|Carolina|Lydenburg
+2500|Ermelo|Lydenburg|Ermelo
+2501|Standerton|Ermelo|Standerton
+2502|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2503|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2504|Krugersdorp|Johannesburg|Krugersdorp
+2505|Rustenburg|Krugersdorp|Rustenburg
+2506|Belfast|Middelburg (Tvl)|Belfast
+2507|Carolina|Belfast|Carolina
+2508|Lydenburg|Carolina|Lydenburg
+2509|Ermelo|Lydenburg|Ermelo
+2510|Standerton|Ermelo|Standerton
+2511|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2512|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2513|Krugersdorp|Johannesburg|Krugersdorp
+2514|Rustenburg|Krugersdorp|Rustenburg
+2515|Hanover Road|De Aar|Hanover Road
+2516|Naauwpoort|Hanover Road|Naauwpoort
+2517|Colesberg|Naauwpoort|Colesberg
+2518|Aliwal North|Colesberg|Aliwal North
+2519|Queenstown|Aliwal North|Queenstown
+2520|Stormberg|Queenstown|Stormberg
+2521|Molteno|Stormberg|Molteno
+2522|Sterkstroom|Molteno|Sterkstroom
+2523|Cradock|Sterkstroom|Cradock
+2524|Middelburg (Cape)|Cradock|Middelburg (Cape)
+2525|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+2526|Aberdeen|Graaff-Reinet|Aberdeen
+2527|Murraysburg|Aberdeen|Murraysburg
+2528|Sterkstroom|Molteno|Sterkstroom
+2529|Cradock|Sterkstroom|Cradock
+2530|Middelburg (Cape)|Cradock|Middelburg (Cape)
+2531|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+2532|Aberdeen|Graaff-Reinet|Aberdeen
+2533|Murraysburg|Aberdeen|Murraysburg
+2534|Richmond|Murraysburg|Richmond
+2535|Hanover|Richmond|Hanover
+2536|De Aar|Hanover|De Aar
+2537|Hanover Road|De Aar|Hanover Road
+2538|Naauwpoort|Hanover Road|Naauwpoort
+2539|Colesberg|Naauwpoort|Colesberg
+2540|Aliwal North|Colesberg|Aliwal North
+2541|Queenstown|Aliwal North|Queenstown
+2542|Stormberg|Queenstown|Stormberg
+2543|Belfast|Middelburg (Tvl)|Belfast
+2544|Carolina|Belfast|Carolina
+2545|Lydenburg|Carolina|Lydenburg
+2546|Ermelo|Lydenburg|Ermelo
+2547|Standerton|Ermelo|Standerton
+2548|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2549|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2550|Krugersdorp|Johannesburg|Krugersdorp
+2551|Rustenburg|Krugersdorp|Rustenburg
+2552|Belfast|Middelburg (Tvl)|Belfast
+2553|Carolina|Belfast|Carolina
+2554|Lydenburg|Carolina|Lydenburg
+2555|Ermelo|Lydenburg|Ermelo
+2556|Standerton|Ermelo|Standerton
+2557|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2558|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2559|Krugersdorp|Johannesburg|Krugersdorp
+2560|Rustenburg|Krugersdorp|Rustenburg
+2561|Lichtenburg|Rustenburg|Lichtenburg
+2562|Belfast|Middelburg (Tvl)|Belfast
+2563|Carolina|Belfast|Carolina
+2564|Lydenburg|Carolina|Lydenburg
+2565|Ermelo|Lydenburg|Ermelo
+2566|Standerton|Ermelo|Standerton
+2567|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2568|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2569|Krugersdorp|Johannesburg|Krugersdorp
+2570|Rustenburg|Krugersdorp|Rustenburg
+2571|Lichtenburg|Rustenburg|Lichtenburg
+2572|Mafeking|Lichtenburg|Mafeking
+2573|Standerton|Newcastle|Standerton
+2574|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2575|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2576|Krugersdorp|Johannesburg|Krugersdorp
+2577|Rustenburg|Krugersdorp|Rustenburg
+2578|Lichtenburg|Rustenburg|Lichtenburg
+2579|Mafeking|Lichtenburg|Mafeking
+2580|Klerksdorp|Mafeking|Klerksdorp
+2581|Potchefstroom|Klerksdorp|Potchefstroom
+2582|Pretoria|Potchefstroom|Pretoria
+2583|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2584|Belfast|Middelburg (Tvl)|Belfast
+2585|Standerton|Newcastle|Standerton
+2586|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2587|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2588|Krugersdorp|Johannesburg|Krugersdorp
+2589|Rustenburg|Krugersdorp|Rustenburg
+2590|Lichtenburg|Rustenburg|Lichtenburg
+2591|Mafeking|Lichtenburg|Mafeking
+2592|Klerksdorp|Mafeking|Klerksdorp
+2593|Potchefstroom|Klerksdorp|Potchefstroom
+2594|Pretoria|Potchefstroom|Pretoria
+2595|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2596|Belfast|Middelburg (Tvl)|Belfast
+2597|Belfast|Middelburg (Tvl)|Belfast
+2598|Carolina|Belfast|Carolina
+2599|Lydenburg|Carolina|Lydenburg
+2600|Ermelo|Lydenburg|Ermelo
+2601|Standerton|Ermelo|Standerton
+2602|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2603|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2604|Krugersdorp|Johannesburg|Krugersdorp
+2605|Rustenburg|Krugersdorp|Rustenburg
+2606|Newcastle|Dundee|Newcastle
+2607|Standerton|Newcastle|Standerton
+2608|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2609|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2610|Krugersdorp|Johannesburg|Krugersdorp
+2611|Rustenburg|Krugersdorp|Rustenburg
+2612|Lichtenburg|Rustenburg|Lichtenburg
+2613|Mafeking|Lichtenburg|Mafeking
+2614|Klerksdorp|Mafeking|Klerksdorp
+2615|Potchefstroom|Klerksdorp|Potchefstroom
+2616|Pretoria|Potchefstroom|Pretoria
+2617|Belfast|Middelburg (Tvl)|Belfast
+2618|Carolina|Belfast|Carolina
+2619|Lydenburg|Carolina|Lydenburg
+2620|Ermelo|Lydenburg|Ermelo
+2621|Standerton|Ermelo|Standerton
+2622|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2623|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2624|Krugersdorp|Johannesburg|Krugersdorp
+2625|Rustenburg|Krugersdorp|Rustenburg
+2626|Standerton|Newcastle|Standerton
+2627|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2628|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2629|Krugersdorp|Johannesburg|Krugersdorp
+2630|Rustenburg|Krugersdorp|Rustenburg
+2631|Lichtenburg|Rustenburg|Lichtenburg
+2632|Mafeking|Lichtenburg|Mafeking
+2633|Klerksdorp|Mafeking|Klerksdorp
+2634|Potchefstroom|Klerksdorp|Potchefstroom
+2635|Pretoria|Potchefstroom|Pretoria
+2636|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2637|Belfast|Middelburg (Tvl)|Belfast
+2638|Newcastle|Dundee|Newcastle
+2639|Standerton|Newcastle|Standerton
+2640|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2641|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2642|Krugersdorp|Johannesburg|Krugersdorp
+2643|Rustenburg|Krugersdorp|Rustenburg
+2644|Lichtenburg|Rustenburg|Lichtenburg
+2645|Mafeking|Lichtenburg|Mafeking
+2646|Klerksdorp|Mafeking|Klerksdorp
+2647|Potchefstroom|Klerksdorp|Potchefstroom
+2648|Pretoria|Potchefstroom|Pretoria
+2649|Belfast|Middelburg (Tvl)|Belfast
+2650|Carolina|Belfast|Carolina
+2651|Lydenburg|Carolina|Lydenburg
+2652|Belfast|Middelburg (Tvl)|Belfast
+2653|Carolina|Belfast|Carolina
+2654|Lydenburg|Carolina|Lydenburg
+2655|Ermelo|Lydenburg|Ermelo
+2656|Standerton|Ermelo|Standerton
+2657|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2658|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2659|Krugersdorp|Johannesburg|Krugersdorp
+2660|Rustenburg|Krugersdorp|Rustenburg
+2661|Lichtenburg|Rustenburg|Lichtenburg
+2662|Heilbron|Kroonstad|Heilbron
+2663|Vrede|Heilbron|Vrede
+2664|Harrismith|Vrede|Harrismith
+2665|Bethlehem|Harrismith|Bethlehem
+2666|Senekal|Bethlehem|Senekal
+2667|Ladybrand|Senekal|Ladybrand
+2668|Standerton|Newcastle|Standerton
+2669|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2670|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2671|Krugersdorp|Johannesburg|Krugersdorp
+2672|Rustenburg|Krugersdorp|Rustenburg
+2673|Lichtenburg|Rustenburg|Lichtenburg
+2674|Mafeking|Lichtenburg|Mafeking
+2675|Klerksdorp|Mafeking|Klerksdorp
+2676|Potchefstroom|Klerksdorp|Potchefstroom
+2677|Pretoria|Potchefstroom|Pretoria
+2678|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2679|Standerton|Newcastle|Standerton
+2680|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2681|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2682|Krugersdorp|Johannesburg|Krugersdorp
+2683|Rustenburg|Krugersdorp|Rustenburg
+2684|Lichtenburg|Rustenburg|Lichtenburg
+2685|Mafeking|Lichtenburg|Mafeking
+2686|Klerksdorp|Mafeking|Klerksdorp
+2687|Potchefstroom|Klerksdorp|Potchefstroom
+2688|Pretoria|Potchefstroom|Pretoria
+2689|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+2690|Belfast|Middelburg (Tvl)|Belfast
+2691|Carolina|Belfast|Carolina
+2692|Lydenburg|Carolina|Lydenburg
+2693|Ermelo|Lydenburg|Ermelo
+2694|Standerton|Ermelo|Standerton
+2695|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2696|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2697|Krugersdorp|Johannesburg|Krugersdorp
+2698|Rustenburg|Krugersdorp|Rustenburg
+2699|Lichtenburg|Rustenburg|Lichtenburg
+2700|Belfast|Middelburg (Tvl)|Belfast
+2701|Carolina|Belfast|Carolina
+2702|Lydenburg|Carolina|Lydenburg
+2703|Ermelo|Lydenburg|Ermelo
+2704|Standerton|Ermelo|Standerton
+2705|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2706|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2707|Krugersdorp|Johannesburg|Krugersdorp
+2708|Rustenburg|Krugersdorp|Rustenburg
+2709|Belfast|Middelburg (Tvl)|Belfast
+2710|Carolina|Belfast|Carolina
+2711|Lydenburg|Carolina|Lydenburg
+2712|Ermelo|Lydenburg|Ermelo
+2713|Standerton|Ermelo|Standerton
+2714|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2715|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2716|Krugersdorp|Johannesburg|Krugersdorp
+2717|Rustenburg|Krugersdorp|Rustenburg
+2718|Lichtenburg|Rustenburg|Lichtenburg
+2719|Belfast|Middelburg (Tvl)|Belfast
+2720|Carolina|Belfast|Carolina
+2721|Lydenburg|Carolina|Lydenburg
+2722|Ermelo|Lydenburg|Ermelo
+2723|Standerton|Ermelo|Standerton
+2724|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2725|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2726|Krugersdorp|Johannesburg|Krugersdorp
+2727|Rustenburg|Krugersdorp|Rustenburg
+2728|Belfast|Middelburg (Tvl)|Belfast
+2729|Carolina|Belfast|Carolina
+2730|Lydenburg|Carolina|Lydenburg
+2731|Ermelo|Lydenburg|Ermelo
+2732|Standerton|Ermelo|Standerton
+2733|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2734|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2735|Krugersdorp|Johannesburg|Krugersdorp
+2736|Rustenburg|Krugersdorp|Rustenburg
+2737|Naauwpoort|Hanover Road|Naauwpoort
+2738|Standerton|Newcastle|Standerton
+2739|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2740|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2741|Krugersdorp|Johannesburg|Krugersdorp
+2742|Rustenburg|Krugersdorp|Rustenburg
+2743|Lichtenburg|Rustenburg|Lichtenburg
+2744|Mafeking|Lichtenburg|Mafeking
+2745|Klerksdorp|Mafeking|Klerksdorp
+2746|Potchefstroom|Klerksdorp|Potchefstroom
+2747|Belfast|Middelburg (Tvl)|Belfast
+2748|Carolina|Belfast|Carolina
+2749|Lydenburg|Carolina|Lydenburg
+2750|Ermelo|Lydenburg|Ermelo
+2751|Standerton|Ermelo|Standerton
+2752|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2753|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2754|Krugersdorp|Johannesburg|Krugersdorp
+2755|Rustenburg|Krugersdorp|Rustenburg
+2756|Lichtenburg|Rustenburg|Lichtenburg
+2757|Mafeking|Lichtenburg|Mafeking
+2758|Belfast|Middelburg (Tvl)|Belfast
+2759|Carolina|Belfast|Carolina
+2760|Lydenburg|Carolina|Lydenburg
+2761|Ermelo|Lydenburg|Ermelo
+2762|Standerton|Ermelo|Standerton
+2763|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2764|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2765|Krugersdorp|Johannesburg|Krugersdorp
+2766|Rustenburg|Krugersdorp|Rustenburg
+2767|Belfast|Middelburg (Tvl)|Belfast
+2768|Carolina|Belfast|Carolina
+2769|Lydenburg|Carolina|Lydenburg
+2770|Ermelo|Lydenburg|Ermelo
+2771|Standerton|Ermelo|Standerton
+2772|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2773|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2774|Krugersdorp|Johannesburg|Krugersdorp
+2775|Rustenburg|Krugersdorp|Rustenburg
+2776|Lichtenburg|Rustenburg|Lichtenburg
+2777|Mafeking|Lichtenburg|Mafeking
+2778|Belfast|Middelburg (Tvl)|Belfast
+2779|Carolina|Belfast|Carolina
+2780|Lydenburg|Carolina|Lydenburg
+2781|Ermelo|Lydenburg|Ermelo
+2782|Standerton|Ermelo|Standerton
+2783|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2784|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2785|Krugersdorp|Johannesburg|Krugersdorp
+2786|Rustenburg|Krugersdorp|Rustenburg
+2787|Lichtenburg|Rustenburg|Lichtenburg
+2788|Mafeking|Lichtenburg|Mafeking
+2789|Belfast|Middelburg (Tvl)|Belfast
+2790|Carolina|Belfast|Carolina
+2791|Lydenburg|Carolina|Lydenburg
+2792|Ermelo|Lydenburg|Ermelo
+2793|Standerton|Ermelo|Standerton
+2794|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2795|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2796|Belfast|Middelburg (Tvl)|Belfast
+2797|Carolina|Belfast|Carolina
+2798|Lydenburg|Carolina|Lydenburg
+2799|Ermelo|Lydenburg|Ermelo
+2800|Standerton|Ermelo|Standerton
+2801|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2802|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2803|Belfast|Middelburg (Tvl)|Belfast
+2804|Carolina|Belfast|Carolina
+2805|Lydenburg|Carolina|Lydenburg
+2806|Ermelo|Lydenburg|Ermelo
+2807|Standerton|Ermelo|Standerton
+2808|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2809|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2810|Krugersdorp|Johannesburg|Krugersdorp
+2811|Belfast|Middelburg (Tvl)|Belfast
+2812|Carolina|Belfast|Carolina
+2813|Lydenburg|Carolina|Lydenburg
+2814|Ermelo|Lydenburg|Ermelo
+2815|Standerton|Ermelo|Standerton
+2816|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2817|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2818|Krugersdorp|Johannesburg|Krugersdorp
+2819|Rustenburg|Krugersdorp|Rustenburg
+2820|Lichtenburg|Rustenburg|Lichtenburg
+2821|Mafeking|Lichtenburg|Mafeking
+2822|Belfast|Middelburg (Tvl)|Belfast
+2823|Carolina|Belfast|Carolina
+2824|Lydenburg|Carolina|Lydenburg
+2825|Ermelo|Lydenburg|Ermelo
+2826|Standerton|Ermelo|Standerton
+2827|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2828|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2829|Krugersdorp|Johannesburg|Krugersdorp
+2830|Rustenburg|Krugersdorp|Rustenburg
+2831|Belfast|Middelburg (Tvl)|Belfast
+2832|Carolina|Belfast|Carolina
+2833|Lydenburg|Carolina|Lydenburg
+2834|Ermelo|Lydenburg|Ermelo
+2835|Standerton|Ermelo|Standerton
+2836|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2837|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2838|Krugersdorp|Johannesburg|Krugersdorp
+2839|Rustenburg|Krugersdorp|Rustenburg
+2840|Lichtenburg|Rustenburg|Lichtenburg
+2841|Mafeking|Lichtenburg|Mafeking
+2842|Belfast|Middelburg (Tvl)|Belfast
+2843|Carolina|Belfast|Carolina
+2844|Lydenburg|Carolina|Lydenburg
+2845|Ermelo|Lydenburg|Ermelo
+2846|Standerton|Ermelo|Standerton
+2847|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2848|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2849|Krugersdorp|Johannesburg|Krugersdorp
+2850|Rustenburg|Krugersdorp|Rustenburg
+2851|Lichtenburg|Rustenburg|Lichtenburg
+2852|Mafeking|Lichtenburg|Mafeking
+2853|Belfast|Middelburg (Tvl)|Belfast
+2854|Carolina|Belfast|Carolina
+2855|Lydenburg|Carolina|Lydenburg
+2856|Ermelo|Lydenburg|Ermelo
+2857|Standerton|Ermelo|Standerton
+2858|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2859|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2860|Belfast|Middelburg (Tvl)|Belfast
+2861|Carolina|Belfast|Carolina
+2862|Lydenburg|Carolina|Lydenburg
+2863|Ermelo|Lydenburg|Ermelo
+2864|Standerton|Ermelo|Standerton
+2865|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2866|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2867|Krugersdorp|Johannesburg|Krugersdorp
+2868|Rustenburg|Krugersdorp|Rustenburg
+2869|Belfast|Middelburg (Tvl)|Belfast
+2870|Carolina|Belfast|Carolina
+2871|Lydenburg|Carolina|Lydenburg
+2872|Ermelo|Lydenburg|Ermelo
+2873|Standerton|Ermelo|Standerton
+2874|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2875|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2876|Belfast|Middelburg (Tvl)|Belfast
+2877|Carolina|Belfast|Carolina
+2878|Lydenburg|Carolina|Lydenburg
+2879|Ermelo|Lydenburg|Ermelo
+2880|Standerton|Ermelo|Standerton
+2881|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2882|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2883|Belfast|Middelburg (Tvl)|Belfast
+2884|Carolina|Belfast|Carolina
+2885|Lydenburg|Carolina|Lydenburg
+2886|Ermelo|Lydenburg|Ermelo
+2887|Standerton|Ermelo|Standerton
+2888|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2889|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2890|Belfast|Middelburg (Tvl)|Belfast
+2891|Carolina|Belfast|Carolina
+2892|Lydenburg|Carolina|Lydenburg
+2893|Ermelo|Lydenburg|Ermelo
+2894|Standerton|Ermelo|Standerton
+2895|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2896|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2897|Krugersdorp|Johannesburg|Krugersdorp
+2898|Rustenburg|Krugersdorp|Rustenburg
+2899|Lichtenburg|Rustenburg|Lichtenburg
+2900|Heilbron|Kroonstad|Heilbron
+2901|Vrede|Heilbron|Vrede
+2902|Harrismith|Vrede|Harrismith
+2903|Bethlehem|Harrismith|Bethlehem
+2904|Senekal|Bethlehem|Senekal
+2905|Ladybrand|Senekal|Ladybrand
+2906|Belfast|Middelburg (Tvl)|Belfast
+2907|Carolina|Belfast|Carolina
+2908|Lydenburg|Carolina|Lydenburg
+2909|Ermelo|Lydenburg|Ermelo
+2910|Standerton|Ermelo|Standerton
+2911|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2912|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2913|Krugersdorp|Johannesburg|Krugersdorp
+2914|Rustenburg|Krugersdorp|Rustenburg
+2915|Lichtenburg|Rustenburg|Lichtenburg
+2916|Bloemfontein|Paardeberg|Bloemfontein
+2917|Kroonstad|Bloemfontein|Kroonstad
+2918|Heilbron|Kroonstad|Heilbron
+2919|Vrede|Heilbron|Vrede
+2920|Harrismith|Vrede|Harrismith
+2921|Bethlehem|Harrismith|Bethlehem
+2922|Senekal|Bethlehem|Senekal
+2923|Ladybrand|Senekal|Ladybrand
+2924|Heilbron|Kroonstad|Heilbron
+2925|Vrede|Heilbron|Vrede
+2926|Harrismith|Vrede|Harrismith
+2927|Bethlehem|Harrismith|Bethlehem
+2928|Senekal|Bethlehem|Senekal
+2929|Ladybrand|Senekal|Ladybrand
+2930|Harrismith|Vrede|Harrismith
+2931|Bethlehem|Harrismith|Bethlehem
+2932|Senekal|Bethlehem|Senekal
+2933|Ladybrand|Senekal|Ladybrand
+2934|Ermelo|Lydenburg|Ermelo
+2935|Standerton|Ermelo|Standerton
+2936|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+2937|Johannesburg|Heidelberg (Tvl)|Johannesburg
+2938|Krugersdorp|Johannesburg|Krugersdorp
+2939|Rustenburg|Krugersdorp|Rustenburg
+2940|Lichtenburg|Rustenburg|Lichtenburg
+2941|Mafeking|Lichtenburg|Mafeking
+2942|Klerksdorp|Mafeking|Klerksdorp
+2943|Naauwpoort|Hanover Road|Naauwpoort
+2944|Colesberg|Naauwpoort|Colesberg
+2945|Aliwal North|Colesberg|Aliwal North
+2946|Queenstown|Aliwal North|Queenstown
+2947|Stormberg|Queenstown|Stormberg
+2948|Molteno|Stormberg|Molteno
+2949|Sterkstroom|Molteno|Sterkstroom
+2950|Cradock|Sterkstroom|Cradock
+2951|Middelburg (Cape)|Cradock|Middelburg (Cape)
+2952|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+2953|Aberdeen|Graaff-Reinet|Aberdeen
+2954|Murraysburg|Aberdeen|Murraysburg
+2955|Richmond|Murraysburg|Richmond
+2956|Naauwpoort|Hanover Road|Naauwpoort
+2957|Colesberg|Naauwpoort|Colesberg
+2958|Aliwal North|Colesberg|Aliwal North
+2959|Queenstown|Aliwal North|Queenstown
+2960|Stormberg|Queenstown|Stormberg
+2961|Molteno|Stormberg|Molteno
+2962|Sterkstroom|Molteno|Sterkstroom
+2963|Cradock|Sterkstroom|Cradock
+2964|Middelburg (Cape)|Cradock|Middelburg (Cape)
+2965|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+2966|Aberdeen|Graaff-Reinet|Aberdeen
+2967|Murraysburg|Aberdeen|Murraysburg
+2968|Richmond|Murraysburg|Richmond
+2969|Naauwpoort|Hanover Road|Naauwpoort
+2970|Colesberg|Naauwpoort|Colesberg
+2971|Aliwal North|Colesberg|Aliwal North
+2972|Queenstown|Aliwal North|Queenstown
+2973|Stormberg|Queenstown|Stormberg
+2974|Molteno|Stormberg|Molteno
+2975|Sterkstroom|Molteno|Sterkstroom
+2976|Cradock|Sterkstroom|Cradock
+2977|Middelburg (Cape)|Cradock|Middelburg (Cape)
+2978|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+2979|Aberdeen|Graaff-Reinet|Aberdeen
+2980|Murraysburg|Aberdeen|Murraysburg
+2981|Richmond|Murraysburg|Richmond
+2982|Naauwpoort|Hanover Road|Naauwpoort
+2983|Colesberg|Naauwpoort|Colesberg
+2984|Aliwal North|Colesberg|Aliwal North
+2985|Queenstown|Aliwal North|Queenstown
+2986|Stormberg|Queenstown|Stormberg
+2987|Molteno|Stormberg|Molteno
+2988|Sterkstroom|Molteno|Sterkstroom
+2989|Cradock|Sterkstroom|Cradock
+2990|Middelburg (Cape)|Cradock|Middelburg (Cape)
+2991|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+2992|Aberdeen|Graaff-Reinet|Aberdeen
+2993|Murraysburg|Aberdeen|Murraysburg
+2994|Richmond|Murraysburg|Richmond
+2995|Naauwpoort|Hanover Road|Naauwpoort
+2996|Colesberg|Naauwpoort|Colesberg
+2997|Aliwal North|Colesberg|Aliwal North
+2998|Queenstown|Aliwal North|Queenstown
+2999|Stormberg|Queenstown|Stormberg
+3000|Molteno|Stormberg|Molteno
+3001|Sterkstroom|Molteno|Sterkstroom
+3002|Cradock|Sterkstroom|Cradock
+3003|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3004|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3005|Aberdeen|Graaff-Reinet|Aberdeen
+3006|Murraysburg|Aberdeen|Murraysburg
+3007|Richmond|Murraysburg|Richmond
+3008|Naauwpoort|Hanover Road|Naauwpoort
+3009|Colesberg|Naauwpoort|Colesberg
+3010|Aliwal North|Colesberg|Aliwal North
+3011|Queenstown|Aliwal North|Queenstown
+3012|Stormberg|Queenstown|Stormberg
+3013|Molteno|Stormberg|Molteno
+3014|Sterkstroom|Molteno|Sterkstroom
+3015|Cradock|Sterkstroom|Cradock
+3016|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3017|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3018|Aberdeen|Graaff-Reinet|Aberdeen
+3019|Murraysburg|Aberdeen|Murraysburg
+3020|Richmond|Murraysburg|Richmond
+3021|Vrede|Heilbron|Vrede
+3022|Harrismith|Vrede|Harrismith
+3023|Bethlehem|Harrismith|Bethlehem
+3024|Senekal|Bethlehem|Senekal
+3025|Ladybrand|Senekal|Ladybrand
+3026|Belfast|Middelburg (Tvl)|Belfast
+3027|Carolina|Belfast|Carolina
+3028|Lydenburg|Carolina|Lydenburg
+3029|Ermelo|Lydenburg|Ermelo
+3030|Standerton|Ermelo|Standerton
+3031|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3032|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3033|Naauwpoort|Hanover Road|Naauwpoort
+3034|Colesberg|Naauwpoort|Colesberg
+3035|Aliwal North|Colesberg|Aliwal North
+3036|Queenstown|Aliwal North|Queenstown
+3037|Stormberg|Queenstown|Stormberg
+3038|Molteno|Stormberg|Molteno
+3039|Sterkstroom|Molteno|Sterkstroom
+3040|Cradock|Sterkstroom|Cradock
+3041|Belfast|Middelburg (Tvl)|Belfast
+3042|Carolina|Belfast|Carolina
+3043|Lydenburg|Carolina|Lydenburg
+3044|Ermelo|Lydenburg|Ermelo
+3045|Standerton|Ermelo|Standerton
+3046|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3047|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3048|Krugersdorp|Johannesburg|Krugersdorp
+3049|Rustenburg|Krugersdorp|Rustenburg
+3050|Lichtenburg|Rustenburg|Lichtenburg
+3051|Belfast|Middelburg (Tvl)|Belfast
+3052|Carolina|Belfast|Carolina
+3053|Lydenburg|Carolina|Lydenburg
+3054|Belfast|Middelburg (Tvl)|Belfast
+3055|Carolina|Belfast|Carolina
+3056|Lydenburg|Carolina|Lydenburg
+3057|Ermelo|Lydenburg|Ermelo
+3058|Standerton|Ermelo|Standerton
+3059|Dundee|Ladysmith|Dundee
+3060|Newcastle|Dundee|Newcastle
+3061|Standerton|Newcastle|Standerton
+3062|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3063|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3064|Krugersdorp|Johannesburg|Krugersdorp
+3065|Rustenburg|Krugersdorp|Rustenburg
+3066|Lichtenburg|Rustenburg|Lichtenburg
+3067|Mafeking|Lichtenburg|Mafeking
+3068|Klerksdorp|Mafeking|Klerksdorp
+3069|Potchefstroom|Klerksdorp|Potchefstroom
+3070|Pretoria|Potchefstroom|Pretoria
+3071|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3072|Belfast|Middelburg (Tvl)|Belfast
+3073|Carolina|Belfast|Carolina
+3074|Lydenburg|Carolina|Lydenburg
+3075|Ermelo|Lydenburg|Ermelo
+3076|Standerton|Ermelo|Standerton
+3077|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3078|Naauwpoort|Hanover Road|Naauwpoort
+3079|Colesberg|Naauwpoort|Colesberg
+3080|Aliwal North|Colesberg|Aliwal North
+3081|Queenstown|Aliwal North|Queenstown
+3082|Stormberg|Queenstown|Stormberg
+3083|Molteno|Stormberg|Molteno
+3084|Sterkstroom|Molteno|Sterkstroom
+3085|Cradock|Sterkstroom|Cradock
+3086|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3087|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3088|Aberdeen|Graaff-Reinet|Aberdeen
+3089|Belfast|Middelburg (Tvl)|Belfast
+3090|Carolina|Belfast|Carolina
+3091|Lydenburg|Carolina|Lydenburg
+3092|Ermelo|Lydenburg|Ermelo
+3093|Standerton|Ermelo|Standerton
+3094|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3095|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3096|Belfast|Middelburg (Tvl)|Belfast
+3097|Carolina|Belfast|Carolina
+3098|Lydenburg|Carolina|Lydenburg
+3099|Ermelo|Lydenburg|Ermelo
+3100|Standerton|Ermelo|Standerton
+3101|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3102|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3103|Krugersdorp|Johannesburg|Krugersdorp
+3104|Rustenburg|Krugersdorp|Rustenburg
+3105|Lichtenburg|Rustenburg|Lichtenburg
+3106|Belfast|Middelburg (Tvl)|Belfast
+3107|Carolina|Belfast|Carolina
+3108|Lydenburg|Carolina|Lydenburg
+3109|Ermelo|Lydenburg|Ermelo
+3110|Standerton|Ermelo|Standerton
+3111|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3112|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3113|Krugersdorp|Johannesburg|Krugersdorp
+3114|Rustenburg|Krugersdorp|Rustenburg
+3115|Lichtenburg|Rustenburg|Lichtenburg
+3116|Mafeking|Lichtenburg|Mafeking
+3117|Belfast|Middelburg (Tvl)|Belfast
+3118|Carolina|Belfast|Carolina
+3119|Lydenburg|Carolina|Lydenburg
+3120|Ermelo|Lydenburg|Ermelo
+3121|Standerton|Ermelo|Standerton
+3122|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3123|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3124|Krugersdorp|Johannesburg|Krugersdorp
+3125|Rustenburg|Krugersdorp|Rustenburg
+3126|Lichtenburg|Rustenburg|Lichtenburg
+3127|Mafeking|Lichtenburg|Mafeking
+3128|Klerksdorp|Mafeking|Klerksdorp
+3129|Potchefstroom|Klerksdorp|Potchefstroom
+3130|Belfast|Middelburg (Tvl)|Belfast
+3131|Carolina|Belfast|Carolina
+3132|Lydenburg|Carolina|Lydenburg
+3133|Ermelo|Lydenburg|Ermelo
+3134|Standerton|Ermelo|Standerton
+3135|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3136|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3137|Krugersdorp|Johannesburg|Krugersdorp
+3138|Rustenburg|Krugersdorp|Rustenburg
+3139|Belfast|Middelburg (Tvl)|Belfast
+3140|Carolina|Belfast|Carolina
+3141|Lydenburg|Carolina|Lydenburg
+3142|Ermelo|Lydenburg|Ermelo
+3143|Standerton|Ermelo|Standerton
+3144|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3145|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3146|Krugersdorp|Johannesburg|Krugersdorp
+3147|Rustenburg|Krugersdorp|Rustenburg
+3148|Lichtenburg|Rustenburg|Lichtenburg
+3149|Mafeking|Lichtenburg|Mafeking
+3150|Klerksdorp|Mafeking|Klerksdorp
+3151|Potchefstroom|Klerksdorp|Potchefstroom
+3152|Heilbron|Kroonstad|Heilbron
+3153|Vrede|Heilbron|Vrede
+3154|Harrismith|Vrede|Harrismith
+3155|Bethlehem|Harrismith|Bethlehem
+3156|Senekal|Bethlehem|Senekal
+3157|Ladybrand|Senekal|Ladybrand
+3158|Aberdeen|Graaff-Reinet|Aberdeen
+3159|Murraysburg|Aberdeen|Murraysburg
+3160|Richmond|Murraysburg|Richmond
+3161|Hanover|Richmond|Hanover
+3162|De Aar|Hanover|De Aar
+3163|Klerksdorp|Mafeking|Klerksdorp
+3164|Potchefstroom|Klerksdorp|Potchefstroom
+3165|Pretoria|Potchefstroom|Pretoria
+3166|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3167|Belfast|Middelburg (Tvl)|Belfast
+3168|Carolina|Belfast|Carolina
+3169|Lydenburg|Carolina|Lydenburg
+3170|Ermelo|Lydenburg|Ermelo
+3171|Standerton|Ermelo|Standerton
+3172|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3173|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3174|Krugersdorp|Johannesburg|Krugersdorp
+3175|Rustenburg|Krugersdorp|Rustenburg
+3176|Klerksdorp|Mafeking|Klerksdorp
+3177|Potchefstroom|Klerksdorp|Potchefstroom
+3178|Pretoria|Potchefstroom|Pretoria
+3179|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3180|Belfast|Middelburg (Tvl)|Belfast
+3181|Carolina|Belfast|Carolina
+3182|Lydenburg|Carolina|Lydenburg
+3183|Ermelo|Lydenburg|Ermelo
+3184|Standerton|Ermelo|Standerton
+3185|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3186|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3187|Krugersdorp|Johannesburg|Krugersdorp
+3188|Rustenburg|Krugersdorp|Rustenburg
+3189|Aberdeen|Graaff-Reinet|Aberdeen
+3190|Murraysburg|Aberdeen|Murraysburg
+3191|Richmond|Murraysburg|Richmond
+3192|Hanover|Richmond|Hanover
+3193|De Aar|Hanover|De Aar
+3194|Belfast|Middelburg (Tvl)|Belfast
+3195|Carolina|Belfast|Carolina
+3196|Lydenburg|Carolina|Lydenburg
+3197|Ermelo|Lydenburg|Ermelo
+3198|Standerton|Ermelo|Standerton
+3199|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3200|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3201|Krugersdorp|Johannesburg|Krugersdorp
+3202|Rustenburg|Krugersdorp|Rustenburg
+3203|Ermelo|Lydenburg|Ermelo
+3204|Standerton|Ermelo|Standerton
+3205|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3206|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3207|Krugersdorp|Johannesburg|Krugersdorp
+3208|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3209|Belfast|Middelburg (Tvl)|Belfast
+3210|Carolina|Belfast|Carolina
+3211|Lydenburg|Carolina|Lydenburg
+3212|Senekal|Bethlehem|Senekal
+3213|Ladybrand|Senekal|Ladybrand
+3214|Bloemfontein|Ladybrand|Bloemfontein
+3215|Kroonstad|Bloemfontein|Kroonstad
+3216|Heilbron|Kroonstad|Heilbron
+3217|Vrede|Heilbron|Vrede
+3218|Kroonstad|Bloemfontein|Kroonstad
+3219|Heilbron|Kroonstad|Heilbron
+3220|Vrede|Heilbron|Vrede
+3221|Harrismith|Vrede|Harrismith
+3222|Bethlehem|Harrismith|Bethlehem
+3223|Senekal|Bethlehem|Senekal
+3224|Ladybrand|Senekal|Ladybrand
+3225|Hanover Road|De Aar|Hanover Road
+3226|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3227|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3228|Aberdeen|Graaff-Reinet|Aberdeen
+3229|Murraysburg|Aberdeen|Murraysburg
+3230|Vrede|Heilbron|Vrede
+3231|Harrismith|Vrede|Harrismith
+3232|Bethlehem|Harrismith|Bethlehem
+3233|Senekal|Bethlehem|Senekal
+3234|Ladybrand|Senekal|Ladybrand
+3235|Potchefstroom|Klerksdorp|Potchefstroom
+3236|Pretoria|Potchefstroom|Pretoria
+3237|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3238|Belfast|Middelburg (Tvl)|Belfast
+3239|Carolina|Belfast|Carolina
+3240|Lydenburg|Carolina|Lydenburg
+3241|Ermelo|Lydenburg|Ermelo
+3242|Standerton|Ermelo|Standerton
+3243|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3244|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3245|Krugersdorp|Johannesburg|Krugersdorp
+3246|Rustenburg|Krugersdorp|Rustenburg
+3247|Lichtenburg|Rustenburg|Lichtenburg
+3248|Mafeking|Lichtenburg|Mafeking
+3249|Ermelo|Lydenburg|Ermelo
+3250|Standerton|Ermelo|Standerton
+3251|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3252|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3253|Krugersdorp|Johannesburg|Krugersdorp
+3254|Rustenburg|Krugersdorp|Rustenburg
+3255|Lichtenburg|Rustenburg|Lichtenburg
+3256|Mafeking|Lichtenburg|Mafeking
+3257|Klerksdorp|Mafeking|Klerksdorp
+3258|Potchefstroom|Klerksdorp|Potchefstroom
+3259|Newcastle|Utrecht|Newcastle
+3260|Standerton|Newcastle|Standerton
+3261|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3262|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3263|Krugersdorp|Johannesburg|Krugersdorp
+3264|Rustenburg|Krugersdorp|Rustenburg
+3265|Lichtenburg|Rustenburg|Lichtenburg
+3266|Mafeking|Lichtenburg|Mafeking
+3267|Klerksdorp|Mafeking|Klerksdorp
+3268|Potchefstroom|Klerksdorp|Potchefstroom
+3269|Pretoria|Potchefstroom|Pretoria
+3270|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3271|Belfast|Middelburg (Tvl)|Belfast
+3272|Carolina|Belfast|Carolina
+3273|Newcastle|Dundee|Newcastle
+3274|Standerton|Newcastle|Standerton
+3275|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3276|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3277|Krugersdorp|Johannesburg|Krugersdorp
+3278|Rustenburg|Krugersdorp|Rustenburg
+3279|Lichtenburg|Rustenburg|Lichtenburg
+3280|Mafeking|Lichtenburg|Mafeking
+3281|Klerksdorp|Mafeking|Klerksdorp
+3282|Potchefstroom|Klerksdorp|Potchefstroom
+3283|Pretoria|Potchefstroom|Pretoria
+3284|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3285|Belfast|Middelburg (Tvl)|Belfast
+3286|Carolina|Belfast|Carolina
+3287|Lydenburg|Carolina|Lydenburg
+3288|Ermelo|Lydenburg|Ermelo
+3289|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3290|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3291|Krugersdorp|Johannesburg|Krugersdorp
+3292|Rustenburg|Krugersdorp|Rustenburg
+3293|Lichtenburg|Rustenburg|Lichtenburg
+3294|Mafeking|Lichtenburg|Mafeking
+3295|Klerksdorp|Mafeking|Klerksdorp
+3296|Potchefstroom|Klerksdorp|Potchefstroom
+3297|Pretoria|Potchefstroom|Pretoria
+3298|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3299|Belfast|Middelburg (Tvl)|Belfast
+3300|Carolina|Belfast|Carolina
+3301|Lydenburg|Carolina|Lydenburg
+3302|Ermelo|Lydenburg|Ermelo
+3303|Belfast|Middelburg (Tvl)|Belfast
+3304|Carolina|Belfast|Carolina
+3305|Lydenburg|Carolina|Lydenburg
+3306|Ermelo|Lydenburg|Ermelo
+3307|Standerton|Ermelo|Standerton
+3308|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3309|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3310|Krugersdorp|Johannesburg|Krugersdorp
+3311|Rustenburg|Krugersdorp|Rustenburg
+3312|Lichtenburg|Rustenburg|Lichtenburg
+3313|Mafeking|Lichtenburg|Mafeking
+3314|Klerksdorp|Mafeking|Klerksdorp
+3315|Potchefstroom|Klerksdorp|Potchefstroom
+3316|Naauwpoort|Hanover Road|Naauwpoort
+3317|Kroonstad|Bloemfontein|Kroonstad
+3318|Heilbron|Kroonstad|Heilbron
+3319|Vrede|Heilbron|Vrede
+3320|Harrismith|Vrede|Harrismith
+3321|Bethlehem|Harrismith|Bethlehem
+3322|Senekal|Bethlehem|Senekal
+3323|Ladybrand|Senekal|Ladybrand
+3324|Ermelo|Lydenburg|Ermelo
+3325|Standerton|Ermelo|Standerton
+3326|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3327|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3328|Krugersdorp|Johannesburg|Krugersdorp
+3329|Rustenburg|Krugersdorp|Rustenburg
+3330|Lichtenburg|Rustenburg|Lichtenburg
+3331|Mafeking|Lichtenburg|Mafeking
+3332|Klerksdorp|Mafeking|Klerksdorp
+3333|Potchefstroom|Klerksdorp|Potchefstroom
+3334|Pretoria|Potchefstroom|Pretoria
+3335|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3336|Belfast|Middelburg (Tvl)|Belfast
+3337|Kroonstad|Bloemfontein|Kroonstad
+3338|Heilbron|Kroonstad|Heilbron
+3339|Vrede|Heilbron|Vrede
+3340|Harrismith|Vrede|Harrismith
+3341|Bethlehem|Harrismith|Bethlehem
+3342|Senekal|Bethlehem|Senekal
+3343|Ladybrand|Senekal|Ladybrand
+3344|Kroonstad|Bloemfontein|Kroonstad
+3345|Heilbron|Kroonstad|Heilbron
+3346|Vrede|Heilbron|Vrede
+3347|Harrismith|Vrede|Harrismith
+3348|Bethlehem|Harrismith|Bethlehem
+3349|Senekal|Bethlehem|Senekal
+3350|Ladybrand|Senekal|Ladybrand
+3351|Carolina|Bakenlaagte|Carolina
+3352|Lydenburg|Carolina|Lydenburg
+3353|Ermelo|Lydenburg|Ermelo
+3354|Standerton|Ermelo|Standerton
+3355|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3356|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3357|Krugersdorp|Johannesburg|Krugersdorp
+3358|Rustenburg|Krugersdorp|Rustenburg
+3359|Lichtenburg|Rustenburg|Lichtenburg
+3360|Mafeking|Lichtenburg|Mafeking
+3361|Klerksdorp|Mafeking|Klerksdorp
+3362|Potchefstroom|Klerksdorp|Potchefstroom
+3363|Pretoria|Potchefstroom|Pretoria
+3364|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3365|Belfast|Middelburg (Tvl)|Belfast
+3366|Kroonstad|Bloemfontein|Kroonstad
+3367|Heilbron|Kroonstad|Heilbron
+3368|Vrede|Heilbron|Vrede
+3369|Harrismith|Vrede|Harrismith
+3370|Bethlehem|Harrismith|Bethlehem
+3371|Senekal|Bethlehem|Senekal
+3372|Ladybrand|Senekal|Ladybrand
+3373|Aberdeen|Graaff-Reinet|Aberdeen
+3374|Murraysburg|Aberdeen|Murraysburg
+3375|Richmond|Murraysburg|Richmond
+3376|Hanover|Richmond|Hanover
+3377|De Aar|Hanover|De Aar
+3378|Hanover Road|De Aar|Hanover Road
+3379|Naauwpoort|Hanover Road|Naauwpoort
+3380|Colesberg|Naauwpoort|Colesberg
+3381|Aliwal North|Colesberg|Aliwal North
+3382|Queenstown|Aliwal North|Queenstown
+3383|Stormberg|Queenstown|Stormberg
+3384|Molteno|Stormberg|Molteno
+3385|Sterkstroom|Molteno|Sterkstroom
+3386|Cradock|Sterkstroom|Cradock
+3387|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3388|Colesberg|Naauwpoort|Colesberg
+3389|Hanover|Richmond|Hanover
+3390|De Aar|Hanover|De Aar
+3391|Hanover Road|De Aar|Hanover Road
+3392|Naauwpoort|Hanover Road|Naauwpoort
+3393|Heilbron|Kroonstad|Heilbron
+3394|Vrede|Heilbron|Vrede
+3395|Harrismith|Vrede|Harrismith
+3396|Bethlehem|Harrismith|Bethlehem
+3397|Senekal|Bethlehem|Senekal
+3398|Ladybrand|Senekal|Ladybrand
+3399|Bloemfontein|Ladybrand|Bloemfontein
+3400|Aberdeen|Graaff-Reinet|Aberdeen
+3401|Murraysburg|Aberdeen|Murraysburg
+3402|Richmond|Murraysburg|Richmond
+3403|Hanover|Richmond|Hanover
+3404|De Aar|Hanover|De Aar
+3405|Harrismith|Vrede|Harrismith
+3406|Bethlehem|Harrismith|Bethlehem
+3407|Senekal|Bethlehem|Senekal
+3408|Ladybrand|Senekal|Ladybrand
+3409|Heilbron|Reitz|Heilbron
+3410|Vrede|Heilbron|Vrede
+3411|Harrismith|Vrede|Harrismith
+3412|Bethlehem|Harrismith|Bethlehem
+3413|Senekal|Bethlehem|Senekal
+3414|Newcastle|Dundee|Newcastle
+3415|Standerton|Newcastle|Standerton
+3416|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3417|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3418|Krugersdorp|Johannesburg|Krugersdorp
+3419|Rustenburg|Krugersdorp|Rustenburg
+3420|Lichtenburg|Rustenburg|Lichtenburg
+3421|Mafeking|Lichtenburg|Mafeking
+3422|Klerksdorp|Mafeking|Klerksdorp
+3423|Potchefstroom|Klerksdorp|Potchefstroom
+3424|Belfast|Middelburg (Tvl)|Belfast
+3425|Carolina|Belfast|Carolina
+3426|Lydenburg|Carolina|Lydenburg
+3427|Ermelo|Lydenburg|Ermelo
+3428|Standerton|Ermelo|Standerton
+3429|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3430|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3431|Krugersdorp|Johannesburg|Krugersdorp
+3432|Rustenburg|Krugersdorp|Rustenburg
+3433|Lichtenburg|Rustenburg|Lichtenburg
+3434|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3435|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3436|Krugersdorp|Johannesburg|Krugersdorp
+3437|Rustenburg|Krugersdorp|Rustenburg
+3438|Lichtenburg|Rustenburg|Lichtenburg
+3439|Mafeking|Lichtenburg|Mafeking
+3440|Klerksdorp|Mafeking|Klerksdorp
+3441|Potchefstroom|Klerksdorp|Potchefstroom
+3442|Pretoria|Potchefstroom|Pretoria
+3443|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3444|Newcastle|Dundee|Newcastle
+3445|Standerton|Newcastle|Standerton
+3446|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3447|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3448|Krugersdorp|Johannesburg|Krugersdorp
+3449|Rustenburg|Krugersdorp|Rustenburg
+3450|Lichtenburg|Rustenburg|Lichtenburg
+3451|Mafeking|Lichtenburg|Mafeking
+3452|Klerksdorp|Mafeking|Klerksdorp
+3453|Potchefstroom|Klerksdorp|Potchefstroom
+3454|Pretoria|Potchefstroom|Pretoria
+3455|Lydenburg|Carolina|Lydenburg
+3456|Ermelo|Lydenburg|Ermelo
+3457|Standerton|Ermelo|Standerton
+3458|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3459|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3460|Krugersdorp|Johannesburg|Krugersdorp
+3461|Rustenburg|Krugersdorp|Rustenburg
+3462|Lichtenburg|Rustenburg|Lichtenburg
+3463|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3464|Belfast|Middelburg (Tvl)|Belfast
+3465|Carolina|Belfast|Carolina
+3466|Lydenburg|Carolina|Lydenburg
+3467|Ermelo|Lydenburg|Ermelo
+3468|Standerton|Ermelo|Standerton
+3469|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3470|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3471|Krugersdorp|Johannesburg|Krugersdorp
+3472|Rustenburg|Krugersdorp|Rustenburg
+3473|Ladysmith|Estcourt|Ladysmith
+3474|Dundee|Ladysmith|Dundee
+3475|Newcastle|Dundee|Newcastle
+3476|Standerton|Newcastle|Standerton
+3477|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3478|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3479|Krugersdorp|Johannesburg|Krugersdorp
+3480|Rustenburg|Krugersdorp|Rustenburg
+3481|Lichtenburg|Rustenburg|Lichtenburg
+3482|Mafeking|Lichtenburg|Mafeking
+3483|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3484|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3485|Krugersdorp|Johannesburg|Krugersdorp
+3486|Rustenburg|Krugersdorp|Rustenburg
+3487|Lichtenburg|Rustenburg|Lichtenburg
+3488|Mafeking|Lichtenburg|Mafeking
+3489|Klerksdorp|Mafeking|Klerksdorp
+3490|Potchefstroom|Klerksdorp|Potchefstroom
+3491|Pretoria|Potchefstroom|Pretoria
+3492|Carolina|Belfast|Carolina
+3493|Lydenburg|Carolina|Lydenburg
+3494|Ermelo|Lydenburg|Ermelo
+3495|Standerton|Ermelo|Standerton
+3496|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3497|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3498|Krugersdorp|Johannesburg|Krugersdorp
+3499|Rustenburg|Krugersdorp|Rustenburg
+3500|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3501|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3502|Krugersdorp|Johannesburg|Krugersdorp
+3503|Rustenburg|Krugersdorp|Rustenburg
+3504|Lichtenburg|Rustenburg|Lichtenburg
+3505|Mafeking|Lichtenburg|Mafeking
+3506|Klerksdorp|Mafeking|Klerksdorp
+3507|Potchefstroom|Klerksdorp|Potchefstroom
+3508|Pretoria|Potchefstroom|Pretoria
+3509|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3510|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3511|Krugersdorp|Johannesburg|Krugersdorp
+3512|Rustenburg|Krugersdorp|Rustenburg
+3513|Lichtenburg|Rustenburg|Lichtenburg
+3514|Mafeking|Lichtenburg|Mafeking
+3515|Klerksdorp|Mafeking|Klerksdorp
+3516|Potchefstroom|Klerksdorp|Potchefstroom
+3517|Pretoria|Potchefstroom|Pretoria
+3518|Newcastle|Dundee|Newcastle
+3519|Standerton|Newcastle|Standerton
+3520|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3521|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3522|Krugersdorp|Johannesburg|Krugersdorp
+3523|Rustenburg|Krugersdorp|Rustenburg
+3524|Lichtenburg|Rustenburg|Lichtenburg
+3525|Mafeking|Lichtenburg|Mafeking
+3526|Klerksdorp|Mafeking|Klerksdorp
+3527|Potchefstroom|Klerksdorp|Potchefstroom
+3528|Belfast|Middelburg (Tvl)|Belfast
+3529|Carolina|Belfast|Carolina
+3530|Lydenburg|Carolina|Lydenburg
+3531|Ermelo|Lydenburg|Ermelo
+3532|Belfast|Middelburg (Tvl)|Belfast
+3533|Naauwpoort|Hanover Road|Naauwpoort
+3534|Colesberg|Naauwpoort|Colesberg
+3535|Aliwal North|Colesberg|Aliwal North
+3536|Queenstown|Aliwal North|Queenstown
+3537|Stormberg|Queenstown|Stormberg
+3538|Belfast|Middelburg (Tvl)|Belfast
+3539|Carolina|Belfast|Carolina
+3540|Lydenburg|Carolina|Lydenburg
+3541|Ermelo|Lydenburg|Ermelo
+3542|Standerton|Ermelo|Standerton
+3543|Vrede|Heilbron|Vrede
+3544|Harrismith|Vrede|Harrismith
+3545|Bethlehem|Harrismith|Bethlehem
+3546|Senekal|Bethlehem|Senekal
+3547|Ladybrand|Senekal|Ladybrand
+3548|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3549|Belfast|Middelburg (Tvl)|Belfast
+3550|Carolina|Belfast|Carolina
+3551|Lydenburg|Carolina|Lydenburg
+3552|Ermelo|Lydenburg|Ermelo
+3553|Standerton|Ermelo|Standerton
+3554|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3555|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3556|Krugersdorp|Johannesburg|Krugersdorp
+3557|Rustenburg|Krugersdorp|Rustenburg
+3558|Belfast|Middelburg (Tvl)|Belfast
+3559|Carolina|Belfast|Carolina
+3560|Lydenburg|Carolina|Lydenburg
+3561|Naauwpoort|Hanover Road|Naauwpoort
+3562|Colesberg|Naauwpoort|Colesberg
+3563|Aliwal North|Colesberg|Aliwal North
+3564|Queenstown|Aliwal North|Queenstown
+3565|Stormberg|Queenstown|Stormberg
+3566|Molteno|Stormberg|Molteno
+3567|Sterkstroom|Molteno|Sterkstroom
+3568|Cradock|Sterkstroom|Cradock
+3569|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3570|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3571|Aberdeen|Graaff-Reinet|Aberdeen
+3572|Murraysburg|Aberdeen|Murraysburg
+3573|Richmond|Murraysburg|Richmond
+3574|Naauwpoort|Hanover Road|Naauwpoort
+3575|Colesberg|Naauwpoort|Colesberg
+3576|Aliwal North|Colesberg|Aliwal North
+3577|Queenstown|Aliwal North|Queenstown
+3578|Stormberg|Queenstown|Stormberg
+3579|Molteno|Stormberg|Molteno
+3580|Sterkstroom|Molteno|Sterkstroom
+3581|Cradock|Sterkstroom|Cradock
+3582|Naauwpoort|Hanover Road|Naauwpoort
+3583|Colesberg|Naauwpoort|Colesberg
+3584|Aliwal North|Colesberg|Aliwal North
+3585|Queenstown|Aliwal North|Queenstown
+3586|Stormberg|Queenstown|Stormberg
+3587|Molteno|Stormberg|Molteno
+3588|Sterkstroom|Molteno|Sterkstroom
+3589|Cradock|Sterkstroom|Cradock
+3590|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3591|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3592|Aberdeen|Graaff-Reinet|Aberdeen
+3593|Naauwpoort|Hanover Road|Naauwpoort
+3594|Colesberg|Naauwpoort|Colesberg
+3595|Aliwal North|Colesberg|Aliwal North
+3596|Queenstown|Aliwal North|Queenstown
+3597|Stormberg|Queenstown|Stormberg
+3598|Molteno|Stormberg|Molteno
+3599|Sterkstroom|Molteno|Sterkstroom
+3600|Cradock|Sterkstroom|Cradock
+3601|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3602|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3603|Aberdeen|Graaff-Reinet|Aberdeen
+3604|Murraysburg|Aberdeen|Murraysburg
+3605|Richmond|Murraysburg|Richmond
+3606|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3607|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3608|Aberdeen|Graaff-Reinet|Aberdeen
+3609|Murraysburg|Aberdeen|Murraysburg
+3610|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3611|Belfast|Middelburg (Tvl)|Belfast
+3612|Carolina|Belfast|Carolina
+3613|Lydenburg|Carolina|Lydenburg
+3614|Ermelo|Lydenburg|Ermelo
+3615|Standerton|Ermelo|Standerton
+3616|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3617|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3618|Krugersdorp|Johannesburg|Krugersdorp
+3619|Rustenburg|Krugersdorp|Rustenburg
+3620|Naauwpoort|Hanover Road|Naauwpoort
+3621|Colesberg|Naauwpoort|Colesberg
+3622|Aliwal North|Colesberg|Aliwal North
+3623|Queenstown|Aliwal North|Queenstown
+3624|Stormberg|Queenstown|Stormberg
+3625|Molteno|Stormberg|Molteno
+3626|Sterkstroom|Molteno|Sterkstroom
+3627|Cradock|Sterkstroom|Cradock
+3628|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3629|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3630|Aberdeen|Graaff-Reinet|Aberdeen
+3631|Murraysburg|Aberdeen|Murraysburg
+3632|Richmond|Murraysburg|Richmond
+3633|Naauwpoort|Hanover Road|Naauwpoort
+3634|Colesberg|Naauwpoort|Colesberg
+3635|Aliwal North|Colesberg|Aliwal North
+3636|Queenstown|Aliwal North|Queenstown
+3637|Stormberg|Queenstown|Stormberg
+3638|Molteno|Stormberg|Molteno
+3639|Sterkstroom|Molteno|Sterkstroom
+3640|Cradock|Sterkstroom|Cradock
+3641|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3642|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3643|Aberdeen|Graaff-Reinet|Aberdeen
+3644|Murraysburg|Aberdeen|Murraysburg
+3645|Richmond|Murraysburg|Richmond
+3646|Naauwpoort|Hanover Road|Naauwpoort
+3647|Colesberg|Naauwpoort|Colesberg
+3648|Aliwal North|Colesberg|Aliwal North
+3649|Queenstown|Aliwal North|Queenstown
+3650|Stormberg|Queenstown|Stormberg
+3651|Molteno|Stormberg|Molteno
+3652|Sterkstroom|Molteno|Sterkstroom
+3653|Cradock|Sterkstroom|Cradock
+3654|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3655|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3656|Aberdeen|Graaff-Reinet|Aberdeen
+3657|Murraysburg|Aberdeen|Murraysburg
+3658|Richmond|Murraysburg|Richmond
+3659|Naauwpoort|Hanover Road|Naauwpoort
+3660|Colesberg|Naauwpoort|Colesberg
+3661|Aliwal North|Colesberg|Aliwal North
+3662|Queenstown|Aliwal North|Queenstown
+3663|Stormberg|Queenstown|Stormberg
+3664|Molteno|Stormberg|Molteno
+3665|Sterkstroom|Molteno|Sterkstroom
+3666|Cradock|Sterkstroom|Cradock
+3667|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3668|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3669|Aberdeen|Graaff-Reinet|Aberdeen
+3670|Murraysburg|Aberdeen|Murraysburg
+3671|Richmond|Murraysburg|Richmond
+3672|Stormberg|Queenstown|Stormberg
+3673|Molteno|Stormberg|Molteno
+3674|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3675|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3676|Aberdeen|Graaff-Reinet|Aberdeen
+3677|Murraysburg|Aberdeen|Murraysburg
+3678|Kroonstad|Bloemfontein|Kroonstad
+3679|Heilbron|Kroonstad|Heilbron
+3680|Vrede|Heilbron|Vrede
+3681|Harrismith|Vrede|Harrismith
+3682|Bethlehem|Harrismith|Bethlehem
+3683|Senekal|Bethlehem|Senekal
+3684|Ladybrand|Senekal|Ladybrand
+3685|Klerksdorp|Mafeking|Klerksdorp
+3686|Potchefstroom|Klerksdorp|Potchefstroom
+3687|Pretoria|Potchefstroom|Pretoria
+3688|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3689|Belfast|Middelburg (Tvl)|Belfast
+3690|Carolina|Belfast|Carolina
+3691|Lydenburg|Carolina|Lydenburg
+3692|Ermelo|Lydenburg|Ermelo
+3693|Standerton|Ermelo|Standerton
+3694|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3695|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3696|Krugersdorp|Johannesburg|Krugersdorp
+3697|Naauwpoort|Hanover Road|Naauwpoort
+3698|Colesberg|Naauwpoort|Colesberg
+3699|Aliwal North|Colesberg|Aliwal North
+3700|Queenstown|Aliwal North|Queenstown
+3701|Stormberg|Queenstown|Stormberg
+3702|Molteno|Stormberg|Molteno
+3703|Sterkstroom|Molteno|Sterkstroom
+3704|Cradock|Sterkstroom|Cradock
+3705|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3706|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3707|Aberdeen|Graaff-Reinet|Aberdeen
+3708|Naauwpoort|Hanover Road|Naauwpoort
+3709|Colesberg|Naauwpoort|Colesberg
+3710|Aliwal North|Colesberg|Aliwal North
+3711|Queenstown|Aliwal North|Queenstown
+3712|Stormberg|Queenstown|Stormberg
+3713|Molteno|Stormberg|Molteno
+3714|Sterkstroom|Molteno|Sterkstroom
+3715|Cradock|Sterkstroom|Cradock
+3716|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3717|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3718|Aberdeen|Graaff-Reinet|Aberdeen
+3719|Naauwpoort|Hanover Road|Naauwpoort
+3720|Colesberg|Naauwpoort|Colesberg
+3721|Aliwal North|Colesberg|Aliwal North
+3722|Queenstown|Aliwal North|Queenstown
+3723|Stormberg|Queenstown|Stormberg
+3724|Molteno|Stormberg|Molteno
+3725|Sterkstroom|Molteno|Sterkstroom
+3726|Cradock|Sterkstroom|Cradock
+3727|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3728|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3729|Aberdeen|Graaff-Reinet|Aberdeen
+3730|Standerton|Ermelo|Standerton
+3731|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3732|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3733|Krugersdorp|Johannesburg|Krugersdorp
+3734|Rustenburg|Krugersdorp|Rustenburg
+3735|Lichtenburg|Rustenburg|Lichtenburg
+3736|Mafeking|Lichtenburg|Mafeking
+3737|Klerksdorp|Mafeking|Klerksdorp
+3738|Potchefstroom|Klerksdorp|Potchefstroom
+3739|Pretoria|Potchefstroom|Pretoria
+3740|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3741|Belfast|Middelburg (Tvl)|Belfast
+3742|Pretoria|Potchefstroom|Pretoria
+3743|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3744|Belfast|Middelburg (Tvl)|Belfast
+3745|Carolina|Belfast|Carolina
+3746|Lydenburg|Carolina|Lydenburg
+3747|Ermelo|Lydenburg|Ermelo
+3748|Standerton|Ermelo|Standerton
+3749|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3750|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3751|Krugersdorp|Johannesburg|Krugersdorp
+3752|Rustenburg|Krugersdorp|Rustenburg
+3753|Lichtenburg|Rustenburg|Lichtenburg
+3754|Mafeking|Lichtenburg|Mafeking
+3755|Klerksdorp|Mafeking|Klerksdorp
+3756|Kroonstad|Bloemfontein|Kroonstad
+3757|Heilbron|Kroonstad|Heilbron
+3758|Vrede|Heilbron|Vrede
+3759|Harrismith|Vrede|Harrismith
+3760|Bethlehem|Harrismith|Bethlehem
+3761|Senekal|Bethlehem|Senekal
+3762|Ladybrand|Senekal|Ladybrand
+3763|Aberdeen|Graaff-Reinet|Aberdeen
+3764|Murraysburg|Aberdeen|Murraysburg
+3765|Richmond|Murraysburg|Richmond
+3766|Hanover|Richmond|Hanover
+3767|De Aar|Hanover|De Aar
+3768|Belfast|Middelburg (Tvl)|Belfast
+3769|Carolina|Belfast|Carolina
+3770|Lydenburg|Carolina|Lydenburg
+3771|Ermelo|Lydenburg|Ermelo
+3772|Standerton|Ermelo|Standerton
+3773|Senekal|Bethlehem|Senekal
+3774|Ladybrand|Senekal|Ladybrand
+3775|Bloemfontein|Ladybrand|Bloemfontein
+3776|Kroonstad|Bloemfontein|Kroonstad
+3777|Heilbron|Kroonstad|Heilbron
+3778|Vrede|Heilbron|Vrede
+3779|Belfast|Middelburg (Tvl)|Belfast
+3780|Carolina|Belfast|Carolina
+3781|Lydenburg|Carolina|Lydenburg
+3782|Ermelo|Lydenburg|Ermelo
+3783|Standerton|Ermelo|Standerton
+3784|Mafeking|Lichtenburg|Mafeking
+3785|Klerksdorp|Mafeking|Klerksdorp
+3786|Potchefstroom|Klerksdorp|Potchefstroom
+3787|Pretoria|Potchefstroom|Pretoria
+3788|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3789|Belfast|Middelburg (Tvl)|Belfast
+3790|Carolina|Belfast|Carolina
+3791|Bloemfontein|Modder River|Bloemfontein
+3792|Kroonstad|Bloemfontein|Kroonstad
+3793|Heilbron|Kroonstad|Heilbron
+3794|Vrede|Heilbron|Vrede
+3795|Harrismith|Vrede|Harrismith
+3796|Bethlehem|Harrismith|Bethlehem
+3797|Senekal|Bethlehem|Senekal
+3798|Ladybrand|Senekal|Ladybrand
+3799|Kroonstad|Bloemfontein|Kroonstad
+3800|Heilbron|Kroonstad|Heilbron
+3801|Vrede|Heilbron|Vrede
+3802|Harrismith|Vrede|Harrismith
+3803|Bethlehem|Harrismith|Bethlehem
+3804|Senekal|Bethlehem|Senekal
+3805|Ladybrand|Senekal|Ladybrand
+3806|Naauwpoort|Hanover Road|Naauwpoort
+3807|Colesberg|Naauwpoort|Colesberg
+3808|Aliwal North|Colesberg|Aliwal North
+3809|Queenstown|Aliwal North|Queenstown
+3810|Stormberg|Queenstown|Stormberg
+3811|Molteno|Stormberg|Molteno
+3812|Sterkstroom|Molteno|Sterkstroom
+3813|Cradock|Sterkstroom|Cradock
+3814|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3815|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3816|Aberdeen|Graaff-Reinet|Aberdeen
+3817|Naauwpoort|Hanover Road|Naauwpoort
+3818|Colesberg|Naauwpoort|Colesberg
+3819|Aliwal North|Colesberg|Aliwal North
+3820|Queenstown|Aliwal North|Queenstown
+3821|Stormberg|Queenstown|Stormberg
+3822|Molteno|Stormberg|Molteno
+3823|Sterkstroom|Molteno|Sterkstroom
+3824|Cradock|Sterkstroom|Cradock
+3825|Middelburg (Cape)|Cradock|Middelburg (Cape)
+3826|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+3827|Aberdeen|Graaff-Reinet|Aberdeen
+3828|Belfast|Middelburg (Tvl)|Belfast
+3829|Carolina|Belfast|Carolina
+3830|Lydenburg|Carolina|Lydenburg
+3831|Ermelo|Lydenburg|Ermelo
+3832|Standerton|Ermelo|Standerton
+3833|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3834|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3835|Belfast|Middelburg (Tvl)|Belfast
+3836|Carolina|Belfast|Carolina
+3837|Lydenburg|Carolina|Lydenburg
+3838|Ermelo|Lydenburg|Ermelo
+3839|Standerton|Ermelo|Standerton
+3840|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3841|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3842|Aliwal North|Barkly East|Aliwal North
+3843|Belfast|Middelburg (Tvl)|Belfast
+3844|Carolina|Belfast|Carolina
+3845|Lydenburg|Carolina|Lydenburg
+3846|Ermelo|Lydenburg|Ermelo
+3847|Standerton|Ermelo|Standerton
+3848|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3849|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3850|Krugersdorp|Johannesburg|Krugersdorp
+3851|Rustenburg|Krugersdorp|Rustenburg
+3852|Lichtenburg|Rustenburg|Lichtenburg
+3853|Naauwpoort|Hanover Road|Naauwpoort
+3854|Colesberg|Naauwpoort|Colesberg
+3855|Aliwal North|Colesberg|Aliwal North
+3856|Bloemfontein|Paardeberg|Bloemfontein
+3857|Kroonstad|Bloemfontein|Kroonstad
+3858|Heilbron|Kroonstad|Heilbron
+3859|Vrede|Heilbron|Vrede
+3860|Harrismith|Vrede|Harrismith
+3861|Bethlehem|Harrismith|Bethlehem
+3862|Senekal|Bethlehem|Senekal
+3863|Ladybrand|Senekal|Ladybrand
+3864|Heilbron|Kroonstad|Heilbron
+3865|Vrede|Heilbron|Vrede
+3866|Harrismith|Vrede|Harrismith
+3867|Bethlehem|Harrismith|Bethlehem
+3868|Senekal|Bethlehem|Senekal
+3869|Ladybrand|Senekal|Ladybrand
+3870|Bloemfontein|Paardeberg|Bloemfontein
+3871|Kroonstad|Bloemfontein|Kroonstad
+3872|Heilbron|Kroonstad|Heilbron
+3873|Vrede|Heilbron|Vrede
+3874|Harrismith|Vrede|Harrismith
+3875|Bethlehem|Harrismith|Bethlehem
+3876|Senekal|Bethlehem|Senekal
+3877|Ladybrand|Senekal|Ladybrand
+3878|Aberdeen|Graaff-Reinet|Aberdeen
+3879|Murraysburg|Aberdeen|Murraysburg
+3880|Richmond|Murraysburg|Richmond
+3881|Hanover|Richmond|Hanover
+3882|De Aar|Hanover|De Aar
+3883|Belfast|Middelburg (Tvl)|Belfast
+3884|Carolina|Belfast|Carolina
+3885|Lydenburg|Carolina|Lydenburg
+3886|Ermelo|Lydenburg|Ermelo
+3887|Standerton|Ermelo|Standerton
+3888|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3889|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3890|Krugersdorp|Johannesburg|Krugersdorp
+3891|Rustenburg|Krugersdorp|Rustenburg
+3892|Heilbron|Kroonstad|Heilbron
+3893|Vrede|Heilbron|Vrede
+3894|Harrismith|Vrede|Harrismith
+3895|Bethlehem|Harrismith|Bethlehem
+3896|Senekal|Bethlehem|Senekal
+3897|Ladybrand|Senekal|Ladybrand
+3898|Kroonstad|Bloemfontein|Kroonstad
+3899|Heilbron|Kroonstad|Heilbron
+3900|Vrede|Heilbron|Vrede
+3901|Harrismith|Vrede|Harrismith
+3902|Bethlehem|Harrismith|Bethlehem
+3903|Senekal|Bethlehem|Senekal
+3904|Ladybrand|Senekal|Ladybrand
+3905|Kroonstad|Bloemfontein|Kroonstad
+3906|Heilbron|Kroonstad|Heilbron
+3907|Vrede|Heilbron|Vrede
+3908|Harrismith|Vrede|Harrismith
+3909|Belfast|Middelburg (Tvl)|Belfast
+3910|Carolina|Belfast|Carolina
+3911|Lydenburg|Carolina|Lydenburg
+3912|Ermelo|Lydenburg|Ermelo
+3913|Standerton|Ermelo|Standerton
+3914|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3915|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3916|Krugersdorp|Johannesburg|Krugersdorp
+3917|Rustenburg|Krugersdorp|Rustenburg
+3918|Lichtenburg|Rustenburg|Lichtenburg
+3919|Mafeking|Lichtenburg|Mafeking
+3920|Klerksdorp|Mafeking|Klerksdorp
+3921|Potchefstroom|Klerksdorp|Potchefstroom
+3922|Bloemfontein|Springhaan's Nek|Bloemfontein
+3923|Kroonstad|Bloemfontein|Kroonstad
+3924|Heilbron|Kroonstad|Heilbron
+3925|Vrede|Heilbron|Vrede
+3926|Harrismith|Vrede|Harrismith
+3927|Bethlehem|Harrismith|Bethlehem
+3928|Senekal|Bethlehem|Senekal
+3929|Ladybrand|Senekal|Ladybrand
+3930|Heilbron|Kroonstad|Heilbron
+3931|Vrede|Heilbron|Vrede
+3932|Harrismith|Vrede|Harrismith
+3933|Bethlehem|Harrismith|Bethlehem
+3934|Senekal|Bethlehem|Senekal
+3935|Ladybrand|Senekal|Ladybrand
+3936|Kroonstad|Bloemfontein|Kroonstad
+3937|Heilbron|Kroonstad|Heilbron
+3938|Vrede|Heilbron|Vrede
+3939|Harrismith|Vrede|Harrismith
+3940|Bethlehem|Harrismith|Bethlehem
+3941|Senekal|Bethlehem|Senekal
+3942|Ladybrand|Senekal|Ladybrand
+3943|Bloemfontein|Yzerspruit near Klerksdorp|Bloemfontein
+3944|Kroonstad|Bloemfontein|Kroonstad
+3945|Heilbron|Kroonstad|Heilbron
+3946|Vrede|Heilbron|Vrede
+3947|Harrismith|Vrede|Harrismith
+3948|Bethlehem|Harrismith|Bethlehem
+3949|Mafeking|Lichtenburg|Mafeking
+3950|Klerksdorp|Mafeking|Klerksdorp
+3951|Potchefstroom|Klerksdorp|Potchefstroom
+3952|Pretoria|Potchefstroom|Pretoria
+3953|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3954|Belfast|Middelburg (Tvl)|Belfast
+3955|Carolina|Belfast|Carolina
+3956|Lydenburg|Carolina|Lydenburg
+3957|Ermelo|Lydenburg|Ermelo
+3958|Standerton|Ermelo|Standerton
+3959|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3960|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3961|Krugersdorp|Johannesburg|Krugersdorp
+3962|Belfast|Middelburg (Tvl)|Belfast
+3963|Carolina|Belfast|Carolina
+3964|Lydenburg|Carolina|Lydenburg
+3965|Belfast|Middelburg (Tvl)|Belfast
+3966|Carolina|Belfast|Carolina
+3967|Lydenburg|Carolina|Lydenburg
+3968|Ermelo|Lydenburg|Ermelo
+3969|Standerton|Ermelo|Standerton
+3970|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3971|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3972|Krugersdorp|Johannesburg|Krugersdorp
+3973|Rustenburg|Krugersdorp|Rustenburg
+3974|Pretoria|Cape Town|Pretoria
+3975|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+3976|Belfast|Middelburg (Tvl)|Belfast
+3977|Carolina|Belfast|Carolina
+3978|Lydenburg|Carolina|Lydenburg
+3979|Ermelo|Lydenburg|Ermelo
+3980|Standerton|Ermelo|Standerton
+3981|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+3982|Johannesburg|Heidelberg (Tvl)|Johannesburg
+3983|Krugersdorp|Johannesburg|Krugersdorp
+3984|Rustenburg|Krugersdorp|Rustenburg
+3985|Lichtenburg|Rustenburg|Lichtenburg
+3986|Mafeking|Lichtenburg|Mafeking
+3987|Klerksdorp|Mafeking|Klerksdorp
+3988|Heilbron|Kroonstad|Heilbron
+3989|Vrede|Heilbron|Vrede
+3990|Harrismith|Vrede|Harrismith
+3991|Bethlehem|Harrismith|Bethlehem
+3992|Senekal|Bethlehem|Senekal
+3993|Ladybrand|Senekal|Ladybrand
+3994|Naauwpoort|Hanover Road|Naauwpoort
+3995|Colesberg|Naauwpoort|Colesberg
+3996|Aliwal North|Colesberg|Aliwal North
+3997|Queenstown|Aliwal North|Queenstown
+3998|Stormberg|Queenstown|Stormberg
+3999|Molteno|Stormberg|Molteno
+4000|Sterkstroom|Molteno|Sterkstroom
+4001|Cradock|Sterkstroom|Cradock
+4002|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4003|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4004|Aberdeen|Graaff-Reinet|Aberdeen
+4005|De Aar|Hanover|De Aar
+4006|Hanover Road|De Aar|Hanover Road
+4007|Belfast|Middelburg (Tvl)|Belfast
+4008|Carolina|Belfast|Carolina
+4009|Lydenburg|Carolina|Lydenburg
+4010|Ermelo|Lydenburg|Ermelo
+4011|Standerton|Ermelo|Standerton
+4012|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4013|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4014|Krugersdorp|Johannesburg|Krugersdorp
+4015|Rustenburg|Krugersdorp|Rustenburg
+4016|Belfast|Middelburg (Tvl)|Belfast
+4017|Carolina|Belfast|Carolina
+4018|Lydenburg|Carolina|Lydenburg
+4019|Ermelo|Lydenburg|Ermelo
+4020|Standerton|Ermelo|Standerton
+4021|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4022|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4023|Krugersdorp|Johannesburg|Krugersdorp
+4024|Rustenburg|Krugersdorp|Rustenburg
+4025|Lichtenburg|Rustenburg|Lichtenburg
+4026|Mafeking|Lichtenburg|Mafeking
+4027|Naauwpoort|Hanover Road|Naauwpoort
+4028|Colesberg|Naauwpoort|Colesberg
+4029|Aliwal North|Colesberg|Aliwal North
+4030|Queenstown|Aliwal North|Queenstown
+4031|Stormberg|Queenstown|Stormberg
+4032|Molteno|Stormberg|Molteno
+4033|Sterkstroom|Molteno|Sterkstroom
+4034|Cradock|Sterkstroom|Cradock
+4035|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4036|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4037|Aberdeen|Graaff-Reinet|Aberdeen
+4038|Dundee|Ladysmith|Dundee
+4039|Newcastle|Dundee|Newcastle
+4040|Standerton|Newcastle|Standerton
+4041|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4042|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4043|Krugersdorp|Johannesburg|Krugersdorp
+4044|Rustenburg|Krugersdorp|Rustenburg
+4045|Lichtenburg|Rustenburg|Lichtenburg
+4046|Mafeking|Lichtenburg|Mafeking
+4047|Klerksdorp|Mafeking|Klerksdorp
+4048|Potchefstroom|Klerksdorp|Potchefstroom
+4049|Pretoria|Potchefstroom|Pretoria
+4050|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4051|Dundee|Ladysmith|Dundee
+4052|Newcastle|Dundee|Newcastle
+4053|Standerton|Newcastle|Standerton
+4054|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4055|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4056|Krugersdorp|Johannesburg|Krugersdorp
+4057|Rustenburg|Krugersdorp|Rustenburg
+4058|Lichtenburg|Rustenburg|Lichtenburg
+4059|Mafeking|Lichtenburg|Mafeking
+4060|Klerksdorp|Mafeking|Klerksdorp
+4061|Potchefstroom|Klerksdorp|Potchefstroom
+4062|Pretoria|Potchefstroom|Pretoria
+4063|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4064|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4065|Aberdeen|Graaff-Reinet|Aberdeen
+4066|Murraysburg|Aberdeen|Murraysburg
+4067|Richmond|Murraysburg|Richmond
+4068|Hanover|Richmond|Hanover
+4069|De Aar|Hanover|De Aar
+4070|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4071|Aberdeen|Graaff-Reinet|Aberdeen
+4072|Kroonstad|Bloemfontein|Kroonstad
+4073|Heilbron|Kroonstad|Heilbron
+4074|Vrede|Heilbron|Vrede
+4075|Harrismith|Vrede|Harrismith
+4076|Bethlehem|Harrismith|Bethlehem
+4077|Senekal|Bethlehem|Senekal
+4078|Ladybrand|Senekal|Ladybrand
+4079|Queenstown|King William's Town|Queenstown
+4080|Stormberg|Queenstown|Stormberg
+4081|Molteno|Stormberg|Molteno
+4082|Sterkstroom|Molteno|Sterkstroom
+4083|Cradock|Sterkstroom|Cradock
+4084|Stormberg|Queenstown|Stormberg
+4085|Molteno|Stormberg|Molteno
+4086|Sterkstroom|Molteno|Sterkstroom
+4087|Cradock|Sterkstroom|Cradock
+4088|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4089|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4090|Aberdeen|Graaff-Reinet|Aberdeen
+4091|Murraysburg|Aberdeen|Murraysburg
+4092|Aberdeen|Graaff-Reinet|Aberdeen
+4093|Murraysburg|Aberdeen|Murraysburg
+4094|Richmond|Murraysburg|Richmond
+4095|Hanover|Richmond|Hanover
+4096|De Aar|Hanover|De Aar
+4097|Hanover Road|De Aar|Hanover Road
+4098|Naauwpoort|Hanover Road|Naauwpoort
+4099|Colesberg|Naauwpoort|Colesberg
+4100|Aliwal North|Colesberg|Aliwal North
+4101|Queenstown|Aliwal North|Queenstown
+4102|Stormberg|Queenstown|Stormberg
+4103|Kroonstad|Bloemfontein|Kroonstad
+4104|Heilbron|Kroonstad|Heilbron
+4105|Vrede|Heilbron|Vrede
+4106|Harrismith|Vrede|Harrismith
+4107|Bethlehem|Harrismith|Bethlehem
+4108|Senekal|Bethlehem|Senekal
+4109|Ladybrand|Senekal|Ladybrand
+4110|Klerksdorp|Mafeking|Klerksdorp
+4111|Potchefstroom|Klerksdorp|Potchefstroom
+4112|Pretoria|Potchefstroom|Pretoria
+4113|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4114|Belfast|Middelburg (Tvl)|Belfast
+4115|Carolina|Belfast|Carolina
+4116|Lydenburg|Carolina|Lydenburg
+4117|Ermelo|Lydenburg|Ermelo
+4118|Standerton|Ermelo|Standerton
+4119|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4120|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4121|Krugersdorp|Johannesburg|Krugersdorp
+4122|Rustenburg|Krugersdorp|Rustenburg
+4123|Belfast|Middelburg (Tvl)|Belfast
+4124|Carolina|Belfast|Carolina
+4125|Lydenburg|Carolina|Lydenburg
+4126|Ermelo|Lydenburg|Ermelo
+4127|Standerton|Ermelo|Standerton
+4128|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4129|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4130|Belfast|Middelburg (Tvl)|Belfast
+4131|Carolina|Belfast|Carolina
+4132|Lydenburg|Carolina|Lydenburg
+4133|Ermelo|Lydenburg|Ermelo
+4134|Standerton|Ermelo|Standerton
+4135|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4136|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4137|Krugersdorp|Johannesburg|Krugersdorp
+4138|Rustenburg|Krugersdorp|Rustenburg
+4139|Lichtenburg|Rustenburg|Lichtenburg
+4140|Newcastle|Dundee|Newcastle
+4141|Standerton|Newcastle|Standerton
+4142|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4143|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4144|Krugersdorp|Johannesburg|Krugersdorp
+4145|Rustenburg|Krugersdorp|Rustenburg
+4146|Lichtenburg|Rustenburg|Lichtenburg
+4147|Mafeking|Lichtenburg|Mafeking
+4148|Klerksdorp|Mafeking|Klerksdorp
+4149|Potchefstroom|Klerksdorp|Potchefstroom
+4150|Pretoria|Potchefstroom|Pretoria
+4151|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4152|Belfast|Middelburg (Tvl)|Belfast
+4153|Carolina|Belfast|Carolina
+4154|Lydenburg|Carolina|Lydenburg
+4155|Ermelo|Lydenburg|Ermelo
+4156|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4157|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4158|Krugersdorp|Johannesburg|Krugersdorp
+4159|Rustenburg|Krugersdorp|Rustenburg
+4160|Lichtenburg|Rustenburg|Lichtenburg
+4161|Mafeking|Lichtenburg|Mafeking
+4162|Klerksdorp|Mafeking|Klerksdorp
+4163|Potchefstroom|Klerksdorp|Potchefstroom
+4164|Pretoria|Potchefstroom|Pretoria
+4165|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4166|Belfast|Middelburg (Tvl)|Belfast
+4167|Carolina|Belfast|Carolina
+4168|Lydenburg|Carolina|Lydenburg
+4169|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4170|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4171|Krugersdorp|Johannesburg|Krugersdorp
+4172|Rustenburg|Krugersdorp|Rustenburg
+4173|Lichtenburg|Rustenburg|Lichtenburg
+4174|Mafeking|Lichtenburg|Mafeking
+4175|Klerksdorp|Mafeking|Klerksdorp
+4176|Potchefstroom|Klerksdorp|Potchefstroom
+4177|Pretoria|Potchefstroom|Pretoria
+4178|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4179|Belfast|Middelburg (Tvl)|Belfast
+4180|Carolina|Belfast|Carolina
+4181|Lydenburg|Carolina|Lydenburg
+4182|Ermelo|Lydenburg|Ermelo
+4183|Newcastle|Dundee|Newcastle
+4184|Standerton|Newcastle|Standerton
+4185|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4186|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4187|Krugersdorp|Johannesburg|Krugersdorp
+4188|Rustenburg|Krugersdorp|Rustenburg
+4189|Lichtenburg|Rustenburg|Lichtenburg
+4190|Mafeking|Lichtenburg|Mafeking
+4191|Klerksdorp|Mafeking|Klerksdorp
+4192|Potchefstroom|Klerksdorp|Potchefstroom
+4193|Pretoria|Potchefstroom|Pretoria
+4194|Aliwal North|Burgersdorp|Aliwal North
+4195|Queenstown|Aliwal North|Queenstown
+4196|Stormberg|Queenstown|Stormberg
+4197|Molteno|Stormberg|Molteno
+4198|Sterkstroom|Molteno|Sterkstroom
+4199|Kroonstad|Bloemfontein|Kroonstad
+4200|Heilbron|Kroonstad|Heilbron
+4201|Vrede|Heilbron|Vrede
+4202|Harrismith|Vrede|Harrismith
+4203|Bethlehem|Harrismith|Bethlehem
+4204|Senekal|Bethlehem|Senekal
+4205|Ladybrand|Senekal|Ladybrand
+4206|Ermelo|Lydenburg|Ermelo
+4207|Standerton|Ermelo|Standerton
+4208|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4209|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4210|Krugersdorp|Johannesburg|Krugersdorp
+4211|Rustenburg|Krugersdorp|Rustenburg
+4212|Lichtenburg|Rustenburg|Lichtenburg
+4213|Mafeking|Lichtenburg|Mafeking
+4214|Klerksdorp|Mafeking|Klerksdorp
+4215|Potchefstroom|Klerksdorp|Potchefstroom
+4216|Ladybrand|Senekal|Ladybrand
+4217|Bloemfontein|Ladybrand|Bloemfontein
+4218|Kroonstad|Bloemfontein|Kroonstad
+4219|Heilbron|Kroonstad|Heilbron
+4220|Vrede|Heilbron|Vrede
+4221|Harrismith|Vrede|Harrismith
+4222|Belfast|Middelburg (Tvl)|Belfast
+4223|Carolina|Belfast|Carolina
+4224|Lydenburg|Carolina|Lydenburg
+4225|Ermelo|Lydenburg|Ermelo
+4226|Standerton|Ermelo|Standerton
+4227|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4228|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4229|Aberdeen|Graaff-Reinet|Aberdeen
+4230|Murraysburg|Aberdeen|Murraysburg
+4231|Richmond|Murraysburg|Richmond
+4232|Hanover|Richmond|Hanover
+4233|De Aar|Hanover|De Aar
+4234|Hanover Road|De Aar|Hanover Road
+4235|Naauwpoort|Hanover Road|Naauwpoort
+4236|Colesberg|Naauwpoort|Colesberg
+4237|Aliwal North|Colesberg|Aliwal North
+4238|Queenstown|Aliwal North|Queenstown
+4239|Stormberg|Queenstown|Stormberg
+4240|Molteno|Stormberg|Molteno
+4241|Belfast|Middelburg (Tvl)|Belfast
+4242|Carolina|Belfast|Carolina
+4243|Lydenburg|Carolina|Lydenburg
+4244|Ermelo|Lydenburg|Ermelo
+4245|Standerton|Ermelo|Standerton
+4246|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4247|Ermelo|Lydenburg|Ermelo
+4248|Standerton|Ermelo|Standerton
+4249|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4250|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4251|Krugersdorp|Johannesburg|Krugersdorp
+4252|Rustenburg|Krugersdorp|Rustenburg
+4253|Lichtenburg|Rustenburg|Lichtenburg
+4254|Mafeking|Lichtenburg|Mafeking
+4255|Klerksdorp|Mafeking|Klerksdorp
+4256|Potchefstroom|Klerksdorp|Potchefstroom
+4257|Ermelo|Lydenburg|Ermelo
+4258|Standerton|Ermelo|Standerton
+4259|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4260|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4261|Krugersdorp|Johannesburg|Krugersdorp
+4262|Rustenburg|Krugersdorp|Rustenburg
+4263|Lichtenburg|Rustenburg|Lichtenburg
+4264|Mafeking|Lichtenburg|Mafeking
+4265|Klerksdorp|Mafeking|Klerksdorp
+4266|Potchefstroom|Klerksdorp|Potchefstroom
+4267|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4268|Harrismith|Vrede|Harrismith
+4269|Bethlehem|Harrismith|Bethlehem
+4270|Senekal|Bethlehem|Senekal
+4271|Ladybrand|Senekal|Ladybrand
+4272|Bloemfontein|Ladybrand|Bloemfontein
+4273|Kroonstad|Bloemfontein|Kroonstad
+4274|Vrede|Heilbron|Vrede
+4275|Harrismith|Vrede|Harrismith
+4276|Bethlehem|Harrismith|Bethlehem
+4277|Senekal|Bethlehem|Senekal
+4278|Ladybrand|Senekal|Ladybrand
+4279|Bloemfontein|Zanddrift|Bloemfontein
+4280|Kroonstad|Bloemfontein|Kroonstad
+4281|Heilbron|Kroonstad|Heilbron
+4282|Vrede|Heilbron|Vrede
+4283|Harrismith|Vrede|Harrismith
+4284|Bethlehem|Harrismith|Bethlehem
+4285|Senekal|Bethlehem|Senekal
+4286|Ladybrand|Senekal|Ladybrand
+4287|Bloemfontein|Brandwater Basin|Bloemfontein
+4288|Kroonstad|Bloemfontein|Kroonstad
+4289|Heilbron|Kroonstad|Heilbron
+4290|Vrede|Heilbron|Vrede
+4291|Harrismith|Vrede|Harrismith
+4292|Bethlehem|Harrismith|Bethlehem
+4293|Senekal|Bethlehem|Senekal
+4294|Ladybrand|Senekal|Ladybrand
+4295|Aliwal North|Colesberg|Aliwal North
+4296|Queenstown|Aliwal North|Queenstown
+4297|Stormberg|Queenstown|Stormberg
+4298|Molteno|Stormberg|Molteno
+4299|Sterkstroom|Molteno|Sterkstroom
+4300|Cradock|Sterkstroom|Cradock
+4301|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4302|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4303|Aberdeen|Graaff-Reinet|Aberdeen
+4304|Murraysburg|Aberdeen|Murraysburg
+4305|Richmond|Murraysburg|Richmond
+4306|Hanover|Richmond|Hanover
+4307|De Aar|Hanover|De Aar
+4308|Pretoria|Arundel|Pretoria
+4309|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4310|Belfast|Middelburg (Tvl)|Belfast
+4311|Carolina|Belfast|Carolina
+4312|Lydenburg|Carolina|Lydenburg
+4313|Ermelo|Lydenburg|Ermelo
+4314|Standerton|Ermelo|Standerton
+4315|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4316|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4317|Krugersdorp|Johannesburg|Krugersdorp
+4318|Rustenburg|Krugersdorp|Rustenburg
+4319|Lichtenburg|Rustenburg|Lichtenburg
+4320|Mafeking|Lichtenburg|Mafeking
+4321|Heilbron|Kroonstad|Heilbron
+4322|Vrede|Heilbron|Vrede
+4323|Harrismith|Vrede|Harrismith
+4324|Bethlehem|Harrismith|Bethlehem
+4325|Senekal|Bethlehem|Senekal
+4326|Ladybrand|Senekal|Ladybrand
+4327|Heilbron|Kroonstad|Heilbron
+4328|Vrede|Heilbron|Vrede
+4329|Harrismith|Vrede|Harrismith
+4330|Bethlehem|Harrismith|Bethlehem
+4331|Senekal|Bethlehem|Senekal
+4332|Ladybrand|Senekal|Ladybrand
+4333|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4334|Belfast|Middelburg (Tvl)|Belfast
+4335|Carolina|Belfast|Carolina
+4336|Lydenburg|Carolina|Lydenburg
+4337|Ermelo|Lydenburg|Ermelo
+4338|Standerton|Ermelo|Standerton
+4339|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4340|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4341|Krugersdorp|Johannesburg|Krugersdorp
+4342|Heilbron|Kroonstad|Heilbron
+4343|Vrede|Heilbron|Vrede
+4344|Harrismith|Vrede|Harrismith
+4345|Bethlehem|Harrismith|Bethlehem
+4346|Senekal|Bethlehem|Senekal
+4347|Ladybrand|Senekal|Ladybrand
+4348|Belfast|Middelburg (Tvl)|Belfast
+4349|Carolina|Belfast|Carolina
+4350|Lydenburg|Carolina|Lydenburg
+4351|Ermelo|Lydenburg|Ermelo
+4352|Standerton|Ermelo|Standerton
+4353|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4354|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4355|Krugersdorp|Johannesburg|Krugersdorp
+4356|Rustenburg|Krugersdorp|Rustenburg
+4357|Lichtenburg|Rustenburg|Lichtenburg
+4358|Belfast|Middelburg (Tvl)|Belfast
+4359|Stormberg|Queenstown|Stormberg
+4360|Belfast|Middelburg (Tvl)|Belfast
+4361|Carolina|Belfast|Carolina
+4362|Lydenburg|Carolina|Lydenburg
+4363|Belfast|Middelburg (Tvl)|Belfast
+4364|Carolina|Belfast|Carolina
+4365|Lydenburg|Carolina|Lydenburg
+4366|Ermelo|Lydenburg|Ermelo
+4367|Standerton|Ermelo|Standerton
+4368|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4369|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4370|Krugersdorp|Johannesburg|Krugersdorp
+4371|Rustenburg|Krugersdorp|Rustenburg
+4372|Lichtenburg|Rustenburg|Lichtenburg
+4373|Naauwpoort|Hanover Road|Naauwpoort
+4374|Colesberg|Naauwpoort|Colesberg
+4375|Aliwal North|Colesberg|Aliwal North
+4376|Queenstown|Aliwal North|Queenstown
+4377|Stormberg|Queenstown|Stormberg
+4378|Molteno|Stormberg|Molteno
+4379|Sterkstroom|Molteno|Sterkstroom
+4380|Cradock|Sterkstroom|Cradock
+4381|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4382|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4383|Aberdeen|Graaff-Reinet|Aberdeen
+4384|Krugersdorp|Johannesburg|Krugersdorp
+4385|Rustenburg|Krugersdorp|Rustenburg
+4386|Lichtenburg|Rustenburg|Lichtenburg
+4387|Mafeking|Lichtenburg|Mafeking
+4388|Klerksdorp|Mafeking|Klerksdorp
+4389|Ermelo|Lydenburg|Ermelo
+4390|Standerton|Ermelo|Standerton
+4391|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4392|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4393|Krugersdorp|Johannesburg|Krugersdorp
+4394|Rustenburg|Krugersdorp|Rustenburg
+4395|Lichtenburg|Rustenburg|Lichtenburg
+4396|Mafeking|Lichtenburg|Mafeking
+4397|Klerksdorp|Mafeking|Klerksdorp
+4398|Potchefstroom|Klerksdorp|Potchefstroom
+4399|Ermelo|Lydenburg|Ermelo
+4400|Standerton|Ermelo|Standerton
+4401|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4402|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4403|Krugersdorp|Johannesburg|Krugersdorp
+4404|Rustenburg|Krugersdorp|Rustenburg
+4405|Lichtenburg|Rustenburg|Lichtenburg
+4406|Mafeking|Lichtenburg|Mafeking
+4407|Klerksdorp|Mafeking|Klerksdorp
+4408|Potchefstroom|Klerksdorp|Potchefstroom
+4409|Belfast|Middelburg (Tvl)|Belfast
+4410|Carolina|Belfast|Carolina
+4411|Lydenburg|Carolina|Lydenburg
+4412|Ermelo|Lydenburg|Ermelo
+4413|Standerton|Ermelo|Standerton
+4414|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4415|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4416|Krugersdorp|Johannesburg|Krugersdorp
+4417|Rustenburg|Krugersdorp|Rustenburg
+4418|Lichtenburg|Rustenburg|Lichtenburg
+4419|Mafeking|Lichtenburg|Mafeking
+4420|Klerksdorp|Mafeking|Klerksdorp
+4421|Potchefstroom|Klerksdorp|Potchefstroom
+4422|Belfast|Middelburg (Tvl)|Belfast
+4423|Carolina|Belfast|Carolina
+4424|Lydenburg|Carolina|Lydenburg
+4425|Ermelo|Lydenburg|Ermelo
+4426|Standerton|Ermelo|Standerton
+4427|Pretoria|Blood River Poort|Pretoria
+4428|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4429|Belfast|Middelburg (Tvl)|Belfast
+4430|Carolina|Belfast|Carolina
+4431|Aberdeen|Graaff-Reinet|Aberdeen
+4432|Murraysburg|Aberdeen|Murraysburg
+4433|Richmond|Murraysburg|Richmond
+4434|Hanover|Richmond|Hanover
+4435|De Aar|Hanover|De Aar
+4436|Hanover Road|De Aar|Hanover Road
+4437|Naauwpoort|Hanover Road|Naauwpoort
+4438|Colesberg|Naauwpoort|Colesberg
+4439|Aliwal North|Colesberg|Aliwal North
+4440|Queenstown|Aliwal North|Queenstown
+4441|Stormberg|Queenstown|Stormberg
+4442|Heilbron|Kroonstad|Heilbron
+4443|Vrede|Heilbron|Vrede
+4444|Harrismith|Vrede|Harrismith
+4445|Bethlehem|Harrismith|Bethlehem
+4446|Senekal|Bethlehem|Senekal
+4447|Ladybrand|Senekal|Ladybrand
+4448|Belfast|Middelburg (Tvl)|Belfast
+4449|Carolina|Belfast|Carolina
+4450|Lydenburg|Carolina|Lydenburg
+4451|Ermelo|Lydenburg|Ermelo
+4452|Standerton|Ermelo|Standerton
+4453|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4454|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4455|Krugersdorp|Johannesburg|Krugersdorp
+4456|Rustenburg|Krugersdorp|Rustenburg
+4457|Lichtenburg|Rustenburg|Lichtenburg
+4458|Mafeking|Lichtenburg|Mafeking
+4459|Klerksdorp|Mafeking|Klerksdorp
+4460|Potchefstroom|Klerksdorp|Potchefstroom
+4461|De Aar|Belmont|De Aar
+4462|Hanover Road|De Aar|Hanover Road
+4463|Naauwpoort|Hanover Road|Naauwpoort
+4464|Colesberg|Naauwpoort|Colesberg
+4465|Aliwal North|Colesberg|Aliwal North
+4466|Queenstown|Aliwal North|Queenstown
+4467|Stormberg|Queenstown|Stormberg
+4468|Molteno|Stormberg|Molteno
+4469|Sterkstroom|Molteno|Sterkstroom
+4470|Cradock|Sterkstroom|Cradock
+4471|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4472|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4473|Aberdeen|Graaff-Reinet|Aberdeen
+4474|Murraysburg|Aberdeen|Murraysburg
+4475|Richmond|Murraysburg|Richmond
+4476|Kroonstad|Bloemfontein|Kroonstad
+4477|Heilbron|Kroonstad|Heilbron
+4478|Vrede|Heilbron|Vrede
+4479|Harrismith|Vrede|Harrismith
+4480|Bethlehem|Harrismith|Bethlehem
+4481|Senekal|Bethlehem|Senekal
+4482|Ladybrand|Senekal|Ladybrand
+4483|Kroonstad|Bloemfontein|Kroonstad
+4484|Heilbron|Kroonstad|Heilbron
+4485|Vrede|Heilbron|Vrede
+4486|Harrismith|Vrede|Harrismith
+4487|Bethlehem|Harrismith|Bethlehem
+4488|Senekal|Bethlehem|Senekal
+4489|Ladybrand|Senekal|Ladybrand
+4490|Bloemfontein|Ladybrand|Bloemfontein
+4491|Kroonstad|Bloemfontein|Kroonstad
+4492|Heilbron|Kroonstad|Heilbron
+4493|Vrede|Heilbron|Vrede
+4494|Belfast|Middelburg (Tvl)|Belfast
+4495|Carolina|Belfast|Carolina
+4496|Lydenburg|Carolina|Lydenburg
+4497|Ermelo|Lydenburg|Ermelo
+4498|Standerton|Ermelo|Standerton
+4499|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4500|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4501|Krugersdorp|Johannesburg|Krugersdorp
+4502|Rustenburg|Krugersdorp|Rustenburg
+4503|Lichtenburg|Rustenburg|Lichtenburg
+4504|Mafeking|Lichtenburg|Mafeking
+4505|Klerksdorp|Mafeking|Klerksdorp
+4506|Potchefstroom|Klerksdorp|Potchefstroom
+4507|Pretoria|Potchefstroom|Pretoria
+4508|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4509|Belfast|Middelburg (Tvl)|Belfast
+4510|Carolina|Belfast|Carolina
+4511|Lydenburg|Carolina|Lydenburg
+4512|Ermelo|Lydenburg|Ermelo
+4513|Hanover Road|De Aar|Hanover Road
+4514|Naauwpoort|Hanover Road|Naauwpoort
+4515|Colesberg|Naauwpoort|Colesberg
+4516|Aliwal North|Colesberg|Aliwal North
+4517|Queenstown|Aliwal North|Queenstown
+4518|Stormberg|Queenstown|Stormberg
+4519|Molteno|Stormberg|Molteno
+4520|Sterkstroom|Molteno|Sterkstroom
+4521|Cradock|Sterkstroom|Cradock
+4522|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4523|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4524|Aberdeen|Graaff-Reinet|Aberdeen
+4525|Murraysburg|Aberdeen|Murraysburg
+4526|Richmond|Murraysburg|Richmond
+4527|Hanover|Richmond|Hanover
+4528|Colesberg|Clanwilliam|Colesberg
+4529|Aliwal North|Colesberg|Aliwal North
+4530|Queenstown|Aliwal North|Queenstown
+4531|Stormberg|Queenstown|Stormberg
+4532|Molteno|Stormberg|Molteno
+4533|Sterkstroom|Molteno|Sterkstroom
+4534|Pretoria|Magersfontein|Pretoria
+4535|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4536|Belfast|Middelburg (Tvl)|Belfast
+4537|Carolina|Belfast|Carolina
+4538|Lydenburg|Carolina|Lydenburg
+4539|Ermelo|Lydenburg|Ermelo
+4540|Standerton|Ermelo|Standerton
+4541|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4542|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4543|Krugersdorp|Johannesburg|Krugersdorp
+4544|Rustenburg|Krugersdorp|Rustenburg
+4545|Lichtenburg|Rustenburg|Lichtenburg
+4546|Mafeking|Lichtenburg|Mafeking
+4547|Klerksdorp|Mafeking|Klerksdorp
+4548|Potchefstroom|Klerksdorp|Potchefstroom
+4549|Bloemfontein|Modder River|Bloemfontein
+4550|Kroonstad|Bloemfontein|Kroonstad
+4551|Heilbron|Kroonstad|Heilbron
+4552|Vrede|Heilbron|Vrede
+4553|Harrismith|Vrede|Harrismith
+4554|Bethlehem|Harrismith|Bethlehem
+4555|Senekal|Bethlehem|Senekal
+4556|Ladybrand|Senekal|Ladybrand
+4557|Ermelo|Lydenburg|Ermelo
+4558|Standerton|Ermelo|Standerton
+4559|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4560|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4561|Krugersdorp|Johannesburg|Krugersdorp
+4562|Rustenburg|Krugersdorp|Rustenburg
+4563|Lichtenburg|Rustenburg|Lichtenburg
+4564|Mafeking|Lichtenburg|Mafeking
+4565|Klerksdorp|Mafeking|Klerksdorp
+4566|Potchefstroom|Klerksdorp|Potchefstroom
+4567|Harrismith|Vrede|Harrismith
+4568|Bethlehem|Harrismith|Bethlehem
+4569|Senekal|Bethlehem|Senekal
+4570|Ladybrand|Senekal|Ladybrand
+4571|Bloemfontein|Ladybrand|Bloemfontein
+4572|Kroonstad|Bloemfontein|Kroonstad
+4573|Belfast|Middelburg (Tvl)|Belfast
+4574|Carolina|Belfast|Carolina
+4575|Lydenburg|Carolina|Lydenburg
+4576|Ermelo|Lydenburg|Ermelo
+4577|Standerton|Ermelo|Standerton
+4578|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4579|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4580|Krugersdorp|Johannesburg|Krugersdorp
+4581|Rustenburg|Krugersdorp|Rustenburg
+4582|Heilbron|Kroonstad|Heilbron
+4583|Vrede|Heilbron|Vrede
+4584|Harrismith|Vrede|Harrismith
+4585|Bethlehem|Harrismith|Bethlehem
+4586|Naauwpoort|Hanover Road|Naauwpoort
+4587|Colesberg|Naauwpoort|Colesberg
+4588|Aliwal North|Colesberg|Aliwal North
+4589|Queenstown|Aliwal North|Queenstown
+4590|Stormberg|Queenstown|Stormberg
+4591|Molteno|Stormberg|Molteno
+4592|Sterkstroom|Molteno|Sterkstroom
+4593|Cradock|Sterkstroom|Cradock
+4594|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4595|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4596|Aberdeen|Graaff-Reinet|Aberdeen
+4597|Naauwpoort|Hanover Road|Naauwpoort
+4598|Colesberg|Naauwpoort|Colesberg
+4599|Aliwal North|Colesberg|Aliwal North
+4600|Queenstown|Aliwal North|Queenstown
+4601|Stormberg|Queenstown|Stormberg
+4602|Molteno|Stormberg|Molteno
+4603|Sterkstroom|Molteno|Sterkstroom
+4604|Cradock|Sterkstroom|Cradock
+4605|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4606|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4607|Aberdeen|Graaff-Reinet|Aberdeen
+4608|Dundee|Ladysmith|Dundee
+4609|Newcastle|Dundee|Newcastle
+4610|Standerton|Newcastle|Standerton
+4611|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4612|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4613|Krugersdorp|Johannesburg|Krugersdorp
+4614|Rustenburg|Krugersdorp|Rustenburg
+4615|Lichtenburg|Rustenburg|Lichtenburg
+4616|Mafeking|Lichtenburg|Mafeking
+4617|Klerksdorp|Mafeking|Klerksdorp
+4618|Potchefstroom|Klerksdorp|Potchefstroom
+4619|Pretoria|Potchefstroom|Pretoria
+4620|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4621|Standerton|Newcastle|Standerton
+4622|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4623|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4624|Krugersdorp|Johannesburg|Krugersdorp
+4625|Rustenburg|Krugersdorp|Rustenburg
+4626|Lichtenburg|Rustenburg|Lichtenburg
+4627|Mafeking|Lichtenburg|Mafeking
+4628|Klerksdorp|Mafeking|Klerksdorp
+4629|Potchefstroom|Klerksdorp|Potchefstroom
+4630|Pretoria|Potchefstroom|Pretoria
+4631|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4632|Belfast|Middelburg (Tvl)|Belfast
+4633|Naauwpoort|Hanover Road|Naauwpoort
+4634|Colesberg|Naauwpoort|Colesberg
+4635|Aliwal North|Colesberg|Aliwal North
+4636|Queenstown|Aliwal North|Queenstown
+4637|Stormberg|Queenstown|Stormberg
+4638|Molteno|Stormberg|Molteno
+4639|Sterkstroom|Molteno|Sterkstroom
+4640|Cradock|Sterkstroom|Cradock
+4641|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4642|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4643|Aberdeen|Graaff-Reinet|Aberdeen
+4644|Naauwpoort|Hanover Road|Naauwpoort
+4645|Colesberg|Naauwpoort|Colesberg
+4646|Aliwal North|Colesberg|Aliwal North
+4647|Queenstown|Aliwal North|Queenstown
+4648|Stormberg|Queenstown|Stormberg
+4649|Molteno|Stormberg|Molteno
+4650|Sterkstroom|Molteno|Sterkstroom
+4651|Cradock|Sterkstroom|Cradock
+4652|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4653|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4654|Aberdeen|Graaff-Reinet|Aberdeen
+4655|Steytlerville|Willowmore|Steytlerville
+4656|Graaff-Reinet|Steytlerville|Graaff-Reinet
+4657|Aberdeen|Graaff-Reinet|Aberdeen
+4658|Murraysburg|Aberdeen|Murraysburg
+4659|Richmond|Murraysburg|Richmond
+4660|Hanover|Richmond|Hanover
+4661|De Aar|Hanover|De Aar
+4662|Naauwpoort|Hanover Road|Naauwpoort
+4663|Colesberg|Naauwpoort|Colesberg
+4664|Aliwal North|Colesberg|Aliwal North
+4665|Queenstown|Aliwal North|Queenstown
+4666|Stormberg|Queenstown|Stormberg
+4667|Kroonstad|Winburg|Kroonstad
+4668|Heilbron|Kroonstad|Heilbron
+4669|Vrede|Heilbron|Vrede
+4670|Harrismith|Vrede|Harrismith
+4671|Bethlehem|Harrismith|Bethlehem
+4672|Senekal|Bethlehem|Senekal
+4673|Ladybrand|Senekal|Ladybrand
+4674|Bloemfontein|Ladybrand|Bloemfontein
+4675|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4676|Belfast|Middelburg (Tvl)|Belfast
+4677|Carolina|Belfast|Carolina
+4678|Lydenburg|Carolina|Lydenburg
+4679|Ermelo|Lydenburg|Ermelo
+4680|Standerton|Ermelo|Standerton
+4681|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4682|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4683|Krugersdorp|Johannesburg|Krugersdorp
+4684|Rustenburg|Krugersdorp|Rustenburg
+4685|Lichtenburg|Rustenburg|Lichtenburg
+4686|Standerton|Newcastle|Standerton
+4687|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4688|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4689|Krugersdorp|Johannesburg|Krugersdorp
+4690|Rustenburg|Krugersdorp|Rustenburg
+4691|Lichtenburg|Rustenburg|Lichtenburg
+4692|Mafeking|Lichtenburg|Mafeking
+4693|Klerksdorp|Mafeking|Klerksdorp
+4694|Potchefstroom|Klerksdorp|Potchefstroom
+4695|Pretoria|Potchefstroom|Pretoria
+4696|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4697|Belfast|Middelburg (Tvl)|Belfast
+4698|Carolina|Belfast|Carolina
+4699|Lydenburg|Carolina|Lydenburg
+4700|Ermelo|Lydenburg|Ermelo
+4701|Heilbron|Kroonstad|Heilbron
+4702|Vrede|Heilbron|Vrede
+4703|Harrismith|Vrede|Harrismith
+4704|Bethlehem|Harrismith|Bethlehem
+4705|Senekal|Bethlehem|Senekal
+4706|Ladybrand|Senekal|Ladybrand
+4707|Klerksdorp|Christiana|Klerksdorp
+4708|Potchefstroom|Klerksdorp|Potchefstroom
+4709|Pretoria|Potchefstroom|Pretoria
+4710|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4711|Belfast|Middelburg (Tvl)|Belfast
+4712|Carolina|Belfast|Carolina
+4713|Lydenburg|Carolina|Lydenburg
+4714|Ermelo|Lydenburg|Ermelo
+4715|Standerton|Ermelo|Standerton
+4716|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4717|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4718|Krugersdorp|Johannesburg|Krugersdorp
+4719|Rustenburg|Krugersdorp|Rustenburg
+4720|Lichtenburg|Rustenburg|Lichtenburg
+4721|Mafeking|Lichtenburg|Mafeking
+4722|Belfast|Middelburg (Tvl)|Belfast
+4723|Carolina|Belfast|Carolina
+4724|Lydenburg|Carolina|Lydenburg
+4725|Ermelo|Lydenburg|Ermelo
+4726|Standerton|Ermelo|Standerton
+4727|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4728|Belfast|Middelburg (Tvl)|Belfast
+4729|Carolina|Belfast|Carolina
+4730|Lydenburg|Carolina|Lydenburg
+4731|Ermelo|Lydenburg|Ermelo
+4732|Standerton|Ermelo|Standerton
+4733|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4734|Belfast|Middelburg (Tvl)|Belfast
+4735|Carolina|Belfast|Carolina
+4736|Lydenburg|Carolina|Lydenburg
+4737|Ermelo|Lydenburg|Ermelo
+4738|Standerton|Ermelo|Standerton
+4739|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4740|Belfast|Middelburg (Tvl)|Belfast
+4741|Carolina|Belfast|Carolina
+4742|Lydenburg|Carolina|Lydenburg
+4743|Ermelo|Lydenburg|Ermelo
+4744|Standerton|Ermelo|Standerton
+4745|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4746|Newcastle|Dundee|Newcastle
+4747|Standerton|Newcastle|Standerton
+4748|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4749|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4750|Krugersdorp|Johannesburg|Krugersdorp
+4751|Rustenburg|Krugersdorp|Rustenburg
+4752|Lichtenburg|Rustenburg|Lichtenburg
+4753|Mafeking|Lichtenburg|Mafeking
+4754|Klerksdorp|Mafeking|Klerksdorp
+4755|Potchefstroom|Klerksdorp|Potchefstroom
+4756|Pretoria|Potchefstroom|Pretoria
+4757|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4758|Belfast|Middelburg (Tvl)|Belfast
+4759|Carolina|Belfast|Carolina
+4760|Lydenburg|Carolina|Lydenburg
+4761|Ermelo|Lydenburg|Ermelo
+4762|Belfast|Middelburg (Tvl)|Belfast
+4763|Carolina|Belfast|Carolina
+4764|Lydenburg|Carolina|Lydenburg
+4765|Ermelo|Lydenburg|Ermelo
+4766|Standerton|Ermelo|Standerton
+4767|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4768|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4769|Krugersdorp|Johannesburg|Krugersdorp
+4770|Rustenburg|Krugersdorp|Rustenburg
+4771|Lichtenburg|Rustenburg|Lichtenburg
+4772|Mafeking|Lichtenburg|Mafeking
+4773|Klerksdorp|Mafeking|Klerksdorp
+4774|Potchefstroom|Klerksdorp|Potchefstroom
+4775|Heilbron|Kroonstad|Heilbron
+4776|Vrede|Heilbron|Vrede
+4777|Harrismith|Vrede|Harrismith
+4778|Bethlehem|Harrismith|Bethlehem
+4779|Senekal|Bethlehem|Senekal
+4780|Ladybrand|Senekal|Ladybrand
+4781|Heilbron|Kroonstad|Heilbron
+4782|Vrede|Heilbron|Vrede
+4783|Harrismith|Vrede|Harrismith
+4784|Bethlehem|Harrismith|Bethlehem
+4785|Senekal|Bethlehem|Senekal
+4786|Ladybrand|Senekal|Ladybrand
+4787|Heilbron|Kroonstad|Heilbron
+4788|Vrede|Heilbron|Vrede
+4789|Harrismith|Vrede|Harrismith
+4790|Bethlehem|Harrismith|Bethlehem
+4791|Senekal|Bethlehem|Senekal
+4792|Ladybrand|Senekal|Ladybrand
+4793|Kroonstad|Bloemfontein|Kroonstad
+4794|Heilbron|Kroonstad|Heilbron
+4795|Vrede|Heilbron|Vrede
+4796|Harrismith|Vrede|Harrismith
+4797|Bethlehem|Harrismith|Bethlehem
+4798|Senekal|Bethlehem|Senekal
+4799|Ladybrand|Senekal|Ladybrand
+4800|Belfast|Middelburg (Tvl)|Belfast
+4801|Carolina|Belfast|Carolina
+4802|Lydenburg|Carolina|Lydenburg
+4803|Ermelo|Lydenburg|Ermelo
+4804|Standerton|Ermelo|Standerton
+4805|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4806|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4807|Krugersdorp|Johannesburg|Krugersdorp
+4808|Rustenburg|Krugersdorp|Rustenburg
+4809|Lichtenburg|Rustenburg|Lichtenburg
+4810|Mafeking|Lichtenburg|Mafeking
+4811|Belfast|Middelburg (Tvl)|Belfast
+4812|Carolina|Belfast|Carolina
+4813|Lydenburg|Carolina|Lydenburg
+4814|Ermelo|Lydenburg|Ermelo
+4815|Standerton|Ermelo|Standerton
+4816|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4817|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4818|Krugersdorp|Johannesburg|Krugersdorp
+4819|Kroonstad|Bloemfontein|Kroonstad
+4820|Heilbron|Kroonstad|Heilbron
+4821|Vrede|Heilbron|Vrede
+4822|Harrismith|Vrede|Harrismith
+4823|Bethlehem|Harrismith|Bethlehem
+4824|Kroonstad|Bloemfontein|Kroonstad
+4825|Heilbron|Kroonstad|Heilbron
+4826|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4827|Pretoria|Potchefstroom|Pretoria
+4828|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4829|Belfast|Middelburg (Tvl)|Belfast
+4830|Carolina|Belfast|Carolina
+4831|Lydenburg|Carolina|Lydenburg
+4832|Ermelo|Lydenburg|Ermelo
+4833|Standerton|Ermelo|Standerton
+4834|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4835|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4836|Krugersdorp|Johannesburg|Krugersdorp
+4837|Rustenburg|Krugersdorp|Rustenburg
+4838|Lichtenburg|Rustenburg|Lichtenburg
+4839|Mafeking|Lichtenburg|Mafeking
+4840|Ladybrand|Senekal|Ladybrand
+4841|Bloemfontein|Ladybrand|Bloemfontein
+4842|Kroonstad|Bloemfontein|Kroonstad
+4843|Heilbron|Kroonstad|Heilbron
+4844|Vrede|Heilbron|Vrede
+4845|Heilbron|Kroonstad|Heilbron
+4846|Vrede|Heilbron|Vrede
+4847|Harrismith|Vrede|Harrismith
+4848|Bethlehem|Harrismith|Bethlehem
+4849|Senekal|Bethlehem|Senekal
+4850|Ladybrand|Senekal|Ladybrand
+4851|Cradock|Somerset East|Cradock
+4852|Queenstown|Aliwal North|Queenstown
+4853|Stormberg|Queenstown|Stormberg
+4854|Molteno|Stormberg|Molteno
+4855|Sterkstroom|Molteno|Sterkstroom
+4856|Cradock|Sterkstroom|Cradock
+4857|Queenstown|Aliwal North|Queenstown
+4858|Stormberg|Queenstown|Stormberg
+4859|Molteno|Stormberg|Molteno
+4860|Sterkstroom|Molteno|Sterkstroom
+4861|Cradock|Sterkstroom|Cradock
+4862|Aberdeen|Graaff-Reinet|Aberdeen
+4863|Murraysburg|Aberdeen|Murraysburg
+4864|Richmond|Murraysburg|Richmond
+4865|Hanover|Richmond|Hanover
+4866|De Aar|Hanover|De Aar
+4867|Hanover Road|De Aar|Hanover Road
+4868|Naauwpoort|Hanover Road|Naauwpoort
+4869|Colesberg|Naauwpoort|Colesberg
+4870|Aliwal North|Colesberg|Aliwal North
+4871|Queenstown|Aliwal North|Queenstown
+4872|Stormberg|Queenstown|Stormberg
+4873|Molteno|Stormberg|Molteno
+4874|Sterkstroom|Molteno|Sterkstroom
+4875|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4876|Harrismith|Vrede|Harrismith
+4877|Bethlehem|Harrismith|Bethlehem
+4878|Senekal|Bethlehem|Senekal
+4879|Ladybrand|Senekal|Ladybrand
+4880|Bloemfontein|Ladybrand|Bloemfontein
+4881|Belfast|Middelburg (Tvl)|Belfast
+4882|Carolina|Belfast|Carolina
+4883|Lydenburg|Carolina|Lydenburg
+4884|Ermelo|Lydenburg|Ermelo
+4885|Standerton|Ermelo|Standerton
+4886|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4887|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4888|Kroonstad|Bloemfontein|Kroonstad
+4889|Heilbron|Kroonstad|Heilbron
+4890|Vrede|Heilbron|Vrede
+4891|Harrismith|Vrede|Harrismith
+4892|Bethlehem|Harrismith|Bethlehem
+4893|Senekal|Bethlehem|Senekal
+4894|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4895|Belfast|Middelburg (Tvl)|Belfast
+4896|Carolina|Belfast|Carolina
+4897|Lydenburg|Carolina|Lydenburg
+4898|Ermelo|Lydenburg|Ermelo
+4899|Standerton|Ermelo|Standerton
+4900|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4901|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4902|Krugersdorp|Johannesburg|Krugersdorp
+4903|Rustenburg|Krugersdorp|Rustenburg
+4904|Lichtenburg|Rustenburg|Lichtenburg
+4905|Mafeking|Lichtenburg|Mafeking
+4906|Klerksdorp|Mafeking|Klerksdorp
+4907|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4908|Mafeking|Lichtenburg|Mafeking
+4909|Klerksdorp|Mafeking|Klerksdorp
+4910|Potchefstroom|Klerksdorp|Potchefstroom
+4911|Pretoria|Potchefstroom|Pretoria
+4912|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+4913|Belfast|Middelburg (Tvl)|Belfast
+4914|Carolina|Belfast|Carolina
+4915|Lydenburg|Carolina|Lydenburg
+4916|Ermelo|Lydenburg|Ermelo
+4917|Standerton|Ermelo|Standerton
+4918|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4919|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4920|Krugersdorp|Johannesburg|Krugersdorp
+4921|Rustenburg|Krugersdorp|Rustenburg
+4922|Belfast|Middelburg (Tvl)|Belfast
+4923|Carolina|Belfast|Carolina
+4924|Lydenburg|Carolina|Lydenburg
+4925|Ermelo|Lydenburg|Ermelo
+4926|Standerton|Ermelo|Standerton
+4927|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4928|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4929|Krugersdorp|Johannesburg|Krugersdorp
+4930|Rustenburg|Krugersdorp|Rustenburg
+4931|Harrismith|Vrede|Harrismith
+4932|Bethlehem|Harrismith|Bethlehem
+4933|Senekal|Bethlehem|Senekal
+4934|Ladybrand|Senekal|Ladybrand
+4935|Bloemfontein|Ladybrand|Bloemfontein
+4936|Kroonstad|Bloemfontein|Kroonstad
+4937|Belfast|Middelburg (Tvl)|Belfast
+4938|Carolina|Belfast|Carolina
+4939|Lydenburg|Carolina|Lydenburg
+4940|Ermelo|Lydenburg|Ermelo
+4941|Standerton|Ermelo|Standerton
+4942|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+4943|Johannesburg|Heidelberg (Tvl)|Johannesburg
+4944|Krugersdorp|Johannesburg|Krugersdorp
+4945|Rustenburg|Krugersdorp|Rustenburg
+4946|Naauwpoort|Hanover Road|Naauwpoort
+4947|Colesberg|Naauwpoort|Colesberg
+4948|Aliwal North|Colesberg|Aliwal North
+4949|Queenstown|Aliwal North|Queenstown
+4950|Stormberg|Queenstown|Stormberg
+4951|Molteno|Stormberg|Molteno
+4952|Sterkstroom|Molteno|Sterkstroom
+4953|Cradock|Sterkstroom|Cradock
+4954|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4955|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4956|Aberdeen|Graaff-Reinet|Aberdeen
+4957|Heilbron|Kroonstad|Heilbron
+4958|Vrede|Heilbron|Vrede
+4959|Harrismith|Vrede|Harrismith
+4960|Bethlehem|Harrismith|Bethlehem
+4961|Senekal|Bethlehem|Senekal
+4962|Ladybrand|Senekal|Ladybrand
+4963|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4964|Aberdeen|Graaff-Reinet|Aberdeen
+4965|Murraysburg|Aberdeen|Murraysburg
+4966|Richmond|Murraysburg|Richmond
+4967|Hanover|Richmond|Hanover
+4968|De Aar|Hanover|De Aar
+4969|Hanover Road|De Aar|Hanover Road
+4970|Naauwpoort|Hanover Road|Naauwpoort
+4971|Colesberg|Naauwpoort|Colesberg
+4972|Aliwal North|Colesberg|Aliwal North
+4973|Queenstown|Aliwal North|Queenstown
+4974|Stormberg|Queenstown|Stormberg
+4975|Molteno|Stormberg|Molteno
+4976|Sterkstroom|Molteno|Sterkstroom
+4977|Cradock|Sterkstroom|Cradock
+4978|Kroonstad|Bloemfontein|Kroonstad
+4979|Heilbron|Kroonstad|Heilbron
+4980|Vrede|Heilbron|Vrede
+4981|Harrismith|Vrede|Harrismith
+4982|Bethlehem|Harrismith|Bethlehem
+4983|Senekal|Bethlehem|Senekal
+4984|Ladybrand|Senekal|Ladybrand
+4985|Molteno|Stormberg|Molteno
+4986|Sterkstroom|Molteno|Sterkstroom
+4987|Cradock|Sterkstroom|Cradock
+4988|Middelburg (Cape)|Cradock|Middelburg (Cape)
+4989|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+4990|Aberdeen|Graaff-Reinet|Aberdeen
+4991|Murraysburg|Aberdeen|Murraysburg
+4992|Richmond|Murraysburg|Richmond
+4993|Hanover|Richmond|Hanover
+4994|De Aar|Hanover|De Aar
+4995|Hanover Road|De Aar|Hanover Road
+4996|Naauwpoort|Hanover Road|Naauwpoort
+4997|Colesberg|Naauwpoort|Colesberg
+4998|Aliwal North|Colesberg|Aliwal North
+4999|Harrismith|Vrede|Harrismith
+5000|Bethlehem|Harrismith|Bethlehem
+5001|Senekal|Bethlehem|Senekal
+5002|Ladybrand|Senekal|Ladybrand
+5003|Ermelo|Lydenburg|Ermelo
+5004|Standerton|Ermelo|Standerton
+5005|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5006|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5007|Krugersdorp|Johannesburg|Krugersdorp
+5008|Rustenburg|Krugersdorp|Rustenburg
+5009|Lichtenburg|Rustenburg|Lichtenburg
+5010|Mafeking|Lichtenburg|Mafeking
+5011|Klerksdorp|Mafeking|Klerksdorp
+5012|Potchefstroom|Klerksdorp|Potchefstroom
+5013|Pretoria|Potchefstroom|Pretoria
+5014|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5015|Belfast|Middelburg (Tvl)|Belfast
+5016|Aberdeen|Graaff-Reinet|Aberdeen
+5017|Murraysburg|Aberdeen|Murraysburg
+5018|Richmond|Murraysburg|Richmond
+5019|Hanover|Richmond|Hanover
+5020|De Aar|Hanover|De Aar
+5021|Hanover Road|De Aar|Hanover Road
+5022|Naauwpoort|Hanover Road|Naauwpoort
+5023|Colesberg|Naauwpoort|Colesberg
+5024|Aliwal North|Colesberg|Aliwal North
+5025|Queenstown|Aliwal North|Queenstown
+5026|Stormberg|Queenstown|Stormberg
+5027|Molteno|Stormberg|Molteno
+5028|Sterkstroom|Molteno|Sterkstroom
+5029|Cradock|Sterkstroom|Cradock
+5030|Klerksdorp|Mafeking|Klerksdorp
+5031|Potchefstroom|Klerksdorp|Potchefstroom
+5032|Pretoria|Potchefstroom|Pretoria
+5033|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5034|Belfast|Middelburg (Tvl)|Belfast
+5035|Carolina|Belfast|Carolina
+5036|Lydenburg|Carolina|Lydenburg
+5037|Ermelo|Lydenburg|Ermelo
+5038|Standerton|Ermelo|Standerton
+5039|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5040|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5041|Krugersdorp|Johannesburg|Krugersdorp
+5042|Rustenburg|Krugersdorp|Rustenburg
+5043|Klerksdorp|Mafeking|Klerksdorp
+5044|Potchefstroom|Klerksdorp|Potchefstroom
+5045|Pretoria|Potchefstroom|Pretoria
+5046|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5047|Belfast|Middelburg (Tvl)|Belfast
+5048|Carolina|Belfast|Carolina
+5049|Lydenburg|Carolina|Lydenburg
+5050|Ermelo|Lydenburg|Ermelo
+5051|Standerton|Ermelo|Standerton
+5052|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5053|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5054|Krugersdorp|Johannesburg|Krugersdorp
+5055|Rustenburg|Krugersdorp|Rustenburg
+5056|Klerksdorp|Mafeking|Klerksdorp
+5057|Potchefstroom|Klerksdorp|Potchefstroom
+5058|Pretoria|Potchefstroom|Pretoria
+5059|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5060|Belfast|Middelburg (Tvl)|Belfast
+5061|Carolina|Belfast|Carolina
+5062|Lydenburg|Carolina|Lydenburg
+5063|Ermelo|Lydenburg|Ermelo
+5064|Standerton|Ermelo|Standerton
+5065|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5066|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5067|Krugersdorp|Johannesburg|Krugersdorp
+5068|Rustenburg|Krugersdorp|Rustenburg
+5069|Klerksdorp|Mafeking|Klerksdorp
+5070|Potchefstroom|Klerksdorp|Potchefstroom
+5071|Pretoria|Potchefstroom|Pretoria
+5072|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5073|Belfast|Middelburg (Tvl)|Belfast
+5074|Carolina|Belfast|Carolina
+5075|Lydenburg|Carolina|Lydenburg
+5076|Ermelo|Lydenburg|Ermelo
+5077|Standerton|Ermelo|Standerton
+5078|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5079|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5080|Krugersdorp|Johannesburg|Krugersdorp
+5081|Rustenburg|Krugersdorp|Rustenburg
+5082|Lichtenburg|Rustenburg|Lichtenburg
+5083|Klerksdorp|Mafeking|Klerksdorp
+5084|Potchefstroom|Klerksdorp|Potchefstroom
+5085|Pretoria|Potchefstroom|Pretoria
+5086|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5087|Belfast|Middelburg (Tvl)|Belfast
+5088|Carolina|Belfast|Carolina
+5089|Lydenburg|Carolina|Lydenburg
+5090|Ermelo|Lydenburg|Ermelo
+5091|Standerton|Ermelo|Standerton
+5092|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5093|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5094|Krugersdorp|Johannesburg|Krugersdorp
+5095|Belfast|Middelburg (Tvl)|Belfast
+5096|Carolina|Belfast|Carolina
+5097|Lydenburg|Carolina|Lydenburg
+5098|Ermelo|Lydenburg|Ermelo
+5099|Standerton|Ermelo|Standerton
+5100|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5101|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5102|Krugersdorp|Johannesburg|Krugersdorp
+5103|Rustenburg|Krugersdorp|Rustenburg
+5104|Heilbron|Kroonstad|Heilbron
+5105|Vrede|Heilbron|Vrede
+5106|Harrismith|Vrede|Harrismith
+5107|Bethlehem|Harrismith|Bethlehem
+5108|Senekal|Bethlehem|Senekal
+5109|Ladybrand|Senekal|Ladybrand
+5110|Hanover|Richmond|Hanover
+5111|De Aar|Hanover|De Aar
+5112|Hanover Road|De Aar|Hanover Road
+5113|Naauwpoort|Hanover Road|Naauwpoort
+5114|Colesberg|Naauwpoort|Colesberg
+5115|Aliwal North|Colesberg|Aliwal North
+5116|Queenstown|Aliwal North|Queenstown
+5117|Stormberg|Queenstown|Stormberg
+5118|Molteno|Stormberg|Molteno
+5119|Sterkstroom|Molteno|Sterkstroom
+5120|Belfast|Middelburg (Tvl)|Belfast
+5121|Carolina|Belfast|Carolina
+5122|Lydenburg|Carolina|Lydenburg
+5123|Ermelo|Lydenburg|Ermelo
+5124|Aberdeen|Graaff-Reinet|Aberdeen
+5125|Murraysburg|Aberdeen|Murraysburg
+5126|Richmond|Murraysburg|Richmond
+5127|Hanover|Richmond|Hanover
+5128|De Aar|Hanover|De Aar
+5129|Hanover Road|De Aar|Hanover Road
+5130|Naauwpoort|Hanover Road|Naauwpoort
+5131|Klerksdorp|Mafeking|Klerksdorp
+5132|Potchefstroom|Klerksdorp|Potchefstroom
+5133|Pretoria|Potchefstroom|Pretoria
+5134|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5135|Belfast|Middelburg (Tvl)|Belfast
+5136|Carolina|Belfast|Carolina
+5137|Lydenburg|Carolina|Lydenburg
+5138|Ermelo|Lydenburg|Ermelo
+5139|Standerton|Ermelo|Standerton
+5140|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5141|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5142|Krugersdorp|Johannesburg|Krugersdorp
+5143|Rustenburg|Krugersdorp|Rustenburg
+5144|De Aar|Vanrhynsdorp|De Aar
+5145|Hanover Road|De Aar|Hanover Road
+5146|Naauwpoort|Hanover Road|Naauwpoort
+5147|Colesberg|Naauwpoort|Colesberg
+5148|Aliwal North|Colesberg|Aliwal North
+5149|Queenstown|Aliwal North|Queenstown
+5150|Stormberg|Queenstown|Stormberg
+5151|Molteno|Stormberg|Molteno
+5152|Aliwal North|Steynsburg|Aliwal North
+5153|Queenstown|Aliwal North|Queenstown
+5154|Stormberg|Queenstown|Stormberg
+5155|Molteno|Stormberg|Molteno
+5156|Sterkstroom|Molteno|Sterkstroom
+5157|Belfast|Middelburg (Tvl)|Belfast
+5158|Carolina|Belfast|Carolina
+5159|Lydenburg|Carolina|Lydenburg
+5160|Ermelo|Lydenburg|Ermelo
+5161|Standerton|Ermelo|Standerton
+5162|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5163|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5164|Krugersdorp|Johannesburg|Krugersdorp
+5165|Rustenburg|Krugersdorp|Rustenburg
+5166|Lichtenburg|Rustenburg|Lichtenburg
+5167|Mafeking|Lichtenburg|Mafeking
+5168|Heilbron|Kroonstad|Heilbron
+5169|Vrede|Heilbron|Vrede
+5170|Harrismith|Vrede|Harrismith
+5171|Bethlehem|Harrismith|Bethlehem
+5172|Senekal|Bethlehem|Senekal
+5173|Ladybrand|Senekal|Ladybrand
+5174|Pretoria|Magersfontein|Pretoria
+5175|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5176|Belfast|Middelburg (Tvl)|Belfast
+5177|Carolina|Belfast|Carolina
+5178|Lydenburg|Carolina|Lydenburg
+5179|Ermelo|Lydenburg|Ermelo
+5180|Standerton|Ermelo|Standerton
+5181|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5182|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5183|Krugersdorp|Johannesburg|Krugersdorp
+5184|Rustenburg|Krugersdorp|Rustenburg
+5185|Lichtenburg|Rustenburg|Lichtenburg
+5186|Mafeking|Lichtenburg|Mafeking
+5187|Klerksdorp|Mafeking|Klerksdorp
+5188|Potchefstroom|Klerksdorp|Potchefstroom
+5189|Naauwpoort|Hanover Road|Naauwpoort
+5190|Colesberg|Naauwpoort|Colesberg
+5191|Aliwal North|Colesberg|Aliwal North
+5192|Queenstown|Aliwal North|Queenstown
+5193|Stormberg|Queenstown|Stormberg
+5194|Molteno|Stormberg|Molteno
+5195|Sterkstroom|Molteno|Sterkstroom
+5196|Cradock|Sterkstroom|Cradock
+5197|Middelburg (Cape)|Cradock|Middelburg (Cape)
+5198|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+5199|Aberdeen|Graaff-Reinet|Aberdeen
+5200|Heilbron|Kroonstad|Heilbron
+5201|Vrede|Heilbron|Vrede
+5202|Harrismith|Vrede|Harrismith
+5203|Bethlehem|Harrismith|Bethlehem
+5204|Senekal|Bethlehem|Senekal
+5205|Ladybrand|Senekal|Ladybrand
+5206|Newcastle|Dundee|Newcastle
+5207|Standerton|Newcastle|Standerton
+5208|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5209|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5210|Krugersdorp|Johannesburg|Krugersdorp
+5211|Rustenburg|Krugersdorp|Rustenburg
+5212|Lichtenburg|Rustenburg|Lichtenburg
+5213|Mafeking|Lichtenburg|Mafeking
+5214|Klerksdorp|Mafeking|Klerksdorp
+5215|Potchefstroom|Klerksdorp|Potchefstroom
+5216|Pretoria|Potchefstroom|Pretoria
+5217|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5218|Belfast|Middelburg (Tvl)|Belfast
+5219|Carolina|Belfast|Carolina
+5220|Lydenburg|Carolina|Lydenburg
+5221|Ermelo|Lydenburg|Ermelo
+5222|Lydenburg|Carolina|Lydenburg
+5223|Ermelo|Lydenburg|Ermelo
+5224|Standerton|Ermelo|Standerton
+5225|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5226|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5227|Krugersdorp|Johannesburg|Krugersdorp
+5228|Rustenburg|Krugersdorp|Rustenburg
+5229|Lichtenburg|Rustenburg|Lichtenburg
+5230|Mafeking|Lichtenburg|Mafeking
+5231|Klerksdorp|Mafeking|Klerksdorp
+5232|Potchefstroom|Klerksdorp|Potchefstroom
+5233|Pretoria|Potchefstroom|Pretoria
+5234|Aberdeen|Graaff-Reinet|Aberdeen
+5235|Murraysburg|Aberdeen|Murraysburg
+5236|Richmond|Murraysburg|Richmond
+5237|Hanover|Richmond|Hanover
+5238|De Aar|Hanover|De Aar
+5239|Hanover Road|De Aar|Hanover Road
+5240|Naauwpoort|Hanover Road|Naauwpoort
+5241|Colesberg|Naauwpoort|Colesberg
+5242|Aliwal North|Colesberg|Aliwal North
+5243|Queenstown|Aliwal North|Queenstown
+5244|Stormberg|Queenstown|Stormberg
+5245|Naauwpoort|Hanover Road|Naauwpoort
+5246|Colesberg|Naauwpoort|Colesberg
+5247|Aliwal North|Colesberg|Aliwal North
+5248|Queenstown|Aliwal North|Queenstown
+5249|Stormberg|Queenstown|Stormberg
+5250|Molteno|Stormberg|Molteno
+5251|Sterkstroom|Molteno|Sterkstroom
+5252|Cradock|Sterkstroom|Cradock
+5253|Middelburg (Cape)|Cradock|Middelburg (Cape)
+5254|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+5255|Aberdeen|Graaff-Reinet|Aberdeen
+5256|Murraysburg|Aberdeen|Murraysburg
+5257|Richmond|Murraysburg|Richmond
+5258|Naauwpoort|Hanover Road|Naauwpoort
+5259|Colesberg|Naauwpoort|Colesberg
+5260|Aliwal North|Colesberg|Aliwal North
+5261|Queenstown|Aliwal North|Queenstown
+5262|Stormberg|Queenstown|Stormberg
+5263|Molteno|Stormberg|Molteno
+5264|Sterkstroom|Molteno|Sterkstroom
+5265|Cradock|Sterkstroom|Cradock
+5266|Middelburg (Cape)|Cradock|Middelburg (Cape)
+5267|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+5268|Aberdeen|Graaff-Reinet|Aberdeen
+5269|Murraysburg|Aberdeen|Murraysburg
+5270|Richmond|Murraysburg|Richmond
+5271|Naauwpoort|Hanover Road|Naauwpoort
+5272|Colesberg|Naauwpoort|Colesberg
+5273|Aliwal North|Colesberg|Aliwal North
+5274|Queenstown|Aliwal North|Queenstown
+5275|Stormberg|Queenstown|Stormberg
+5276|Molteno|Stormberg|Molteno
+5277|Sterkstroom|Molteno|Sterkstroom
+5278|Cradock|Sterkstroom|Cradock
+5279|Middelburg (Cape)|Cradock|Middelburg (Cape)
+5280|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+5281|Aberdeen|Graaff-Reinet|Aberdeen
+5282|Stormberg|Queenstown|Stormberg
+5283|Molteno|Stormberg|Molteno
+5284|Belfast|Middelburg (Tvl)|Belfast
+5285|Carolina|Belfast|Carolina
+5286|Lydenburg|Carolina|Lydenburg
+5287|Ermelo|Lydenburg|Ermelo
+5288|Standerton|Ermelo|Standerton
+5289|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5290|Aberdeen|Graaff-Reinet|Aberdeen
+5291|Murraysburg|Aberdeen|Murraysburg
+5292|Richmond|Murraysburg|Richmond
+5293|Hanover|Richmond|Hanover
+5294|De Aar|Hanover|De Aar
+5295|Newcastle|Volksrust|Newcastle
+5296|Standerton|Newcastle|Standerton
+5297|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5298|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5299|Krugersdorp|Johannesburg|Krugersdorp
+5300|Rustenburg|Krugersdorp|Rustenburg
+5301|Lichtenburg|Rustenburg|Lichtenburg
+5302|Mafeking|Lichtenburg|Mafeking
+5303|Klerksdorp|Mafeking|Klerksdorp
+5304|Potchefstroom|Klerksdorp|Potchefstroom
+5305|Pretoria|Potchefstroom|Pretoria
+5306|Belfast|Middelburg (Tvl)|Belfast
+5307|Carolina|Belfast|Carolina
+5308|Lydenburg|Carolina|Lydenburg
+5309|Ermelo|Lydenburg|Ermelo
+5310|Standerton|Ermelo|Standerton
+5311|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5312|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5313|Krugersdorp|Johannesburg|Krugersdorp
+5314|Belfast|Middelburg (Tvl)|Belfast
+5315|Carolina|Belfast|Carolina
+5316|Lydenburg|Carolina|Lydenburg
+5317|Ermelo|Lydenburg|Ermelo
+5318|Standerton|Ermelo|Standerton
+5319|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5320|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5321|Krugersdorp|Johannesburg|Krugersdorp
+5322|Standerton|Newcastle|Standerton
+5323|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5324|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5325|Krugersdorp|Johannesburg|Krugersdorp
+5326|Rustenburg|Krugersdorp|Rustenburg
+5327|Lichtenburg|Rustenburg|Lichtenburg
+5328|Mafeking|Lichtenburg|Mafeking
+5329|Klerksdorp|Mafeking|Klerksdorp
+5330|Potchefstroom|Klerksdorp|Potchefstroom
+5331|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5332|Belfast|Middelburg (Tvl)|Belfast
+5333|Carolina|Belfast|Carolina
+5334|Lydenburg|Carolina|Lydenburg
+5335|Ermelo|Lydenburg|Ermelo
+5336|Standerton|Ermelo|Standerton
+5337|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5338|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5339|Krugersdorp|Johannesburg|Krugersdorp
+5340|Rustenburg|Krugersdorp|Rustenburg
+5341|Standerton|Newcastle|Standerton
+5342|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5343|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5344|Krugersdorp|Johannesburg|Krugersdorp
+5345|Rustenburg|Krugersdorp|Rustenburg
+5346|Lichtenburg|Rustenburg|Lichtenburg
+5347|Mafeking|Lichtenburg|Mafeking
+5348|Klerksdorp|Mafeking|Klerksdorp
+5349|Potchefstroom|Klerksdorp|Potchefstroom
+5350|Pretoria|Potchefstroom|Pretoria
+5351|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5352|Belfast|Middelburg (Tvl)|Belfast
+5353|Newcastle|Dundee|Newcastle
+5354|Standerton|Newcastle|Standerton
+5355|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5356|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5357|Krugersdorp|Johannesburg|Krugersdorp
+5358|Rustenburg|Krugersdorp|Rustenburg
+5359|Lichtenburg|Rustenburg|Lichtenburg
+5360|Mafeking|Lichtenburg|Mafeking
+5361|Klerksdorp|Mafeking|Klerksdorp
+5362|Potchefstroom|Klerksdorp|Potchefstroom
+5363|Pretoria|Potchefstroom|Pretoria
+5364|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5365|Belfast|Middelburg (Tvl)|Belfast
+5366|Carolina|Belfast|Carolina
+5367|Dundee|Ladysmith|Dundee
+5368|Newcastle|Dundee|Newcastle
+5369|Standerton|Newcastle|Standerton
+5370|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5371|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5372|Krugersdorp|Johannesburg|Krugersdorp
+5373|Rustenburg|Krugersdorp|Rustenburg
+5374|Lichtenburg|Rustenburg|Lichtenburg
+5375|Mafeking|Lichtenburg|Mafeking
+5376|Klerksdorp|Mafeking|Klerksdorp
+5377|Potchefstroom|Klerksdorp|Potchefstroom
+5378|Pretoria|Potchefstroom|Pretoria
+5379|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5380|Standerton|Newcastle|Standerton
+5381|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5382|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5383|Krugersdorp|Johannesburg|Krugersdorp
+5384|Rustenburg|Krugersdorp|Rustenburg
+5385|Lichtenburg|Rustenburg|Lichtenburg
+5386|Mafeking|Lichtenburg|Mafeking
+5387|Klerksdorp|Mafeking|Klerksdorp
+5388|Potchefstroom|Klerksdorp|Potchefstroom
+5389|Pretoria|Potchefstroom|Pretoria
+5390|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5391|Belfast|Middelburg (Tvl)|Belfast
+5392|Carolina|Belfast|Carolina
+5393|Lydenburg|Carolina|Lydenburg
+5394|Standerton|Newcastle|Standerton
+5395|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5396|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5397|Krugersdorp|Johannesburg|Krugersdorp
+5398|Rustenburg|Krugersdorp|Rustenburg
+5399|Lichtenburg|Rustenburg|Lichtenburg
+5400|Mafeking|Lichtenburg|Mafeking
+5401|Klerksdorp|Mafeking|Klerksdorp
+5402|Potchefstroom|Klerksdorp|Potchefstroom
+5403|Pretoria|Potchefstroom|Pretoria
+5404|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5405|Belfast|Middelburg (Tvl)|Belfast
+5406|Carolina|Belfast|Carolina
+5407|Lydenburg|Carolina|Lydenburg
+5408|Dundee|Ladysmith|Dundee
+5409|Newcastle|Dundee|Newcastle
+5410|Standerton|Newcastle|Standerton
+5411|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5412|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5413|Krugersdorp|Johannesburg|Krugersdorp
+5414|Rustenburg|Krugersdorp|Rustenburg
+5415|Lichtenburg|Rustenburg|Lichtenburg
+5416|Mafeking|Lichtenburg|Mafeking
+5417|Klerksdorp|Mafeking|Klerksdorp
+5418|Potchefstroom|Klerksdorp|Potchefstroom
+5419|Pretoria|Potchefstroom|Pretoria
+5420|Standerton|Newcastle|Standerton
+5421|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5422|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5423|Krugersdorp|Johannesburg|Krugersdorp
+5424|Rustenburg|Krugersdorp|Rustenburg
+5425|Lichtenburg|Rustenburg|Lichtenburg
+5426|Mafeking|Lichtenburg|Mafeking
+5427|Klerksdorp|Mafeking|Klerksdorp
+5428|Potchefstroom|Klerksdorp|Potchefstroom
+5429|Pretoria|Potchefstroom|Pretoria
+5430|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5431|Belfast|Middelburg (Tvl)|Belfast
+5432|Dundee|Ladysmith|Dundee
+5433|Newcastle|Dundee|Newcastle
+5434|Standerton|Newcastle|Standerton
+5435|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5436|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5437|Krugersdorp|Johannesburg|Krugersdorp
+5438|Rustenburg|Krugersdorp|Rustenburg
+5439|Lichtenburg|Rustenburg|Lichtenburg
+5440|Mafeking|Lichtenburg|Mafeking
+5441|Klerksdorp|Mafeking|Klerksdorp
+5442|Potchefstroom|Klerksdorp|Potchefstroom
+5443|Pretoria|Potchefstroom|Pretoria
+5444|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5445|Standerton|Newcastle|Standerton
+5446|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5447|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5448|Krugersdorp|Johannesburg|Krugersdorp
+5449|Rustenburg|Krugersdorp|Rustenburg
+5450|Lichtenburg|Rustenburg|Lichtenburg
+5451|Mafeking|Lichtenburg|Mafeking
+5452|Klerksdorp|Mafeking|Klerksdorp
+5453|Potchefstroom|Klerksdorp|Potchefstroom
+5454|Pretoria|Potchefstroom|Pretoria
+5455|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5456|Belfast|Middelburg (Tvl)|Belfast
+5457|Dundee|Ladysmith|Dundee
+5458|Newcastle|Dundee|Newcastle
+5459|Standerton|Newcastle|Standerton
+5460|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5461|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5462|Krugersdorp|Johannesburg|Krugersdorp
+5463|Rustenburg|Krugersdorp|Rustenburg
+5464|Lichtenburg|Rustenburg|Lichtenburg
+5465|Mafeking|Lichtenburg|Mafeking
+5466|Klerksdorp|Mafeking|Klerksdorp
+5467|Potchefstroom|Klerksdorp|Potchefstroom
+5468|Pretoria|Potchefstroom|Pretoria
+5469|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5470|Dundee|Ladysmith|Dundee
+5471|Newcastle|Dundee|Newcastle
+5472|Standerton|Newcastle|Standerton
+5473|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5474|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5475|Krugersdorp|Johannesburg|Krugersdorp
+5476|Rustenburg|Krugersdorp|Rustenburg
+5477|Lichtenburg|Rustenburg|Lichtenburg
+5478|Mafeking|Lichtenburg|Mafeking
+5479|Klerksdorp|Mafeking|Klerksdorp
+5480|Potchefstroom|Klerksdorp|Potchefstroom
+5481|Pretoria|Potchefstroom|Pretoria
+5482|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5483|Standerton|Newcastle|Standerton
+5484|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5485|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5486|Krugersdorp|Johannesburg|Krugersdorp
+5487|Rustenburg|Krugersdorp|Rustenburg
+5488|Lichtenburg|Rustenburg|Lichtenburg
+5489|Dundee|Ladysmith|Dundee
+5490|Newcastle|Dundee|Newcastle
+5491|Standerton|Newcastle|Standerton
+5492|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5493|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5494|Krugersdorp|Johannesburg|Krugersdorp
+5495|Rustenburg|Krugersdorp|Rustenburg
+5496|Lichtenburg|Rustenburg|Lichtenburg
+5497|Mafeking|Lichtenburg|Mafeking
+5498|Klerksdorp|Mafeking|Klerksdorp
+5499|Potchefstroom|Klerksdorp|Potchefstroom
+5500|Pretoria|Potchefstroom|Pretoria
+5501|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5502|Standerton|Newcastle|Standerton
+5503|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5504|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5505|Krugersdorp|Johannesburg|Krugersdorp
+5506|Rustenburg|Krugersdorp|Rustenburg
+5507|Lichtenburg|Rustenburg|Lichtenburg
+5508|Mafeking|Lichtenburg|Mafeking
+5509|Klerksdorp|Mafeking|Klerksdorp
+5510|Potchefstroom|Klerksdorp|Potchefstroom
+5511|Pretoria|Potchefstroom|Pretoria
+5512|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5513|Belfast|Middelburg (Tvl)|Belfast
+5514|Dundee|Ladysmith|Dundee
+5515|Newcastle|Dundee|Newcastle
+5516|Standerton|Newcastle|Standerton
+5517|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5518|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5519|Krugersdorp|Johannesburg|Krugersdorp
+5520|Rustenburg|Krugersdorp|Rustenburg
+5521|Lichtenburg|Rustenburg|Lichtenburg
+5522|Mafeking|Lichtenburg|Mafeking
+5523|Klerksdorp|Mafeking|Klerksdorp
+5524|Potchefstroom|Klerksdorp|Potchefstroom
+5525|Pretoria|Potchefstroom|Pretoria
+5526|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5527|Bloemfontein|Fort Itala|Bloemfontein
+5528|Kroonstad|Bloemfontein|Kroonstad
+5529|Heilbron|Kroonstad|Heilbron
+5530|Vrede|Heilbron|Vrede
+5531|Harrismith|Vrede|Harrismith
+5532|Bethlehem|Harrismith|Bethlehem
+5533|Senekal|Bethlehem|Senekal
+5534|Ladybrand|Senekal|Ladybrand
+5535|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5536|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5537|Krugersdorp|Johannesburg|Krugersdorp
+5538|Rustenburg|Krugersdorp|Rustenburg
+5539|Lichtenburg|Rustenburg|Lichtenburg
+5540|Mafeking|Lichtenburg|Mafeking
+5541|Klerksdorp|Mafeking|Klerksdorp
+5542|Potchefstroom|Klerksdorp|Potchefstroom
+5543|Pretoria|Potchefstroom|Pretoria
+5544|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5545|Belfast|Middelburg (Tvl)|Belfast
+5546|Carolina|Belfast|Carolina
+5547|Lydenburg|Carolina|Lydenburg
+5548|Ermelo|Lydenburg|Ermelo
+5549|Standerton|Newcastle|Standerton
+5550|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5551|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5552|Krugersdorp|Johannesburg|Krugersdorp
+5553|Rustenburg|Krugersdorp|Rustenburg
+5554|Lichtenburg|Rustenburg|Lichtenburg
+5555|Mafeking|Lichtenburg|Mafeking
+5556|Klerksdorp|Mafeking|Klerksdorp
+5557|Potchefstroom|Klerksdorp|Potchefstroom
+5558|Pretoria|Potchefstroom|Pretoria
+5559|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5560|Belfast|Middelburg (Tvl)|Belfast
+5561|Carolina|Belfast|Carolina
+5562|Lydenburg|Carolina|Lydenburg
+5563|Ermelo|Lydenburg|Ermelo
+5564|Dundee|Ladysmith|Dundee
+5565|Newcastle|Dundee|Newcastle
+5566|Standerton|Newcastle|Standerton
+5567|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5568|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5569|Krugersdorp|Johannesburg|Krugersdorp
+5570|Rustenburg|Krugersdorp|Rustenburg
+5571|Lichtenburg|Rustenburg|Lichtenburg
+5572|Mafeking|Lichtenburg|Mafeking
+5573|Klerksdorp|Mafeking|Klerksdorp
+5574|Potchefstroom|Klerksdorp|Potchefstroom
+5575|Pretoria|Potchefstroom|Pretoria
+5576|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5577|Belfast|Middelburg (Tvl)|Belfast
+5578|Carolina|Belfast|Carolina
+5579|Lydenburg|Carolina|Lydenburg
+5580|Ermelo|Lydenburg|Ermelo
+5581|Standerton|Ermelo|Standerton
+5582|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5583|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5584|Krugersdorp|Johannesburg|Krugersdorp
+5585|Belfast|Middelburg (Tvl)|Belfast
+5586|Carolina|Belfast|Carolina
+5587|Lydenburg|Carolina|Lydenburg
+5588|Ermelo|Lydenburg|Ermelo
+5589|Standerton|Ermelo|Standerton
+5590|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5591|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5592|Krugersdorp|Johannesburg|Krugersdorp
+5593|Rustenburg|Krugersdorp|Rustenburg
+5594|Lichtenburg|Rustenburg|Lichtenburg
+5595|Mafeking|Lichtenburg|Mafeking
+5596|Belfast|Middelburg (Tvl)|Belfast
+5597|Carolina|Belfast|Carolina
+5598|Lydenburg|Carolina|Lydenburg
+5599|Ermelo|Lydenburg|Ermelo
+5600|Standerton|Ermelo|Standerton
+5601|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5602|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5603|Krugersdorp|Johannesburg|Krugersdorp
+5604|Rustenburg|Krugersdorp|Rustenburg
+5605|Lichtenburg|Rustenburg|Lichtenburg
+5606|Mafeking|Lichtenburg|Mafeking
+5607|Belfast|Middelburg (Tvl)|Belfast
+5608|Carolina|Belfast|Carolina
+5609|Lydenburg|Carolina|Lydenburg
+5610|Ermelo|Lydenburg|Ermelo
+5611|Standerton|Ermelo|Standerton
+5612|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5613|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5614|Krugersdorp|Johannesburg|Krugersdorp
+5615|Rustenburg|Krugersdorp|Rustenburg
+5616|Lichtenburg|Rustenburg|Lichtenburg
+5617|Belfast|Middelburg (Tvl)|Belfast
+5618|Carolina|Belfast|Carolina
+5619|Lydenburg|Carolina|Lydenburg
+5620|Ermelo|Lydenburg|Ermelo
+5621|Standerton|Ermelo|Standerton
+5622|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5623|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5624|Krugersdorp|Johannesburg|Krugersdorp
+5625|Rustenburg|Krugersdorp|Rustenburg
+5626|Lichtenburg|Rustenburg|Lichtenburg
+5627|Mafeking|Lichtenburg|Mafeking
+5628|Belfast|Middelburg (Tvl)|Belfast
+5629|Carolina|Belfast|Carolina
+5630|Lydenburg|Carolina|Lydenburg
+5631|Ermelo|Lydenburg|Ermelo
+5632|Standerton|Ermelo|Standerton
+5633|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5634|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5635|Krugersdorp|Johannesburg|Krugersdorp
+5636|Belfast|Middelburg (Tvl)|Belfast
+5637|Carolina|Belfast|Carolina
+5638|Lydenburg|Carolina|Lydenburg
+5639|Ermelo|Lydenburg|Ermelo
+5640|Standerton|Ermelo|Standerton
+5641|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5642|Belfast|Middelburg (Tvl)|Belfast
+5643|Carolina|Belfast|Carolina
+5644|Lydenburg|Carolina|Lydenburg
+5645|Ermelo|Lydenburg|Ermelo
+5646|Standerton|Ermelo|Standerton
+5647|Belfast|Middelburg (Tvl)|Belfast
+5648|Carolina|Belfast|Carolina
+5649|Lydenburg|Carolina|Lydenburg
+5650|Belfast|Middelburg (Tvl)|Belfast
+5651|Belfast|Middelburg (Tvl)|Belfast
+5652|Carolina|Belfast|Carolina
+5653|Lydenburg|Carolina|Lydenburg
+5654|Ermelo|Lydenburg|Ermelo
+5655|Standerton|Ermelo|Standerton
+5656|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5657|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5658|Krugersdorp|Johannesburg|Krugersdorp
+5659|Rustenburg|Krugersdorp|Rustenburg
+5660|Lichtenburg|Rustenburg|Lichtenburg
+5661|Mafeking|Lichtenburg|Mafeking
+5662|Klerksdorp|Mafeking|Klerksdorp
+5663|Belfast|Middelburg (Tvl)|Belfast
+5664|Carolina|Belfast|Carolina
+5665|Lydenburg|Carolina|Lydenburg
+5666|Belfast|Middelburg (Tvl)|Belfast
+5667|Carolina|Belfast|Carolina
+5668|Lydenburg|Carolina|Lydenburg
+5669|Ermelo|Lydenburg|Ermelo
+5670|Standerton|Ermelo|Standerton
+5671|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5672|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5673|Krugersdorp|Johannesburg|Krugersdorp
+5674|Rustenburg|Krugersdorp|Rustenburg
+5675|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5676|Belfast|Middelburg (Tvl)|Belfast
+5677|Carolina|Belfast|Carolina
+5678|Lydenburg|Carolina|Lydenburg
+5679|Ermelo|Lydenburg|Ermelo
+5680|Standerton|Ermelo|Standerton
+5681|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5682|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5683|Krugersdorp|Johannesburg|Krugersdorp
+5684|Rustenburg|Krugersdorp|Rustenburg
+5685|Lichtenburg|Rustenburg|Lichtenburg
+5686|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5687|Belfast|Middelburg (Tvl)|Belfast
+5688|Carolina|Belfast|Carolina
+5689|Lydenburg|Carolina|Lydenburg
+5690|Ermelo|Lydenburg|Ermelo
+5691|Standerton|Ermelo|Standerton
+5692|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5693|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5694|Krugersdorp|Johannesburg|Krugersdorp
+5695|Rustenburg|Krugersdorp|Rustenburg
+5696|Ladybrand|Senekal|Ladybrand
+5697|Bloemfontein|Ladybrand|Bloemfontein
+5698|Kroonstad|Bloemfontein|Kroonstad
+5699|Heilbron|Kroonstad|Heilbron
+5700|Vrede|Heilbron|Vrede
+5701|Bloemfontein|Commando Drift on Vaal River|Bloemfontein
+5702|Kroonstad|Bloemfontein|Kroonstad
+5703|Heilbron|Kroonstad|Heilbron
+5704|Vrede|Heilbron|Vrede
+5705|Harrismith|Vrede|Harrismith
+5706|Molteno|Stormberg|Molteno
+5707|Sterkstroom|Molteno|Sterkstroom
+5708|Cradock|Sterkstroom|Cradock
+5709|Middelburg (Cape)|Cradock|Middelburg (Cape)
+5710|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+5711|Aberdeen|Graaff-Reinet|Aberdeen
+5712|Murraysburg|Aberdeen|Murraysburg
+5713|Richmond|Murraysburg|Richmond
+5714|Hanover|Richmond|Hanover
+5715|De Aar|Hanover|De Aar
+5716|Hanover Road|De Aar|Hanover Road
+5717|Naauwpoort|Hanover Road|Naauwpoort
+5718|Colesberg|Naauwpoort|Colesberg
+5719|Aliwal North|Colesberg|Aliwal North
+5720|Queenstown|Aliwal North|Queenstown
+5721|Queenstown|Aliwal North|Queenstown
+5722|Stormberg|Queenstown|Stormberg
+5723|Molteno|Stormberg|Molteno
+5724|Sterkstroom|Molteno|Sterkstroom
+5725|Cradock|Sterkstroom|Cradock
+5726|Middelburg (Cape)|Cradock|Middelburg (Cape)
+5727|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+5728|Aberdeen|Graaff-Reinet|Aberdeen
+5729|Murraysburg|Aberdeen|Murraysburg
+5730|Richmond|Murraysburg|Richmond
+5731|Hanover|Richmond|Hanover
+5732|De Aar|Hanover|De Aar
+5733|Hanover Road|De Aar|Hanover Road
+5734|Naauwpoort|Hanover Road|Naauwpoort
+5735|Colesberg|Naauwpoort|Colesberg
+5736|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5737|Belfast|Middelburg (Tvl)|Belfast
+5738|Carolina|Belfast|Carolina
+5739|Lydenburg|Carolina|Lydenburg
+5740|Ermelo|Lydenburg|Ermelo
+5741|Standerton|Ermelo|Standerton
+5742|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5743|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5744|Krugersdorp|Johannesburg|Krugersdorp
+5745|Kroonstad|Bloemfontein|Kroonstad
+5746|Heilbron|Kroonstad|Heilbron
+5747|Vrede|Heilbron|Vrede
+5748|Harrismith|Vrede|Harrismith
+5749|Bethlehem|Harrismith|Bethlehem
+5750|Senekal|Bethlehem|Senekal
+5751|Ladybrand|Senekal|Ladybrand
+5752|Kroonstad|Bloemfontein|Kroonstad
+5753|Heilbron|Kroonstad|Heilbron
+5754|Vrede|Heilbron|Vrede
+5755|Harrismith|Vrede|Harrismith
+5756|Bethlehem|Harrismith|Bethlehem
+5757|Senekal|Bethlehem|Senekal
+5758|Naauwpoort|Hanover Road|Naauwpoort
+5759|Naauwpoort|Hanover Road|Naauwpoort
+5760|Naauwpoort|Hanover Road|Naauwpoort
+5761|Belfast|Middelburg (Tvl)|Belfast
+5762|Carolina|Belfast|Carolina
+5763|Lydenburg|Carolina|Lydenburg
+5764|Ermelo|Lydenburg|Ermelo
+5765|Standerton|Ermelo|Standerton
+5766|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5767|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5768|Krugersdorp|Johannesburg|Krugersdorp
+5769|Rustenburg|Krugersdorp|Rustenburg
+5770|Heilbron|Kroonstad|Heilbron
+5771|Vrede|Heilbron|Vrede
+5772|Harrismith|Vrede|Harrismith
+5773|Bethlehem|Harrismith|Bethlehem
+5774|Senekal|Bethlehem|Senekal
+5775|Harrismith|Vrede|Harrismith
+5776|Bethlehem|Harrismith|Bethlehem
+5777|Senekal|Bethlehem|Senekal
+5778|Ladybrand|Senekal|Ladybrand
+5779|Bloemfontein|Ladybrand|Bloemfontein
+5780|Kroonstad|Bloemfontein|Kroonstad
+5781|Naauwpoort|Hanover Road|Naauwpoort
+5782|Newcastle|Utrecht|Newcastle
+5783|Standerton|Newcastle|Standerton
+5784|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5785|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5786|Krugersdorp|Johannesburg|Krugersdorp
+5787|Rustenburg|Krugersdorp|Rustenburg
+5788|Lichtenburg|Rustenburg|Lichtenburg
+5789|Mafeking|Lichtenburg|Mafeking
+5790|Klerksdorp|Mafeking|Klerksdorp
+5791|Potchefstroom|Klerksdorp|Potchefstroom
+5792|Pretoria|Potchefstroom|Pretoria
+5793|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5794|Belfast|Middelburg (Tvl)|Belfast
+5795|Carolina|Belfast|Carolina
+5796|Lydenburg|Carolina|Lydenburg
+5797|Ermelo|Lydenburg|Ermelo
+5798|Belfast|Middelburg (Tvl)|Belfast
+5799|Carolina|Belfast|Carolina
+5800|Lydenburg|Carolina|Lydenburg
+5801|Ermelo|Lydenburg|Ermelo
+5802|Standerton|Ermelo|Standerton
+5803|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5804|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5805|Krugersdorp|Johannesburg|Krugersdorp
+5806|Rustenburg|Krugersdorp|Rustenburg
+5807|Lichtenburg|Rustenburg|Lichtenburg
+5808|Mafeking|Lichtenburg|Mafeking
+5809|Potchefstroom|Klerksdorp|Potchefstroom
+5810|Pretoria|Potchefstroom|Pretoria
+5811|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5812|Belfast|Middelburg (Tvl)|Belfast
+5813|Carolina|Belfast|Carolina
+5814|Lydenburg|Carolina|Lydenburg
+5815|Ermelo|Lydenburg|Ermelo
+5816|Standerton|Ermelo|Standerton
+5817|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5818|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5819|Belfast|Middelburg (Tvl)|Belfast
+5820|Carolina|Belfast|Carolina
+5821|Lydenburg|Carolina|Lydenburg
+5822|Ermelo|Lydenburg|Ermelo
+5823|Standerton|Ermelo|Standerton
+5824|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5825|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5826|Krugersdorp|Johannesburg|Krugersdorp
+5827|Rustenburg|Krugersdorp|Rustenburg
+5828|Uitenhage|Port Elizabeth|Uitenhage
+5829|Pretoria|Potchefstroom|Pretoria
+5830|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5831|Belfast|Middelburg (Tvl)|Belfast
+5832|Carolina|Belfast|Carolina
+5833|Lydenburg|Carolina|Lydenburg
+5834|Ermelo|Lydenburg|Ermelo
+5835|Standerton|Ermelo|Standerton
+5836|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5837|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5838|Krugersdorp|Johannesburg|Krugersdorp
+5839|Rustenburg|Krugersdorp|Rustenburg
+5840|Lichtenburg|Rustenburg|Lichtenburg
+5841|Mafeking|Lichtenburg|Mafeking
+5842|Ermelo|Lydenburg|Ermelo
+5843|Standerton|Ermelo|Standerton
+5844|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5845|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5846|Krugersdorp|Johannesburg|Krugersdorp
+5847|Rustenburg|Krugersdorp|Rustenburg
+5848|Lichtenburg|Rustenburg|Lichtenburg
+5849|Mafeking|Lichtenburg|Mafeking
+5850|Klerksdorp|Mafeking|Klerksdorp
+5851|Potchefstroom|Klerksdorp|Potchefstroom
+5852|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5853|Belfast|Middelburg (Tvl)|Belfast
+5854|Carolina|Belfast|Carolina
+5855|Lydenburg|Carolina|Lydenburg
+5856|Ermelo|Lydenburg|Ermelo
+5857|Standerton|Ermelo|Standerton
+5858|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5859|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5860|Krugersdorp|Johannesburg|Krugersdorp
+5861|Rustenburg|Krugersdorp|Rustenburg
+5862|Lichtenburg|Rustenburg|Lichtenburg
+5863|Belfast|Middelburg (Tvl)|Belfast
+5864|Carolina|Belfast|Carolina
+5865|Lydenburg|Carolina|Lydenburg
+5866|Ermelo|Lydenburg|Ermelo
+5867|Standerton|Ermelo|Standerton
+5868|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5869|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5870|Krugersdorp|Johannesburg|Krugersdorp
+5871|Rustenburg|Krugersdorp|Rustenburg
+5872|Lichtenburg|Rustenburg|Lichtenburg
+5873|Mafeking|Lichtenburg|Mafeking
+5874|Kroonstad|Bloemfontein|Kroonstad
+5875|Heilbron|Kroonstad|Heilbron
+5876|Vrede|Heilbron|Vrede
+5877|Harrismith|Vrede|Harrismith
+5878|Bethlehem|Harrismith|Bethlehem
+5879|Senekal|Bethlehem|Senekal
+5880|Ladybrand|Senekal|Ladybrand
+5881|Bloemfontein|Brandwater Basin|Bloemfontein
+5882|Kroonstad|Bloemfontein|Kroonstad
+5883|Heilbron|Kroonstad|Heilbron
+5884|Vrede|Heilbron|Vrede
+5885|Harrismith|Vrede|Harrismith
+5886|Bethlehem|Harrismith|Bethlehem
+5887|Senekal|Bethlehem|Senekal
+5888|Ladybrand|Senekal|Ladybrand
+5889|Heilbron|Kroonstad|Heilbron
+5890|Vrede|Heilbron|Vrede
+5891|Harrismith|Vrede|Harrismith
+5892|Bethlehem|Harrismith|Bethlehem
+5893|Senekal|Bethlehem|Senekal
+5894|Ladybrand|Senekal|Ladybrand
+5895|Newcastle|Dundee|Newcastle
+5896|Standerton|Newcastle|Standerton
+5897|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5898|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5899|Krugersdorp|Johannesburg|Krugersdorp
+5900|Rustenburg|Krugersdorp|Rustenburg
+5901|Lichtenburg|Rustenburg|Lichtenburg
+5902|Mafeking|Lichtenburg|Mafeking
+5903|Klerksdorp|Mafeking|Klerksdorp
+5904|Potchefstroom|Klerksdorp|Potchefstroom
+5905|Pretoria|Potchefstroom|Pretoria
+5906|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5907|Belfast|Middelburg (Tvl)|Belfast
+5908|Carolina|Belfast|Carolina
+5909|Lydenburg|Carolina|Lydenburg
+5910|Ermelo|Lydenburg|Ermelo
+5911|Standerton|Ermelo|Standerton
+5912|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5913|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5914|Krugersdorp|Johannesburg|Krugersdorp
+5915|Rustenburg|Krugersdorp|Rustenburg
+5916|Belfast|Middelburg (Tvl)|Belfast
+5917|Carolina|Belfast|Carolina
+5918|Lydenburg|Carolina|Lydenburg
+5919|Ermelo|Lydenburg|Ermelo
+5920|Standerton|Ermelo|Standerton
+5921|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5922|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5923|Krugersdorp|Johannesburg|Krugersdorp
+5924|Rustenburg|Krugersdorp|Rustenburg
+5925|Naauwpoort|Hanover Road|Naauwpoort
+5926|Colesberg|Naauwpoort|Colesberg
+5927|Aliwal North|Colesberg|Aliwal North
+5928|Queenstown|Aliwal North|Queenstown
+5929|Stormberg|Queenstown|Stormberg
+5930|Molteno|Stormberg|Molteno
+5931|Sterkstroom|Molteno|Sterkstroom
+5932|Cradock|Sterkstroom|Cradock
+5933|Middelburg (Cape)|Cradock|Middelburg (Cape)
+5934|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+5935|Aberdeen|Graaff-Reinet|Aberdeen
+5936|Murraysburg|Aberdeen|Murraysburg
+5937|Richmond|Murraysburg|Richmond
+5938|Belfast|Middelburg (Tvl)|Belfast
+5939|Carolina|Belfast|Carolina
+5940|Lydenburg|Carolina|Lydenburg
+5941|Ermelo|Lydenburg|Ermelo
+5942|Standerton|Ermelo|Standerton
+5943|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5944|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5945|Krugersdorp|Johannesburg|Krugersdorp
+5946|Rustenburg|Krugersdorp|Rustenburg
+5947|Klerksdorp|Mafeking|Klerksdorp
+5948|Potchefstroom|Klerksdorp|Potchefstroom
+5949|Pretoria|Potchefstroom|Pretoria
+5950|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5951|Belfast|Middelburg (Tvl)|Belfast
+5952|Carolina|Belfast|Carolina
+5953|Lydenburg|Carolina|Lydenburg
+5954|Ermelo|Lydenburg|Ermelo
+5955|Standerton|Ermelo|Standerton
+5956|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5957|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5958|Krugersdorp|Johannesburg|Krugersdorp
+5959|Belfast|Middelburg (Tvl)|Belfast
+5960|Carolina|Belfast|Carolina
+5961|Lydenburg|Carolina|Lydenburg
+5962|Ermelo|Lydenburg|Ermelo
+5963|Standerton|Ermelo|Standerton
+5964|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5965|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5966|Krugersdorp|Johannesburg|Krugersdorp
+5967|Rustenburg|Krugersdorp|Rustenburg
+5968|Lichtenburg|Rustenburg|Lichtenburg
+5969|Mafeking|Lichtenburg|Mafeking
+5970|Klerksdorp|Mafeking|Klerksdorp
+5971|Potchefstroom|Klerksdorp|Potchefstroom
+5972|Pretoria|Potchefstroom|Pretoria
+5973|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5974|Belfast|Middelburg (Tvl)|Belfast
+5975|Carolina|Belfast|Carolina
+5976|Lydenburg|Carolina|Lydenburg
+5977|Ermelo|Lydenburg|Ermelo
+5978|Standerton|Ermelo|Standerton
+5979|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5980|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5981|Krugersdorp|Johannesburg|Krugersdorp
+5982|Rustenburg|Krugersdorp|Rustenburg
+5983|Belfast|Middelburg (Tvl)|Belfast
+5984|Carolina|Belfast|Carolina
+5985|Lydenburg|Carolina|Lydenburg
+5986|Ermelo|Lydenburg|Ermelo
+5987|Standerton|Ermelo|Standerton
+5988|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5989|Johannesburg|Heidelberg (Tvl)|Johannesburg
+5990|Krugersdorp|Johannesburg|Krugersdorp
+5991|Rustenburg|Krugersdorp|Rustenburg
+5992|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+5993|Belfast|Middelburg (Tvl)|Belfast
+5994|Carolina|Belfast|Carolina
+5995|Lydenburg|Carolina|Lydenburg
+5996|Ermelo|Lydenburg|Ermelo
+5997|Standerton|Ermelo|Standerton
+5998|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+5999|Heilbron|Kroonstad|Heilbron
+6000|Vrede|Heilbron|Vrede
+6001|Harrismith|Vrede|Harrismith
+6002|Bethlehem|Harrismith|Bethlehem
+6003|Senekal|Bethlehem|Senekal
+6004|Ladybrand|Senekal|Ladybrand
+6005|Heilbron|Kroonstad|Heilbron
+6006|Vrede|Heilbron|Vrede
+6007|Harrismith|Vrede|Harrismith
+6008|Bethlehem|Harrismith|Bethlehem
+6009|Senekal|Bethlehem|Senekal
+6010|Ladybrand|Senekal|Ladybrand
+6011|Heilbron|Kroonstad|Heilbron
+6012|Vrede|Heilbron|Vrede
+6013|Harrismith|Vrede|Harrismith
+6014|Bethlehem|Harrismith|Bethlehem
+6015|Senekal|Bethlehem|Senekal
+6016|Ladybrand|Senekal|Ladybrand
+6017|Pretoria|Frederikstad|Pretoria
+6018|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6019|Belfast|Middelburg (Tvl)|Belfast
+6020|Carolina|Belfast|Carolina
+6021|Lydenburg|Carolina|Lydenburg
+6022|Ermelo|Lydenburg|Ermelo
+6023|Standerton|Ermelo|Standerton
+6024|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6025|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6026|Krugersdorp|Johannesburg|Krugersdorp
+6027|Rustenburg|Krugersdorp|Rustenburg
+6028|Lichtenburg|Rustenburg|Lichtenburg
+6029|Mafeking|Lichtenburg|Mafeking
+6030|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6031|Belfast|Middelburg (Tvl)|Belfast
+6032|Carolina|Belfast|Carolina
+6033|Lydenburg|Carolina|Lydenburg
+6034|Ermelo|Lydenburg|Ermelo
+6035|Standerton|Ermelo|Standerton
+6036|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6037|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6038|Krugersdorp|Johannesburg|Krugersdorp
+6039|Rustenburg|Krugersdorp|Rustenburg
+6040|Lichtenburg|Rustenburg|Lichtenburg
+6041|Mafeking|Lichtenburg|Mafeking
+6042|Klerksdorp|Mafeking|Klerksdorp
+6043|Heilbron|Kroonstad|Heilbron
+6044|Vrede|Heilbron|Vrede
+6045|Harrismith|Vrede|Harrismith
+6046|Bethlehem|Harrismith|Bethlehem
+6047|Senekal|Bethlehem|Senekal
+6048|Ladybrand|Senekal|Ladybrand
+6049|Heilbron|Kroonstad|Heilbron
+6050|Vrede|Heilbron|Vrede
+6051|Harrismith|Vrede|Harrismith
+6052|Bethlehem|Harrismith|Bethlehem
+6053|Senekal|Bethlehem|Senekal
+6054|Ladybrand|Senekal|Ladybrand
+6055|Belfast|Middelburg (Tvl)|Belfast
+6056|Carolina|Belfast|Carolina
+6057|Lydenburg|Carolina|Lydenburg
+6058|Ermelo|Lydenburg|Ermelo
+6059|Standerton|Ermelo|Standerton
+6060|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6061|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6062|Krugersdorp|Johannesburg|Krugersdorp
+6063|Rustenburg|Krugersdorp|Rustenburg
+6064|Lichtenburg|Rustenburg|Lichtenburg
+6065|Kroonstad|Bloemfontein|Kroonstad
+6066|Heilbron|Kroonstad|Heilbron
+6067|Vrede|Heilbron|Vrede
+6068|Harrismith|Vrede|Harrismith
+6069|Bethlehem|Harrismith|Bethlehem
+6070|Senekal|Bethlehem|Senekal
+6071|Ladybrand|Senekal|Ladybrand
+6072|Kroonstad|Bloemfontein|Kroonstad
+6073|Heilbron|Kroonstad|Heilbron
+6074|Vrede|Heilbron|Vrede
+6075|Harrismith|Vrede|Harrismith
+6076|Bethlehem|Harrismith|Bethlehem
+6077|Senekal|Bethlehem|Senekal
+6078|Ladybrand|Senekal|Ladybrand
+6079|Bloemfontein|Modder River|Bloemfontein
+6080|Kroonstad|Bloemfontein|Kroonstad
+6081|Heilbron|Kroonstad|Heilbron
+6082|Vrede|Heilbron|Vrede
+6083|Harrismith|Vrede|Harrismith
+6084|Bethlehem|Harrismith|Bethlehem
+6085|Senekal|Bethlehem|Senekal
+6086|Ladybrand|Senekal|Ladybrand
+6087|Belfast|Middelburg (Tvl)|Belfast
+6088|Carolina|Belfast|Carolina
+6089|Lydenburg|Carolina|Lydenburg
+6090|Ermelo|Lydenburg|Ermelo
+6091|Standerton|Ermelo|Standerton
+6092|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6093|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6094|Krugersdorp|Johannesburg|Krugersdorp
+6095|Rustenburg|Krugersdorp|Rustenburg
+6096|Belfast|Middelburg (Tvl)|Belfast
+6097|Carolina|Belfast|Carolina
+6098|Lydenburg|Carolina|Lydenburg
+6099|Ermelo|Lydenburg|Ermelo
+6100|Standerton|Ermelo|Standerton
+6101|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6102|Belfast|Middelburg (Tvl)|Belfast
+6103|Carolina|Belfast|Carolina
+6104|Lydenburg|Carolina|Lydenburg
+6105|Ermelo|Lydenburg|Ermelo
+6106|Standerton|Ermelo|Standerton
+6107|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6108|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6109|Naauwpoort|Hanover Road|Naauwpoort
+6110|Colesberg|Naauwpoort|Colesberg
+6111|Aliwal North|Colesberg|Aliwal North
+6112|Queenstown|Aliwal North|Queenstown
+6113|Stormberg|Queenstown|Stormberg
+6114|Molteno|Stormberg|Molteno
+6115|Sterkstroom|Molteno|Sterkstroom
+6116|Cradock|Sterkstroom|Cradock
+6117|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6118|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6119|Aberdeen|Graaff-Reinet|Aberdeen
+6120|Murraysburg|Aberdeen|Murraysburg
+6121|Richmond|Murraysburg|Richmond
+6122|Belfast|Middelburg (Tvl)|Belfast
+6123|Carolina|Belfast|Carolina
+6124|Lydenburg|Carolina|Lydenburg
+6125|Ermelo|Lydenburg|Ermelo
+6126|Standerton|Ermelo|Standerton
+6127|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6128|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6129|Krugersdorp|Johannesburg|Krugersdorp
+6130|Rustenburg|Krugersdorp|Rustenburg
+6131|Bloemfontein|Paardeberg|Bloemfontein
+6132|Kroonstad|Bloemfontein|Kroonstad
+6133|Heilbron|Kroonstad|Heilbron
+6134|Vrede|Heilbron|Vrede
+6135|Harrismith|Vrede|Harrismith
+6136|Bethlehem|Harrismith|Bethlehem
+6137|Senekal|Bethlehem|Senekal
+6138|Ladybrand|Senekal|Ladybrand
+6139|Naauwpoort|Hanover Road|Naauwpoort
+6140|Colesberg|Naauwpoort|Colesberg
+6141|Aliwal North|Colesberg|Aliwal North
+6142|Queenstown|Aliwal North|Queenstown
+6143|Stormberg|Queenstown|Stormberg
+6144|Molteno|Stormberg|Molteno
+6145|Sterkstroom|Molteno|Sterkstroom
+6146|Cradock|Sterkstroom|Cradock
+6147|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6148|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6149|Aberdeen|Graaff-Reinet|Aberdeen
+6150|Murraysburg|Aberdeen|Murraysburg
+6151|Richmond|Murraysburg|Richmond
+6152|Belfast|Middelburg (Tvl)|Belfast
+6153|Carolina|Belfast|Carolina
+6154|Lydenburg|Carolina|Lydenburg
+6155|Ermelo|Lydenburg|Ermelo
+6156|Standerton|Ermelo|Standerton
+6157|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6158|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6159|Krugersdorp|Johannesburg|Krugersdorp
+6160|Rustenburg|Krugersdorp|Rustenburg
+6161|Standerton|Newcastle|Standerton
+6162|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6163|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6164|Krugersdorp|Johannesburg|Krugersdorp
+6165|Rustenburg|Krugersdorp|Rustenburg
+6166|Lichtenburg|Rustenburg|Lichtenburg
+6167|Mafeking|Lichtenburg|Mafeking
+6168|Klerksdorp|Mafeking|Klerksdorp
+6169|Potchefstroom|Klerksdorp|Potchefstroom
+6170|Pretoria|Potchefstroom|Pretoria
+6171|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6172|Belfast|Middelburg (Tvl)|Belfast
+6173|Naauwpoort|Hanover Road|Naauwpoort
+6174|Colesberg|Naauwpoort|Colesberg
+6175|Aliwal North|Colesberg|Aliwal North
+6176|Queenstown|Aliwal North|Queenstown
+6177|Stormberg|Queenstown|Stormberg
+6178|Molteno|Stormberg|Molteno
+6179|Sterkstroom|Molteno|Sterkstroom
+6180|Cradock|Sterkstroom|Cradock
+6181|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6182|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6183|Aberdeen|Graaff-Reinet|Aberdeen
+6184|Murraysburg|Aberdeen|Murraysburg
+6185|Richmond|Murraysburg|Richmond
+6186|Lydenburg|Carolina|Lydenburg
+6187|Ermelo|Lydenburg|Ermelo
+6188|Standerton|Ermelo|Standerton
+6189|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6190|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6191|Krugersdorp|Johannesburg|Krugersdorp
+6192|Rustenburg|Krugersdorp|Rustenburg
+6193|Lichtenburg|Rustenburg|Lichtenburg
+6194|Belfast|Middelburg (Tvl)|Belfast
+6195|Carolina|Belfast|Carolina
+6196|Lydenburg|Carolina|Lydenburg
+6197|Ermelo|Lydenburg|Ermelo
+6198|Standerton|Ermelo|Standerton
+6199|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6200|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6201|Naauwpoort|Hanover Road|Naauwpoort
+6202|Colesberg|Naauwpoort|Colesberg
+6203|Aliwal North|Colesberg|Aliwal North
+6204|Queenstown|Aliwal North|Queenstown
+6205|Stormberg|Queenstown|Stormberg
+6206|Molteno|Stormberg|Molteno
+6207|Sterkstroom|Molteno|Sterkstroom
+6208|Cradock|Sterkstroom|Cradock
+6209|Naauwpoort|Hanover Road|Naauwpoort
+6210|Colesberg|Naauwpoort|Colesberg
+6211|Aliwal North|Colesberg|Aliwal North
+6212|Queenstown|Aliwal North|Queenstown
+6213|Stormberg|Queenstown|Stormberg
+6214|Molteno|Stormberg|Molteno
+6215|Sterkstroom|Molteno|Sterkstroom
+6216|Cradock|Sterkstroom|Cradock
+6217|Mafeking|Lichtenburg|Mafeking
+6218|Klerksdorp|Mafeking|Klerksdorp
+6219|Potchefstroom|Klerksdorp|Potchefstroom
+6220|Pretoria|Potchefstroom|Pretoria
+6221|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6222|Belfast|Middelburg (Tvl)|Belfast
+6223|Carolina|Belfast|Carolina
+6224|Lydenburg|Carolina|Lydenburg
+6225|Ermelo|Lydenburg|Ermelo
+6226|Standerton|Ermelo|Standerton
+6227|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6228|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6229|Krugersdorp|Johannesburg|Krugersdorp
+6230|Klerksdorp|Mafeking|Klerksdorp
+6231|Potchefstroom|Klerksdorp|Potchefstroom
+6232|Pretoria|Potchefstroom|Pretoria
+6233|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6234|Belfast|Middelburg (Tvl)|Belfast
+6235|Carolina|Belfast|Carolina
+6236|Lydenburg|Carolina|Lydenburg
+6237|Ermelo|Lydenburg|Ermelo
+6238|Standerton|Ermelo|Standerton
+6239|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6240|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6241|Krugersdorp|Johannesburg|Krugersdorp
+6242|Rustenburg|Krugersdorp|Rustenburg
+6243|Ermelo|Lydenburg|Ermelo
+6244|Standerton|Ermelo|Standerton
+6245|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6246|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6247|Krugersdorp|Johannesburg|Krugersdorp
+6248|Rustenburg|Krugersdorp|Rustenburg
+6249|Lichtenburg|Rustenburg|Lichtenburg
+6250|Mafeking|Lichtenburg|Mafeking
+6251|Klerksdorp|Mafeking|Klerksdorp
+6252|Potchefstroom|Klerksdorp|Potchefstroom
+6253|Pretoria|Potchefstroom|Pretoria
+6254|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6255|Bloemfontein|Prince Albert|Bloemfontein
+6256|Kroonstad|Bloemfontein|Kroonstad
+6257|Heilbron|Kroonstad|Heilbron
+6258|Vrede|Heilbron|Vrede
+6259|Harrismith|Vrede|Harrismith
+6260|Bethlehem|Harrismith|Bethlehem
+6261|Senekal|Bethlehem|Senekal
+6262|Ladybrand|Senekal|Ladybrand
+6263|Aliwal North|Colesberg|Aliwal North
+6264|Queenstown|Aliwal North|Queenstown
+6265|Stormberg|Queenstown|Stormberg
+6266|Molteno|Stormberg|Molteno
+6267|Sterkstroom|Molteno|Sterkstroom
+6268|Cradock|Sterkstroom|Cradock
+6269|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6270|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6271|Aberdeen|Graaff-Reinet|Aberdeen
+6272|Murraysburg|Aberdeen|Murraysburg
+6273|Richmond|Murraysburg|Richmond
+6274|Hanover|Richmond|Hanover
+6275|De Aar|Hanover|De Aar
+6276|Hanover Road|De Aar|Hanover Road
+6277|Naauwpoort|Hanover Road|Naauwpoort
+6278|Pretoria|Potchefstroom|Pretoria
+6279|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6280|Belfast|Middelburg (Tvl)|Belfast
+6281|Carolina|Belfast|Carolina
+6282|Lydenburg|Carolina|Lydenburg
+6283|Ermelo|Lydenburg|Ermelo
+6284|Standerton|Ermelo|Standerton
+6285|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6286|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6287|Krugersdorp|Johannesburg|Krugersdorp
+6288|Rustenburg|Krugersdorp|Rustenburg
+6289|Lichtenburg|Rustenburg|Lichtenburg
+6290|Mafeking|Lichtenburg|Mafeking
+6291|Naauwpoort|Hanover Road|Naauwpoort
+6292|Colesberg|Naauwpoort|Colesberg
+6293|Aliwal North|Colesberg|Aliwal North
+6294|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6295|Belfast|Middelburg (Tvl)|Belfast
+6296|Naauwpoort|Hanover Road|Naauwpoort
+6297|Colesberg|Naauwpoort|Colesberg
+6298|Aliwal North|Colesberg|Aliwal North
+6299|Queenstown|Aliwal North|Queenstown
+6300|Stormberg|Queenstown|Stormberg
+6301|Molteno|Stormberg|Molteno
+6302|Sterkstroom|Molteno|Sterkstroom
+6303|Cradock|Sterkstroom|Cradock
+6304|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6305|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6306|Aberdeen|Graaff-Reinet|Aberdeen
+6307|Naauwpoort|Hanover Road|Naauwpoort
+6308|Colesberg|Naauwpoort|Colesberg
+6309|Aliwal North|Colesberg|Aliwal North
+6310|Queenstown|Aliwal North|Queenstown
+6311|Stormberg|Queenstown|Stormberg
+6312|Molteno|Stormberg|Molteno
+6313|Sterkstroom|Molteno|Sterkstroom
+6314|Cradock|Sterkstroom|Cradock
+6315|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6316|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6317|Aberdeen|Graaff-Reinet|Aberdeen
+6318|Belfast|Middelburg (Tvl)|Belfast
+6319|Carolina|Belfast|Carolina
+6320|Lydenburg|Carolina|Lydenburg
+6321|Ermelo|Lydenburg|Ermelo
+6322|Standerton|Ermelo|Standerton
+6323|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6324|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6325|Krugersdorp|Johannesburg|Krugersdorp
+6326|Rustenburg|Krugersdorp|Rustenburg
+6327|Lichtenburg|Rustenburg|Lichtenburg
+6328|Ladybrand|Senekal|Ladybrand
+6329|Bloemfontein|Ladybrand|Bloemfontein
+6330|Kroonstad|Bloemfontein|Kroonstad
+6331|Heilbron|Kroonstad|Heilbron
+6332|Vrede|Heilbron|Vrede
+6333|Harrismith|Vrede|Harrismith
+6334|Belfast|Middelburg (Tvl)|Belfast
+6335|Carolina|Belfast|Carolina
+6336|Lydenburg|Carolina|Lydenburg
+6337|Ermelo|Lydenburg|Ermelo
+6338|Standerton|Ermelo|Standerton
+6339|Belfast|Middelburg (Tvl)|Belfast
+6340|Carolina|Belfast|Carolina
+6341|Lydenburg|Carolina|Lydenburg
+6342|Ermelo|Lydenburg|Ermelo
+6343|Standerton|Ermelo|Standerton
+6344|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6345|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6346|Krugersdorp|Johannesburg|Krugersdorp
+6347|Rustenburg|Krugersdorp|Rustenburg
+6348|Kroonstad|Bloemfontein|Kroonstad
+6349|Heilbron|Kroonstad|Heilbron
+6350|Vrede|Heilbron|Vrede
+6351|Harrismith|Vrede|Harrismith
+6352|Bethlehem|Harrismith|Bethlehem
+6353|Senekal|Bethlehem|Senekal
+6354|Ladybrand|Senekal|Ladybrand
+6355|Carolina|Belfast|Carolina
+6356|Lydenburg|Carolina|Lydenburg
+6357|Ermelo|Lydenburg|Ermelo
+6358|Standerton|Ermelo|Standerton
+6359|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6360|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6361|Kroonstad|Bloemfontein|Kroonstad
+6362|Heilbron|Kroonstad|Heilbron
+6363|Vrede|Heilbron|Vrede
+6364|Harrismith|Vrede|Harrismith
+6365|Bethlehem|Harrismith|Bethlehem
+6366|Senekal|Bethlehem|Senekal
+6367|Ladybrand|Senekal|Ladybrand
+6368|De Aar|Springbok|De Aar
+6369|Hanover Road|De Aar|Hanover Road
+6370|Naauwpoort|Hanover Road|Naauwpoort
+6371|Colesberg|Naauwpoort|Colesberg
+6372|Belfast|Middelburg (Tvl)|Belfast
+6373|Carolina|Belfast|Carolina
+6374|Lydenburg|Carolina|Lydenburg
+6375|Ermelo|Lydenburg|Ermelo
+6376|Standerton|Ermelo|Standerton
+6377|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6378|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6379|Krugersdorp|Johannesburg|Krugersdorp
+6380|Rustenburg|Krugersdorp|Rustenburg
+6381|Lichtenburg|Rustenburg|Lichtenburg
+6382|Mafeking|Lichtenburg|Mafeking
+6383|Klerksdorp|Mafeking|Klerksdorp
+6384|Potchefstroom|Klerksdorp|Potchefstroom
+6385|Belfast|Middelburg (Tvl)|Belfast
+6386|Carolina|Belfast|Carolina
+6387|Lydenburg|Carolina|Lydenburg
+6388|Ermelo|Lydenburg|Ermelo
+6389|Standerton|Ermelo|Standerton
+6390|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6391|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6392|Krugersdorp|Johannesburg|Krugersdorp
+6393|Rustenburg|Krugersdorp|Rustenburg
+6394|Lichtenburg|Rustenburg|Lichtenburg
+6395|Mafeking|Lichtenburg|Mafeking
+6396|Klerksdorp|Mafeking|Klerksdorp
+6397|Potchefstroom|Klerksdorp|Potchefstroom
+6398|Belfast|Middelburg (Tvl)|Belfast
+6399|Carolina|Belfast|Carolina
+6400|Lydenburg|Carolina|Lydenburg
+6401|Ermelo|Lydenburg|Ermelo
+6402|Standerton|Ermelo|Standerton
+6403|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6404|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6405|Krugersdorp|Johannesburg|Krugersdorp
+6406|Rustenburg|Krugersdorp|Rustenburg
+6407|Lichtenburg|Rustenburg|Lichtenburg
+6408|Mafeking|Lichtenburg|Mafeking
+6409|Klerksdorp|Mafeking|Klerksdorp
+6410|Potchefstroom|Klerksdorp|Potchefstroom
+6411|Queenstown|Aliwal North|Queenstown
+6412|Stormberg|Queenstown|Stormberg
+6413|Molteno|Stormberg|Molteno
+6414|Sterkstroom|Molteno|Sterkstroom
+6415|Cradock|Sterkstroom|Cradock
+6416|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6417|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6418|Aberdeen|Graaff-Reinet|Aberdeen
+6419|Murraysburg|Aberdeen|Murraysburg
+6420|Richmond|Murraysburg|Richmond
+6421|Hanover|Richmond|Hanover
+6422|De Aar|Hanover|De Aar
+6423|Hanover Road|De Aar|Hanover Road
+6424|Queenstown|Aliwal North|Queenstown
+6425|Stormberg|Queenstown|Stormberg
+6426|Molteno|Stormberg|Molteno
+6427|Sterkstroom|Molteno|Sterkstroom
+6428|Cradock|Sterkstroom|Cradock
+6429|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6430|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6431|Aberdeen|Graaff-Reinet|Aberdeen
+6432|Murraysburg|Aberdeen|Murraysburg
+6433|Richmond|Murraysburg|Richmond
+6434|Hanover|Richmond|Hanover
+6435|De Aar|Hanover|De Aar
+6436|Hanover Road|De Aar|Hanover Road
+6437|Naauwpoort|Hanover Road|Naauwpoort
+6438|Colesberg|Naauwpoort|Colesberg
+6439|Hanover Road|De Aar|Hanover Road
+6440|Belfast|Middelburg (Tvl)|Belfast
+6441|Carolina|Belfast|Carolina
+6442|Lydenburg|Carolina|Lydenburg
+6443|Ermelo|Lydenburg|Ermelo
+6444|Standerton|Ermelo|Standerton
+6445|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6446|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6447|Belfast|Middelburg (Tvl)|Belfast
+6448|Carolina|Belfast|Carolina
+6449|Lydenburg|Carolina|Lydenburg
+6450|Ermelo|Lydenburg|Ermelo
+6451|Standerton|Ermelo|Standerton
+6452|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6453|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6454|Krugersdorp|Johannesburg|Krugersdorp
+6455|Rustenburg|Krugersdorp|Rustenburg
+6456|Lichtenburg|Rustenburg|Lichtenburg
+6457|Mafeking|Lichtenburg|Mafeking
+6458|Belfast|Middelburg (Tvl)|Belfast
+6459|Carolina|Belfast|Carolina
+6460|Lydenburg|Carolina|Lydenburg
+6461|Ermelo|Lydenburg|Ermelo
+6462|Standerton|Ermelo|Standerton
+6463|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6464|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6465|Krugersdorp|Johannesburg|Krugersdorp
+6466|Rustenburg|Krugersdorp|Rustenburg
+6467|Lichtenburg|Rustenburg|Lichtenburg
+6468|Belfast|Middelburg (Tvl)|Belfast
+6469|Carolina|Belfast|Carolina
+6470|Lydenburg|Carolina|Lydenburg
+6471|Ermelo|Lydenburg|Ermelo
+6472|Standerton|Ermelo|Standerton
+6473|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6474|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6475|Krugersdorp|Johannesburg|Krugersdorp
+6476|Rustenburg|Krugersdorp|Rustenburg
+6477|Lichtenburg|Rustenburg|Lichtenburg
+6478|Mafeking|Lichtenburg|Mafeking
+6479|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6480|Belfast|Middelburg (Tvl)|Belfast
+6481|Carolina|Belfast|Carolina
+6482|Lydenburg|Carolina|Lydenburg
+6483|Belfast|Middelburg (Tvl)|Belfast
+6484|Carolina|Belfast|Carolina
+6485|Lydenburg|Carolina|Lydenburg
+6486|Ermelo|Lydenburg|Ermelo
+6487|Standerton|Ermelo|Standerton
+6488|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6489|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6490|Krugersdorp|Johannesburg|Krugersdorp
+6491|Belfast|Middelburg (Tvl)|Belfast
+6492|Carolina|Belfast|Carolina
+6493|Lydenburg|Carolina|Lydenburg
+6494|Ermelo|Lydenburg|Ermelo
+6495|Standerton|Ermelo|Standerton
+6496|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6497|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6498|Krugersdorp|Johannesburg|Krugersdorp
+6499|Rustenburg|Krugersdorp|Rustenburg
+6500|Newcastle|Utrecht|Newcastle
+6501|Standerton|Newcastle|Standerton
+6502|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6503|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6504|Krugersdorp|Johannesburg|Krugersdorp
+6505|Rustenburg|Krugersdorp|Rustenburg
+6506|Lichtenburg|Rustenburg|Lichtenburg
+6507|Mafeking|Lichtenburg|Mafeking
+6508|Klerksdorp|Mafeking|Klerksdorp
+6509|Potchefstroom|Klerksdorp|Potchefstroom
+6510|Pretoria|Potchefstroom|Pretoria
+6511|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6512|Belfast|Middelburg (Tvl)|Belfast
+6513|Carolina|Belfast|Carolina
+6514|Lydenburg|Carolina|Lydenburg
+6515|Ermelo|Lydenburg|Ermelo
+6516|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6517|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6518|Krugersdorp|Johannesburg|Krugersdorp
+6519|Rustenburg|Krugersdorp|Rustenburg
+6520|Lichtenburg|Rustenburg|Lichtenburg
+6521|Mafeking|Lichtenburg|Mafeking
+6522|Klerksdorp|Mafeking|Klerksdorp
+6523|Potchefstroom|Klerksdorp|Potchefstroom
+6524|Pretoria|Potchefstroom|Pretoria
+6525|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6526|Belfast|Middelburg (Tvl)|Belfast
+6527|Standerton|Newcastle|Standerton
+6528|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6529|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6530|Krugersdorp|Johannesburg|Krugersdorp
+6531|Rustenburg|Krugersdorp|Rustenburg
+6532|Lichtenburg|Rustenburg|Lichtenburg
+6533|Mafeking|Lichtenburg|Mafeking
+6534|Klerksdorp|Mafeking|Klerksdorp
+6535|Potchefstroom|Klerksdorp|Potchefstroom
+6536|Pretoria|Potchefstroom|Pretoria
+6537|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6538|Belfast|Middelburg (Tvl)|Belfast
+6539|Carolina|Belfast|Carolina
+6540|Lydenburg|Carolina|Lydenburg
+6541|Ermelo|Lydenburg|Ermelo
+6542|Standerton|Ermelo|Standerton
+6543|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6544|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6545|Krugersdorp|Johannesburg|Krugersdorp
+6546|Rustenburg|Krugersdorp|Rustenburg
+6547|Kroonstad|Bloemfontein|Kroonstad
+6548|Heilbron|Kroonstad|Heilbron
+6549|Vrede|Heilbron|Vrede
+6550|Harrismith|Vrede|Harrismith
+6551|Bethlehem|Harrismith|Bethlehem
+6552|Senekal|Bethlehem|Senekal
+6553|Standerton|Newcastle|Standerton
+6554|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6555|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6556|Krugersdorp|Johannesburg|Krugersdorp
+6557|Rustenburg|Krugersdorp|Rustenburg
+6558|Lichtenburg|Rustenburg|Lichtenburg
+6559|Mafeking|Lichtenburg|Mafeking
+6560|Klerksdorp|Mafeking|Klerksdorp
+6561|Potchefstroom|Klerksdorp|Potchefstroom
+6562|Pretoria|Potchefstroom|Pretoria
+6563|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6564|Belfast|Middelburg (Tvl)|Belfast
+6565|Carolina|Belfast|Carolina
+6566|Lydenburg|Carolina|Lydenburg
+6567|Ermelo|Lydenburg|Ermelo
+6568|Standerton|Ermelo|Standerton
+6569|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6570|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6571|Krugersdorp|Johannesburg|Krugersdorp
+6572|Rustenburg|Krugersdorp|Rustenburg
+6573|Ermelo|Lydenburg|Ermelo
+6574|Standerton|Ermelo|Standerton
+6575|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6576|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6577|Krugersdorp|Johannesburg|Krugersdorp
+6578|Rustenburg|Krugersdorp|Rustenburg
+6579|Lichtenburg|Rustenburg|Lichtenburg
+6580|Mafeking|Lichtenburg|Mafeking
+6581|Klerksdorp|Mafeking|Klerksdorp
+6582|Potchefstroom|Klerksdorp|Potchefstroom
+6583|Ermelo|Lydenburg|Ermelo
+6584|Standerton|Ermelo|Standerton
+6585|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6586|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6587|Krugersdorp|Johannesburg|Krugersdorp
+6588|Rustenburg|Krugersdorp|Rustenburg
+6589|Lichtenburg|Rustenburg|Lichtenburg
+6590|Mafeking|Lichtenburg|Mafeking
+6591|Klerksdorp|Mafeking|Klerksdorp
+6592|Potchefstroom|Klerksdorp|Potchefstroom
+6593|Lydenburg|Carolina|Lydenburg
+6594|Ermelo|Lydenburg|Ermelo
+6595|Standerton|Ermelo|Standerton
+6596|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6597|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6598|Krugersdorp|Johannesburg|Krugersdorp
+6599|Rustenburg|Krugersdorp|Rustenburg
+6600|Belfast|Middelburg (Tvl)|Belfast
+6601|Carolina|Belfast|Carolina
+6602|Lydenburg|Carolina|Lydenburg
+6603|Ermelo|Lydenburg|Ermelo
+6604|Standerton|Ermelo|Standerton
+6605|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6606|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6607|Krugersdorp|Johannesburg|Krugersdorp
+6608|Rustenburg|Krugersdorp|Rustenburg
+6609|Lichtenburg|Rustenburg|Lichtenburg
+6610|Mafeking|Lichtenburg|Mafeking
+6611|Standerton|Newcastle|Standerton
+6612|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6613|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6614|Krugersdorp|Johannesburg|Krugersdorp
+6615|Rustenburg|Krugersdorp|Rustenburg
+6616|Lichtenburg|Rustenburg|Lichtenburg
+6617|Mafeking|Lichtenburg|Mafeking
+6618|Klerksdorp|Mafeking|Klerksdorp
+6619|Potchefstroom|Klerksdorp|Potchefstroom
+6620|Pretoria|Potchefstroom|Pretoria
+6621|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6622|Newcastle|Utrecht|Newcastle
+6623|Standerton|Newcastle|Standerton
+6624|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6625|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6626|Krugersdorp|Johannesburg|Krugersdorp
+6627|Rustenburg|Krugersdorp|Rustenburg
+6628|Lichtenburg|Rustenburg|Lichtenburg
+6629|Mafeking|Lichtenburg|Mafeking
+6630|Klerksdorp|Mafeking|Klerksdorp
+6631|Potchefstroom|Klerksdorp|Potchefstroom
+6632|Pretoria|Potchefstroom|Pretoria
+6633|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6634|Belfast|Middelburg (Tvl)|Belfast
+6635|Carolina|Belfast|Carolina
+6636|Lydenburg|Carolina|Lydenburg
+6637|Ermelo|Lydenburg|Ermelo
+6638|Cradock|Somerset East|Cradock
+6639|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6640|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6641|Aberdeen|Graaff-Reinet|Aberdeen
+6642|Murraysburg|Aberdeen|Murraysburg
+6643|Richmond|Murraysburg|Richmond
+6644|Hanover|Richmond|Hanover
+6645|De Aar|Hanover|De Aar
+6646|Hanover Road|De Aar|Hanover Road
+6647|Naauwpoort|Hanover Road|Naauwpoort
+6648|Colesberg|Naauwpoort|Colesberg
+6649|Aliwal North|Colesberg|Aliwal North
+6650|Queenstown|Aliwal North|Queenstown
+6651|Stormberg|Queenstown|Stormberg
+6652|Molteno|Stormberg|Molteno
+6653|Sterkstroom|Molteno|Sterkstroom
+6654|Kroonstad|Bloemfontein|Kroonstad
+6655|Heilbron|Kroonstad|Heilbron
+6656|Vrede|Heilbron|Vrede
+6657|Harrismith|Vrede|Harrismith
+6658|Bethlehem|Harrismith|Bethlehem
+6659|Senekal|Bethlehem|Senekal
+6660|Ladybrand|Senekal|Ladybrand
+6661|Vrede|Heilbron|Vrede
+6662|Harrismith|Vrede|Harrismith
+6663|Bethlehem|Harrismith|Bethlehem
+6664|Senekal|Bethlehem|Senekal
+6665|Ladybrand|Senekal|Ladybrand
+6666|Bloemfontein|Ladybrand|Bloemfontein
+6667|Belfast|Middelburg (Tvl)|Belfast
+6668|Carolina|Belfast|Carolina
+6669|Lydenburg|Carolina|Lydenburg
+6670|Ermelo|Lydenburg|Ermelo
+6671|Standerton|Ermelo|Standerton
+6672|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6673|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6674|Krugersdorp|Johannesburg|Krugersdorp
+6675|Belfast|Middelburg (Tvl)|Belfast
+6676|Carolina|Belfast|Carolina
+6677|Lydenburg|Carolina|Lydenburg
+6678|Ermelo|Lydenburg|Ermelo
+6679|Standerton|Ermelo|Standerton
+6680|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6681|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6682|Krugersdorp|Johannesburg|Krugersdorp
+6683|Rustenburg|Krugersdorp|Rustenburg
+6684|Bloemfontein|Wilmansrust|Bloemfontein
+6685|Kroonstad|Bloemfontein|Kroonstad
+6686|Heilbron|Kroonstad|Heilbron
+6687|Vrede|Heilbron|Vrede
+6688|Harrismith|Vrede|Harrismith
+6689|Bethlehem|Harrismith|Bethlehem
+6690|Senekal|Bethlehem|Senekal
+6691|Ladybrand|Senekal|Ladybrand
+6692|Heilbron|Kroonstad|Heilbron
+6693|Vrede|Heilbron|Vrede
+6694|Harrismith|Vrede|Harrismith
+6695|Bethlehem|Harrismith|Bethlehem
+6696|Senekal|Bethlehem|Senekal
+6697|Ladybrand|Senekal|Ladybrand
+6698|Senekal|Bethlehem|Senekal
+6699|Ladybrand|Senekal|Ladybrand
+6700|Bloemfontein|Ladybrand|Bloemfontein
+6701|Kroonstad|Bloemfontein|Kroonstad
+6702|Heilbron|Kroonstad|Heilbron
+6703|Kroonstad|Bloemfontein|Kroonstad
+6704|Heilbron|Kroonstad|Heilbron
+6705|Vrede|Heilbron|Vrede
+6706|Harrismith|Vrede|Harrismith
+6707|Bethlehem|Harrismith|Bethlehem
+6708|Senekal|Bethlehem|Senekal
+6709|Ladybrand|Senekal|Ladybrand
+6710|Standerton|Newcastle|Standerton
+6711|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6712|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6713|Krugersdorp|Johannesburg|Krugersdorp
+6714|Rustenburg|Krugersdorp|Rustenburg
+6715|Lichtenburg|Rustenburg|Lichtenburg
+6716|Mafeking|Lichtenburg|Mafeking
+6717|Klerksdorp|Mafeking|Klerksdorp
+6718|Potchefstroom|Klerksdorp|Potchefstroom
+6719|Pretoria|Potchefstroom|Pretoria
+6720|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6721|Belfast|Middelburg (Tvl)|Belfast
+6722|Carolina|Belfast|Carolina
+6723|Lydenburg|Carolina|Lydenburg
+6724|Ermelo|Lydenburg|Ermelo
+6725|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6726|Belfast|Middelburg (Tvl)|Belfast
+6727|Carolina|Belfast|Carolina
+6728|Lydenburg|Carolina|Lydenburg
+6729|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6730|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6731|Krugersdorp|Johannesburg|Krugersdorp
+6732|Rustenburg|Krugersdorp|Rustenburg
+6733|Lichtenburg|Rustenburg|Lichtenburg
+6734|Mafeking|Lichtenburg|Mafeking
+6735|Klerksdorp|Mafeking|Klerksdorp
+6736|Potchefstroom|Klerksdorp|Potchefstroom
+6737|Pretoria|Potchefstroom|Pretoria
+6738|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6739|Pretoria|Cape Town|Pretoria
+6740|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6741|Belfast|Middelburg (Tvl)|Belfast
+6742|Carolina|Belfast|Carolina
+6743|Lydenburg|Carolina|Lydenburg
+6744|Ermelo|Lydenburg|Ermelo
+6745|Standerton|Ermelo|Standerton
+6746|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6747|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6748|Krugersdorp|Johannesburg|Krugersdorp
+6749|Rustenburg|Krugersdorp|Rustenburg
+6750|Lichtenburg|Rustenburg|Lichtenburg
+6751|Mafeking|Lichtenburg|Mafeking
+6752|Klerksdorp|Mafeking|Klerksdorp
+6753|Belfast|Middelburg (Tvl)|Belfast
+6754|Carolina|Belfast|Carolina
+6755|Lydenburg|Carolina|Lydenburg
+6756|Ermelo|Lydenburg|Ermelo
+6757|Standerton|Ermelo|Standerton
+6758|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6759|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6760|Krugersdorp|Johannesburg|Krugersdorp
+6761|Rustenburg|Krugersdorp|Rustenburg
+6762|Lichtenburg|Rustenburg|Lichtenburg
+6763|Mafeking|Lichtenburg|Mafeking
+6764|Klerksdorp|Mafeking|Klerksdorp
+6765|Potchefstroom|Klerksdorp|Potchefstroom
+6766|Kroonstad|Bloemfontein|Kroonstad
+6767|Heilbron|Kroonstad|Heilbron
+6768|Vrede|Heilbron|Vrede
+6769|Harrismith|Vrede|Harrismith
+6770|Bethlehem|Harrismith|Bethlehem
+6771|Senekal|Bethlehem|Senekal
+6772|Stormberg|Queenstown|Stormberg
+6773|Molteno|Stormberg|Molteno
+6774|Sterkstroom|Molteno|Sterkstroom
+6775|Vrede|Heilbron|Vrede
+6776|Harrismith|Vrede|Harrismith
+6777|Bethlehem|Harrismith|Bethlehem
+6778|Senekal|Bethlehem|Senekal
+6779|Ladybrand|Senekal|Ladybrand
+6780|Bloemfontein|Ladybrand|Bloemfontein
+6781|Belfast|Middelburg (Tvl)|Belfast
+6782|Carolina|Belfast|Carolina
+6783|Lydenburg|Carolina|Lydenburg
+6784|Ermelo|Lydenburg|Ermelo
+6785|Standerton|Ermelo|Standerton
+6786|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6787|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6788|Krugersdorp|Johannesburg|Krugersdorp
+6789|Rustenburg|Krugersdorp|Rustenburg
+6790|Belfast|Middelburg (Tvl)|Belfast
+6791|Carolina|Belfast|Carolina
+6792|Lydenburg|Carolina|Lydenburg
+6793|Ermelo|Lydenburg|Ermelo
+6794|Standerton|Ermelo|Standerton
+6795|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6796|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6797|Krugersdorp|Johannesburg|Krugersdorp
+6798|Rustenburg|Krugersdorp|Rustenburg
+6799|Lichtenburg|Rustenburg|Lichtenburg
+6800|Mafeking|Lichtenburg|Mafeking
+6801|Naauwpoort|Hanover Road|Naauwpoort
+6802|Colesberg|Naauwpoort|Colesberg
+6803|Aliwal North|Colesberg|Aliwal North
+6804|Queenstown|Aliwal North|Queenstown
+6805|Stormberg|Queenstown|Stormberg
+6806|Molteno|Stormberg|Molteno
+6807|Sterkstroom|Molteno|Sterkstroom
+6808|Cradock|Sterkstroom|Cradock
+6809|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6810|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6811|Aberdeen|Graaff-Reinet|Aberdeen
+6812|Naauwpoort|Hanover Road|Naauwpoort
+6813|Colesberg|Naauwpoort|Colesberg
+6814|Aliwal North|Colesberg|Aliwal North
+6815|Queenstown|Aliwal North|Queenstown
+6816|Stormberg|Queenstown|Stormberg
+6817|Molteno|Stormberg|Molteno
+6818|Sterkstroom|Molteno|Sterkstroom
+6819|Cradock|Sterkstroom|Cradock
+6820|Middelburg (Cape)|Cradock|Middelburg (Cape)
+6821|Graaff-Reinet|Middelburg (Cape)|Graaff-Reinet
+6822|Aberdeen|Graaff-Reinet|Aberdeen
+6823|Bloemfontein|Tweebosch|Bloemfontein
+6824|Kroonstad|Bloemfontein|Kroonstad
+6825|Heilbron|Kroonstad|Heilbron
+6826|Vrede|Heilbron|Vrede
+6827|Harrismith|Vrede|Harrismith
+6828|Bethlehem|Harrismith|Bethlehem
+6829|Klerksdorp|Mafeking|Klerksdorp
+6830|Potchefstroom|Klerksdorp|Potchefstroom
+6831|Pretoria|Potchefstroom|Pretoria
+6832|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6833|Standerton|Newcastle|Standerton
+6834|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6835|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6836|Krugersdorp|Johannesburg|Krugersdorp
+6837|Rustenburg|Krugersdorp|Rustenburg
+6838|Lichtenburg|Rustenburg|Lichtenburg
+6839|Mafeking|Lichtenburg|Mafeking
+6840|Klerksdorp|Mafeking|Klerksdorp
+6841|Potchefstroom|Klerksdorp|Potchefstroom
+6842|Pretoria|Potchefstroom|Pretoria
+6843|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6844|Belfast|Middelburg (Tvl)|Belfast
+6845|Newcastle|Dundee|Newcastle
+6846|Standerton|Newcastle|Standerton
+6847|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6848|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6849|Krugersdorp|Johannesburg|Krugersdorp
+6850|Rustenburg|Krugersdorp|Rustenburg
+6851|Lichtenburg|Rustenburg|Lichtenburg
+6852|Mafeking|Lichtenburg|Mafeking
+6853|Klerksdorp|Mafeking|Klerksdorp
+6854|Potchefstroom|Klerksdorp|Potchefstroom
+6855|Pretoria|Potchefstroom|Pretoria
+6856|Belfast|Middelburg (Tvl)|Belfast
+6857|Carolina|Belfast|Carolina
+6858|Lydenburg|Carolina|Lydenburg
+6859|Ermelo|Lydenburg|Ermelo
+6860|Standerton|Ermelo|Standerton
+6861|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6862|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6863|Krugersdorp|Johannesburg|Krugersdorp
+6864|Rustenburg|Krugersdorp|Rustenburg
+6865|Lichtenburg|Rustenburg|Lichtenburg
+6866|Heilbron|Kroonstad|Heilbron
+6867|Vrede|Heilbron|Vrede
+6868|Harrismith|Vrede|Harrismith
+6869|Bethlehem|Harrismith|Bethlehem
+6870|Senekal|Bethlehem|Senekal
+6871|Ladybrand|Senekal|Ladybrand
+6872|Bloemfontein|Ladybrand|Bloemfontein
+6873|Heilbron|Kroonstad|Heilbron
+6874|Vrede|Heilbron|Vrede
+6875|Harrismith|Vrede|Harrismith
+6876|Bethlehem|Harrismith|Bethlehem
+6877|Senekal|Bethlehem|Senekal
+6878|Ladybrand|Senekal|Ladybrand
+6879|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6880|Belfast|Middelburg (Tvl)|Belfast
+6881|Carolina|Belfast|Carolina
+6882|Lydenburg|Carolina|Lydenburg
+6883|Ermelo|Lydenburg|Ermelo
+6884|Standerton|Ermelo|Standerton
+6885|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6886|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6887|Krugersdorp|Johannesburg|Krugersdorp
+6888|Rustenburg|Krugersdorp|Rustenburg
+6889|Lichtenburg|Rustenburg|Lichtenburg
+6890|Mafeking|Lichtenburg|Mafeking
+6891|Klerksdorp|Mafeking|Klerksdorp
+6892|Potchefstroom|Klerksdorp|Potchefstroom
+6893|Mafeking|Lichtenburg|Mafeking
+6894|Klerksdorp|Mafeking|Klerksdorp
+6895|Potchefstroom|Klerksdorp|Potchefstroom
+6896|Pretoria|Potchefstroom|Pretoria
+6897|Middelburg (Tvl)|Pretoria|Middelburg (Tvl)
+6898|Belfast|Middelburg (Tvl)|Belfast
+6899|Carolina|Belfast|Carolina
+6900|Lydenburg|Carolina|Lydenburg
+6901|Ermelo|Lydenburg|Ermelo
+6902|Standerton|Ermelo|Standerton
+6903|Heidelberg (Tvl)|Standerton|Heidelberg (Tvl)
+6904|Johannesburg|Heidelberg (Tvl)|Johannesburg
+6905|Krugersdorp|Johannesburg|Krugersdorp
+6906|Kroonstad|Bloemfontein|Kroonstad
+6907|Heilbron|Kroonstad|Heilbron
+6908|Vrede|Heilbron|Vrede
+6909|Harrismith|Vrede|Harrismith
+6910|Bethlehem|Harrismith|Bethlehem
+6911|Senekal|Bethlehem|Senekal
+6912|Ladybrand|Senekal|Ladybrand
+6913|Hanover Road|De Aar|Hanover Road
+6914|Naauwpoort|Hanover Road|Naauwpoort
+6915|Colesberg|Naauwpoort|Colesberg
+6916|Aliwal North|Colesberg|Aliwal North
+6917|Queenstown|Aliwal North|Queenstown
+6918|Stormberg|Queenstown|Stormberg
+6919|Molteno|Stormberg|Molteno
+6920|Sterkstroom|Molteno|Sterkstroom
+6921|Cradock|Sterkstroom|Cradock

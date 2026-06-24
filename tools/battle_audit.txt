@@ -1,0 +1,102 @@
+======================================================================
+BATTLE UNIT AUDIT — movements.csv vs known orders of battle
+======================================================================
+
+[Stormberg — 1899-12-10]
+  OK (in CSV with pre-battle event): 2
+  LATE / NO PRE-BATTLE EVENTS (5):
+    - 2nd Royal Irish Rifles (matched: Cape Colony Mounted Rifles)  first event: 1900-01-01
+    - 74th Battery Royal Field Artillery (matched: 81st Battery Royal Field Artillery)  first event: 1900-06-01
+    - 77th Battery Royal Field Artillery                    first event: 1900-06-01
+    - Frontier Mounted Rifles                               first event: 1900-01-01
+    - Queenstown Rifle Volunteers (matched: Cape Colony Mounted Rifles)  first event: 1900-01-01
+  MISSING FROM CSV ENTIRELY (1):
+    - 2nd Northumberland Fusiliers
+
+[Magersfontein — 1899-12-11]
+  OK (in CSV with pre-battle event): 16
+  LATE / NO PRE-BATTLE EVENTS (10):
+    - 1st Highland Light Infantry (matched: South African Light Horse)  first event: 1900-01-01
+    - 2nd Northamptonshire Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 2nd KOYLI (matched: 2nd Bn KOYLI (Yorkshire Light Infantry))  first event: 1900-02-10
+    - 1st Manchester Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 12th (Prince of Wales's Royal) Lancers                first event: 1900-01-01
+    - Rimington's Guides (matched: Elliott's, Rawlinson's, Byng's, Rimington's columns)  first event: 1902-02-03
+    - G Battery Royal Horse Artillery                       first event: 1900-02-01
+    - 62nd Battery Royal Field Artillery                    first event: 1900-02-01
+    - 65th Howitzer Battery Royal Field Artillery           first event: 1900-02-01
+    - Wolmaransstad Commando (matched: Ackermann's Commando)  first event: 1901-01-01
+  MISSING FROM CSV ENTIRELY (3):
+    - 2nd Black Watch
+    - 1st Northumberland Fusiliers
+    - 1st Loyal North Lancashire Regiment
+
+[Colenso — 1899-12-15]
+  OK (in CSV with pre-battle event): 16
+  LATE / NO PRE-BATTLE EVENTS (19):
+    - 2nd Bn West Surrey Regiment (Queen's)                 first event: 1900-01-01
+    - 2nd Bn West Yorkshire Regiment (matched: Western Light Horse)  first event: 1900-01-01
+    - 2nd Bn Devonshire Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 2nd Bn East Surrey Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 2nd Bn Scottish Rifles                                first event: 1900-01-01
+    - 1st Bn Durham Light Infantry (matched: South African Light Horse)  first event: 1900-01-01
+    - 1st Bn Rifle Brigade (matched: Cape Colony Mounted Rifles)  first event: 1900-01-01
+    - 1st Inniskilling Fusiliers (matched: 6th (Inniskilling) Dragoons)  first event: 1900-01-01
+    - 1st Connaught Rangers (matched: Corps of Cattle Rangers)  first event: 1900-03-01
+    - 1st Border Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 1st (Royal) Dragoons                                  first event: 1900-02-01
+    - 6th (Carabiniers) Dragoon Guards                      first event: 1900-01-01
+    - 13th Hussars                                          first event: 1900-02-01
+    - Thorneycroft's Mounted Infantry                       first event: 1900-01-01
+    - Natal Carabineers (matched: Natal Army)               first event: 1900-06-05
+    - South African Light Horse                             first event: 1900-01-01
+    - Bethune's Mounted Infantry                            first event: 1900-05-18
+    - 66th Battery Royal Field Artillery                    first event: 1900-02-01
+    - 73rd Battery Royal Field Artillery                    first event: 1900-02-01
+
+[Spion Kop — 1900-01-24]
+  OK (in CSV with pre-battle event): 8
+  LATE / NO PRE-BATTLE EVENTS (4):
+    - 2nd Bn Lancaster Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 2nd Dorset Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 2nd Middlesex Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - Natal Carabineers (matched: Natal Army)               first event: 1900-06-05
+  MISSING FROM CSV ENTIRELY (1):
+    - 2nd Lancashire Fusiliers
+
+[Paardeberg — 1900-02-18]
+  OK (in CSV with pre-battle event): 11
+  LATE / NO PRE-BATTLE EVENTS (6):
+    - 2nd Bn Bedfordshire Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 2nd Bn Wiltshire Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 2nd Bn East Kent Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 1st Yorkshire Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 1st Welsh Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+    - 1st Essex Regiment (matched: Royal West Kent Regiment)  first event: 1900-06-01
+  MISSING FROM CSV ENTIRELY (1):
+    - 2nd Black Watch
+
+[Sanna's Post — 1900-03-31]
+  OK (in CSV with pre-battle event): 5
+  LATE / NO PRE-BATTLE EVENTS (1):
+    - Rimington's Guides (matched: Elliott's, Rawlinson's, Byng's, Rimington's columns)  first event: 1902-02-03
+
+[Diamond Hill — 1900-06-11]
+  OK (in CSV with pre-battle event): 5
+
+[Bergendal — 1900-08-27]
+  OK (in CSV with pre-battle event): 13
+
+[Nooitgedacht — 1900-12-13]
+  OK (in CSV with pre-battle event): 1
+  LATE / NO PRE-BATTLE EVENTS (2):
+    - De la Rey's Commando (matched: Ackermann's Commando)  first event: 1901-01-01
+    - Beyers's Commando (matched: Ackermann's Commando)     first event: 1901-01-01
+  MISSING FROM CSV ENTIRELY (1):
+    - 2nd Northumberland Fusiliers
+
+[Tweebosch — 1902-03-07]
+  OK (in CSV with pre-battle event): 5
+
+======================================================================
+TOTALS: OK=82  LATE=47  MISSING=7
