@@ -1,0 +1,411 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Units — Boer War 1899–1902</title>
+<link rel="stylesheet" href="_nav.css" />
+<style>
+*, *::before, *::after { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  background: #0b0f14;
+  color: #e8eef5;
+  font-family: system-ui,-apple-system,sans-serif;
+  min-height: 100%;
+}
+body { padding-top: 48px; }
+
+/* ── Page layout ── */
+.page { max-width: 1200px; margin: 0 auto; padding: 24px 16px 48px; }
+
+/* ── Stats bar ── */
+.stats-bar {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.stat-chip {
+  background: rgba(16,22,30,.93);
+  border: 1px solid #2b3a49;
+  border-radius: 10px;
+  padding: 10px 16px;
+  flex: 1;
+  min-width: 130px;
+  text-align: center;
+}
+.stat-chip .val {
+  font-size: 22px;
+  font-weight: 700;
+  color: #67e8f9;
+  display: block;
+}
+.stat-chip .lbl {
+  font-size: 11px;
+  color: #9fb0c3;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  margin-top: 2px;
+  display: block;
+}
+
+/* ── Controls row ── */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 18px;
+}
+.search-wrap {
+  flex: 1 1 220px;
+  position: relative;
+}
+.search-wrap input {
+  width: 100%;
+  background: rgba(16,22,30,.93);
+  border: 1px solid #2b3a49;
+  border-radius: 9px;
+  color: #e8eef5;
+  padding: 8px 12px;
+  font-size: 13px;
+  outline: none;
+}
+.search-wrap input:focus { border-color: #67e8f9; }
+.search-wrap input::placeholder { color: #5a6a7a; }
+
+.filter-group {
+  display: flex;
+  gap: 4px;
+}
+.fbtn {
+  background: rgba(16,22,30,.93);
+  border: 1px solid #2b3a49;
+  border-radius: 8px;
+  color: #9fb0c3;
+  font-size: 12px;
+  padding: 7px 13px;
+  cursor: pointer;
+  transition: all .15s;
+}
+.fbtn:hover { color: #e8eef5; border-color: #4a5a6a; }
+.fbtn.active { color: #67e8f9; border-color: rgba(103,232,249,.4); background: rgba(103,232,249,.08); }
+
+.sort-group {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+.sort-group label {
+  font-size: 12px;
+  color: #9fb0c3;
+  white-space: nowrap;
+}
+.sort-select {
+  background: rgba(16,22,30,.93);
+  border: 1px solid #2b3a49;
+  border-radius: 8px;
+  color: #e8eef5;
+  font-size: 12px;
+  padding: 7px 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+/* ── Results count ── */
+.results-count {
+  font-size: 12px;
+  color: #9fb0c3;
+  margin-bottom: 14px;
+}
+
+/* ── Cards grid ── */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+@media (max-width: 900px) { .cards-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .cards-grid { grid-template-columns: 1fr; } }
+
+/* ── Unit card ── */
+.unit-card {
+  background: rgba(16,22,30,.93);
+  border: 1px solid #2b3a49;
+  border-radius: 12px;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: border-color .15s;
+}
+.unit-card:hover { border-color: #3d5166; }
+
+.card-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+.side-dot {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  border: 1.5px solid rgba(255,255,255,.6);
+  flex: 0 0 auto;
+  margin-top: 3px;
+}
+.dot-british { background: #ef4444; }
+.dot-boer    { background: #22c55e; }
+
+.unit-name {
+  font-size: 13px;
+  font-weight: 700;
+  color: #e8eef5;
+  line-height: 1.3;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.side-badge {
+  margin-left: auto;
+  flex: 0 0 auto;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  padding: 2px 7px;
+  border-radius: 5px;
+}
+.badge-british { background: rgba(239,68,68,.15); color: #ef4444; border: 1px solid rgba(239,68,68,.3); }
+.badge-boer    { background: rgba(34,197,94,.15);  color: #22c55e; border: 1px solid rgba(34,197,94,.3); }
+
+.card-dates {
+  font-size: 11px;
+  color: #9fb0c3;
+}
+.card-dates span { color: #e8eef5; }
+
+.card-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px 10px;
+  font-size: 11px;
+  color: #9fb0c3;
+}
+.card-stats .sv { color: #e8eef5; font-weight: 600; }
+
+.casualty-row {
+  font-size: 11px;
+  color: #9fb0c3;
+  padding-top: 6px;
+  border-top: 1px solid #1e2a38;
+}
+.casualty-row .sv { color: #ef4444; font-weight: 600; }
+
+.view-link {
+  display: inline-block;
+  margin-top: 6px;
+  font-size: 12px;
+  color: #67e8f9;
+  text-decoration: none;
+  padding: 5px 0;
+}
+.view-link:hover { text-decoration: underline; }
+
+/* ── Empty / error states ── */
+.empty-state {
+  text-align: center;
+  padding: 60px 20px;
+  color: #9fb0c3;
+  font-size: 14px;
+}
+.error-box {
+  background: rgba(239,68,68,.08);
+  border: 1px solid rgba(239,68,68,.3);
+  border-radius: 10px;
+  padding: 16px 20px;
+  color: #fca5a5;
+  font-size: 13px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+</style>
+</head>
+<body>
+<nav class="site-nav">
+  <span class="nav-logo">Boer War 1899–1902</span>
+  <div class="nav-links">
+    <a href="index.html" class="nav-link">Map</a>
+    <a href="units.html" class="nav-link active">Units</a>
+    <a href="battles.html" class="nav-link">Battles</a>
+    <a href="about.html" class="nav-link">About</a>
+  </div>
+</nav>
+
+<div class="page">
+  <h1 style="font-size:20px;margin:0 0 4px;color:#e8eef5">Unit Browser</h1>
+  <p style="font-size:13px;color:#9fb0c3;margin:0 0 20px">All British, Boer, Colonial and Dominion forces tracked in the dataset.</p>
+
+  <div id="error-banner" style="display:none" class="error-box">
+    Could not load <code>../data/unit_stats.json</code> — this page requires a local web server (not direct <code>file://</code> access).
+    Run <code>python -m http.server 8080</code> in the project root, then open <code>http://localhost:8080/web/units.html</code>.
+  </div>
+
+  <div class="stats-bar" id="stats-bar">
+    <div class="stat-chip"><span class="val" id="stat-units">—</span><span class="lbl">Forces tracked</span></div>
+    <div class="stat-chip"><span class="val" id="stat-eng">—</span><span class="lbl">Total engagements</span></div>
+    <div class="stat-chip"><span class="val" id="stat-km">—</span><span class="lbl">Total km marched</span></div>
+    <div class="stat-chip"><span class="val" id="stat-days">—</span><span class="lbl">Avg days in theatre</span></div>
+  </div>
+
+  <div class="controls">
+    <div class="search-wrap">
+      <input type="text" id="search" placeholder="Search units…" autocomplete="off" />
+    </div>
+    <div class="filter-group">
+      <button class="fbtn active" data-side="All">All</button>
+      <button class="fbtn" data-side="British">British</button>
+      <button class="fbtn" data-side="Boer">Boer</button>
+    </div>
+    <div class="sort-group">
+      <label for="sort-sel">Sort:</label>
+      <select id="sort-sel" class="sort-select">
+        <option value="az">A–Z</option>
+        <option value="eng">Engagements</option>
+        <option value="km">Distance</option>
+        <option value="days">Days in theatre</option>
+        <option value="cas">Casualties</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="results-count" id="results-count"></div>
+  <div class="cards-grid" id="cards-grid"></div>
+</div>
+
+<script>
+let ALL_UNITS = [];
+let filtered = [];
+let activeSide = 'All';
+
+async function loadData() {
+  try {
+    const resp = await fetch('../data/unit_stats.json');
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+    ALL_UNITS = Object.values(data);
+    renderStats(ALL_UNITS);
+    applyFilters();
+  } catch (e) {
+    document.getElementById('error-banner').style.display = 'block';
+    document.getElementById('results-count').textContent = 'Data unavailable.';
+  }
+}
+
+function renderStats(units) {
+  const totalEng = units.reduce((s, u) => s + (u.engagement_count || 0), 0);
+  const totalKm  = units.reduce((s, u) => s + (u.km_total || 0), 0);
+  const avgDays  = units.length ? Math.round(units.reduce((s, u) => s + (u.days_in_theatre || 0), 0) / units.length) : 0;
+  document.getElementById('stat-units').textContent = units.length.toLocaleString();
+  document.getElementById('stat-eng').textContent   = totalEng.toLocaleString();
+  document.getElementById('stat-km').textContent    = Math.round(totalKm).toLocaleString() + ' km';
+  document.getElementById('stat-days').textContent  = avgDays;
+}
+
+function applyFilters() {
+  const q = document.getElementById('search').value.toLowerCase().trim();
+  const sort = document.getElementById('sort-sel').value;
+
+  filtered = ALL_UNITS.filter(u => {
+    if (activeSide !== 'All' && u.side !== activeSide) return false;
+    if (q && !u.force.toLowerCase().includes(q)) return false;
+    return true;
+  });
+
+  filtered.sort((a, b) => {
+    if (sort === 'az')   return a.force.localeCompare(b.force);
+    if (sort === 'eng')  return (b.engagement_count || 0) - (a.engagement_count || 0);
+    if (sort === 'km')   return (b.km_total || 0) - (a.km_total || 0);
+    if (sort === 'days') return (b.days_in_theatre || 0) - (a.days_in_theatre || 0);
+    if (sort === 'cas')  return (b.total_casualties || 0) - (a.total_casualties || 0);
+    return 0;
+  });
+
+  renderCards(filtered);
+  document.getElementById('results-count').textContent =
+    filtered.length === ALL_UNITS.length
+      ? `Showing all ${ALL_UNITS.length} units`
+      : `Showing ${filtered.length} of ${ALL_UNITS.length} units`;
+}
+
+function fmtDate(d) {
+  if (!d) return '—';
+  // YYYY-MM-DD → DD Mon YYYY
+  const [y, m, dy] = d.split('-');
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  return `${parseInt(dy, 10)} ${months[parseInt(m,10)-1]} ${y}`;
+}
+
+function renderCards(units) {
+  const grid = document.getElementById('cards-grid');
+  if (!units.length) {
+    grid.innerHTML = '<div class="empty-state" style="grid-column:1/-1">No units match your search.</div>';
+    return;
+  }
+  grid.innerHTML = units.map(u => {
+    const isBritish = u.side === 'British';
+    const dotCls    = isBritish ? 'dot-british' : 'dot-boer';
+    const badgeCls  = isBritish ? 'badge-british' : 'badge-boer';
+    const sideLabel = isBritish ? 'British' : 'Boer';
+    const kmStr     = u.km_total != null ? u.km_total.toFixed(1) : '—';
+    const mapLink   = 'index.html?unit=' + encodeURIComponent(u.force);
+
+    let casualtyHtml = '';
+    if (u.has_casualty_data && u.total_casualties > 0) {
+      const parts = [];
+      if (u.total_killed)   parts.push(`${u.total_killed}k`);
+      if (u.total_wounded)  parts.push(`${u.total_wounded}w`);
+      if (u.total_captured) parts.push(`${u.total_captured}c`);
+      casualtyHtml = `<div class="casualty-row">Casualties: <span class="sv">${u.total_casualties}</span> (${parts.join(' / ')})</div>`;
+    }
+
+    return `<div class="unit-card">
+  <div class="card-header">
+    <span class="side-dot ${dotCls}"></span>
+    <span class="unit-name">${u.force}</span>
+    <span class="side-badge ${badgeCls}">${sideLabel}</span>
+  </div>
+  <div class="card-dates">
+    ${fmtDate(u.first_event)} → <span>${fmtDate(u.last_event)}</span>
+  </div>
+  <div class="card-stats">
+    <div>Days: <span class="sv">${u.days_in_theatre || '—'}</span></div>
+    <div>Engagements: <span class="sv">${u.engagement_count || 0}</span></div>
+    <div>Distance: <span class="sv">${kmStr} km</span></div>
+    <div>Locations: <span class="sv">${u.locations_count || '—'}</span></div>
+  </div>
+  ${casualtyHtml}
+  <a class="view-link" href="${mapLink}">View on map →</a>
+</div>`;
+  }).join('');
+}
+
+// Wire up controls
+document.getElementById('search').addEventListener('input', applyFilters);
+document.getElementById('sort-sel').addEventListener('change', applyFilters);
+document.querySelectorAll('.fbtn[data-side]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.fbtn[data-side]').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeSide = btn.dataset.side;
+    applyFilters();
+  });
+});
+
+loadData();
+</script>
+</body>
+</html>

@@ -11,16 +11,16 @@
   #map{position:absolute;inset:0}
   .panel{position:absolute;z-index:5;background:rgba(16,22,30,.93);border:1px solid #2b3a49;
          border-radius:12px;backdrop-filter:blur(5px);box-shadow:0 4px 16px rgba(0,0,0,.4)}
-  #title{top:max(8px,env(safe-area-inset-top));left:10px;right:10px;padding:9px 12px}
+  #title{top:max(56px,calc(env(safe-area-inset-top) + 48px));left:10px;right:10px;padding:9px 12px}
   #title b{font-size:15px} #title span{font-size:11px;color:#9fb0c3}
-  #legendbtn,#unitbtn,#qsabtn,#bhbtn{position:absolute;z-index:6;top:max(58px,calc(env(safe-area-inset-top) + 50px));
+  #legendbtn,#unitbtn,#qsabtn,#bhbtn{position:absolute;z-index:6;top:max(106px,calc(env(safe-area-inset-top) + 98px));
     background:rgba(16,22,30,.93);border:1px solid #2b3a49;border-radius:10px;color:#e8eef5;
     padding:8px 11px;font-size:13px;cursor:pointer}
   #legendbtn{right:10px} #unitbtn{left:10px}
-  #qsabtn{right:10px;top:max(100px,calc(env(safe-area-inset-top) + 92px))}
-  #bhbtn{right:10px;top:max(142px,calc(env(safe-area-inset-top) + 134px))}
+  #qsabtn{right:10px;top:max(148px,calc(env(safe-area-inset-top) + 140px))}
+  #bhbtn{right:10px;top:max(190px,calc(env(safe-area-inset-top) + 182px))}
   #qsabtn.on,#bhbtn.on{background:#2563eb;border-color:#2563eb}
-  #units{top:max(98px,calc(env(safe-area-inset-top) + 90px));left:10px;width:230px;max-height:56vh;
+  #units{top:max(146px,calc(env(safe-area-inset-top) + 138px));left:10px;width:230px;max-height:56vh;
     overflow-y:auto;padding:10px 13px;display:none}
   #units.show{display:block}
   .uhead{display:flex;justify-content:space-between;align-items:center;font-size:11px;text-transform:uppercase;
@@ -43,7 +43,7 @@
   .ritem input{width:auto;margin:1px 0 0;accent-color:#67e8f9;flex:0 0 auto;transform:scale(.85)}
   .udot{width:11px;height:11px;border-radius:50%;border:1.5px solid #fff;flex:0 0 auto}
   .uB{background:#ef4444} .ub{background:#22c55e}
-  #legend{top:max(58px,calc(env(safe-area-inset-top) + 50px));right:10px;width:210px;padding:11px 13px;font-size:12px;display:none}
+  #legend{top:max(106px,calc(env(safe-area-inset-top) + 98px));right:10px;width:210px;padding:11px 13px;font-size:12px;display:none}
   #legend.show{display:block}
   #legend h4{margin:0 0 7px;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:#9fb0c3}
   .lrow{display:flex;align-items:center;gap:8px;margin:5px 0;line-height:1.3}
@@ -68,7 +68,7 @@
     padding:5px 7px;font-size:11px;cursor:pointer;text-align:center}
   .ebtn.on{background:#0f4c3a;border-color:#22c55e;color:#67e8f9}
   /* search box */
-  #searchbox{position:absolute;z-index:7;top:max(58px,calc(env(safe-area-inset-top)+50px));
+  #searchbox{position:absolute;z-index:7;top:max(106px,calc(env(safe-area-inset-top)+98px));
     left:50%;transform:translateX(-50%);width:min(280px,55vw)}
   #searchinput{width:100%;box-sizing:border-box;background:rgba(16,22,30,.93);border:1px solid #2b3a49;
     border-radius:10px;color:#e8eef5;padding:8px 32px 8px 12px;font-size:13px;outline:none}
@@ -115,8 +115,18 @@
   .blabel{background:rgba(15,23,38,.82);color:#ffd27f;font:700 10px system-ui;padding:2px 6px;border-radius:4px;
     white-space:nowrap;transform:translateX(11px);pointer-events:none;border:1px solid rgba(255,210,127,.4)}
 </style>
+<link rel="stylesheet" href="_nav.css">
 </head>
 <body>
+<nav class="site-nav">
+  <span class="nav-logo">Boer War 1899–1902</span>
+  <div class="nav-links">
+    <a href="index.html" class="nav-link active">Map</a>
+    <a href="units.html" class="nav-link">Units</a>
+    <a href="battles.html" class="nav-link">Battles</a>
+    <a href="about.html" class="nav-link">About</a>
+  </div>
+</nav>
 <div id="map"></div>
 <div id="title" class="panel"><b>The Boer War, 1899–1902</b> <span>movements · unit journeys · QSA clasps · blockhouses — all fronts · tap a marker</span></div>
 <button id="legendbtn">Legend ▾</button>

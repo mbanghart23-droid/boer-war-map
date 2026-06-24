@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Battles — Boer War 1899–1902</title>
+<link rel="stylesheet" href="_nav.css" />
+<style>
+*, *::before, *::after { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  background: #0b0f14;
+  color: #e8eef5;
+  font-family: system-ui,-apple-system,sans-serif;
+  min-height: 100%;
+}
+body { padding-top: 48px; }
+
+.page { max-width: 960px; margin: 0 auto; padding: 24px 16px 60px; }
+
+h1 { font-size: 20px; margin: 0 0 4px; }
+.subtitle { font-size: 13px; color: #9fb0c3; margin: 0 0 24px; }
+
+/* Phase dividers */
+.phase-section { margin-bottom: 36px; }
+.phase-heading {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: #9fb0c3;
+  border-bottom: 1px solid #2b3a49;
+  padding-bottom: 7px;
+  margin-bottom: 16px;
+}
+
+/* Battle cards */
+.battle-card {
+  background: rgba(16,22,30,.93);
+  border: 1px solid #2b3a49;
+  border-radius: 12px;
+  padding: 18px 20px;
+  margin-bottom: 14px;
+  transition: border-color .15s;
+}
+.battle-card:hover { border-color: #3d5166; }
+
+.card-top {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+.battle-name {
+  font-size: 17px;
+  font-weight: 700;
+  color: #e8eef5;
+  flex: 1;
+  min-width: 180px;
+}
+.battle-date {
+  font-size: 12px;
+  color: #9fb0c3;
+  margin-top: 2px;
+}
+.phase-badge {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  padding: 3px 9px;
+  border-radius: 6px;
+  flex: 0 0 auto;
+  align-self: flex-start;
+  margin-top: 3px;
+}
+.phase-invasion   { background: rgba(239,68,68,.15);  color: #ef4444; border: 1px solid rgba(239,68,68,.3); }
+.phase-roberts    { background: rgba(37,99,235,.15);   color: #93c5fd; border: 1px solid rgba(37,99,235,.3); }
+.phase-guerrilla  { background: rgba(161,97,210,.15);  color: #d8b4fe; border: 1px solid rgba(161,97,210,.3); }
+
+.battle-location {
+  font-size: 12px;
+  color: #9fb0c3;
+  margin-bottom: 12px;
+}
+.battle-location::before { content: "📍 "; }
+
+/* Casualties table */
+.cas-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+.cas-table th {
+  text-align: left;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: #9fb0c3;
+  font-weight: 600;
+  padding: 4px 10px 4px 0;
+  border-bottom: 1px solid #2b3a49;
+}
+.cas-table td {
+  padding: 5px 10px 5px 0;
+  border-bottom: 1px solid #1a2432;
+  color: #e8eef5;
+  vertical-align: top;
+}
+.cas-table tr:last-child td { border-bottom: none; }
+.side-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.dot-br { width: 9px; height: 9px; border-radius: 50%; background: #ef4444; border: 1.5px solid rgba(255,255,255,.5); flex: 0 0 auto; }
+.dot-bo { width: 9px; height: 9px; border-radius: 50%; background: #22c55e; border: 1.5px solid rgba(255,255,255,.5); flex: 0 0 auto; }
+.num-killed   { color: #ef4444; font-weight: 600; }
+.num-wounded  { color: #f97316; font-weight: 600; }
+.num-captured { color: #9fb0c3; font-weight: 600; }
+.num-total    { color: #e8eef5; font-weight: 700; }
+
+/* Units row */
+.battle-units {
+  font-size: 12px;
+  color: #9fb0c3;
+  margin-bottom: 12px;
+  line-height: 1.5;
+}
+.battle-units strong { color: #e8eef5; }
+
+/* Notes */
+.battle-note {
+  font-size: 11px;
+  color: #7a8da0;
+  font-style: italic;
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+/* Map link */
+.map-link {
+  display: inline-block;
+  font-size: 12px;
+  color: #67e8f9;
+  text-decoration: none;
+  padding: 5px 12px;
+  border: 1px solid rgba(103,232,249,.3);
+  border-radius: 7px;
+  background: rgba(103,232,249,.06);
+  transition: all .15s;
+}
+.map-link:hover {
+  background: rgba(103,232,249,.14);
+  border-color: rgba(103,232,249,.6);
+}
+</style>
+</head>
+<body>
+<nav class="site-nav">
+  <span class="nav-logo">Boer War 1899–1902</span>
+  <div class="nav-links">
+    <a href="index.html" class="nav-link">Map</a>
+    <a href="units.html" class="nav-link">Units</a>
+    <a href="battles.html" class="nav-link active">Battles</a>
+    <a href="about.html" class="nav-link">About</a>
+  </div>
+</nav>
+
+<div class="page">
+  <h1>Major Battles</h1>
+  <p class="subtitle">12 principal engagements of the Second Anglo-Boer War, in chronological order.</p>
+
+  <!-- PHASE 1: Invasion -->
+  <div class="phase-section">
+    <div class="phase-heading">Phase 1 — Boer Invasion &amp; Black Week (Oct–Dec 1899)</div>
+
+    <!-- 1. Talana Hill -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Talana Hill</div>
+          <div class="battle-date">20 October 1899</div>
+        </div>
+        <span class="phase-badge phase-invasion">Invasion</span>
+      </div>
+      <div class="battle-location">Newcastle area, northern Natal</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Wounded</th><th>Captured</th><th>Total</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">51</td><td class="num-wounded">219</td><td class="num-captured">176</td><td class="num-total">~446</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td class="num-killed">~145</td><td>—</td><td>—</td><td class="num-total">~145</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-units"><strong>Key forces:</strong> 1st Royal Dublin Fusiliers, 1st King's Royal Rifle Corps, 67th Field Battery Royal Artillery</div>
+      <a class="map-link" href="index.html?date=1899-10-20">Show on map →</a>
+    </div>
+
+    <!-- 2. Elandslaagte -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Elandslaagte</div>
+          <div class="battle-date">21 October 1899</div>
+        </div>
+        <span class="phase-badge phase-invasion">Invasion</span>
+      </div>
+      <div class="battle-location">Between Ladysmith and Dundee, northern Natal</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Wounded</th><th>Captured</th><th>Total</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">50</td><td class="num-wounded">213</td><td>—</td><td class="num-total">263</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td class="num-killed">95</td><td class="num-wounded">120</td><td class="num-captured">148</td><td class="num-total">363</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-units"><strong>Key forces:</strong> Imperial Light Horse, 1st Devonshire Regiment, 5th Lancers; Johannesburg Commando (Koch)</div>
+      <a class="map-link" href="index.html?date=1899-10-21">Show on map →</a>
+    </div>
+
+    <!-- 3. Nicholson's Nek -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Nicholson's Nek</div>
+          <div class="battle-date">30 October 1899</div>
+        </div>
+        <span class="phase-badge phase-invasion">Invasion</span>
+      </div>
+      <div class="battle-location">Ladysmith area, Natal</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Wounded</th><th>Captured</th><th>Total</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">—</td><td>—</td><td class="num-captured">843</td><td class="num-total">845</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td class="num-killed">minimal</td><td>—</td><td>—</td><td class="num-total">minimal</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-note">The bulk of the British casualties were prisoners: 843 officers and men of the Royal Irish Fusiliers and Gloucestershire Regiment captured after being surrounded at dawn.</div>
+      <div class="battle-units"><strong>Key forces:</strong> 1st Royal Irish Fusiliers, 1st Gloucestershire Regiment; Free State commandos</div>
+      <a class="map-link" href="index.html?date=1899-10-30">Show on map →</a>
+    </div>
+
+    <!-- 4. Modder River -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Modder River</div>
+          <div class="battle-date">28 November 1899</div>
+        </div>
+        <span class="phase-badge phase-invasion">Invasion</span>
+      </div>
+      <div class="battle-location">Northern Cape Colony</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Wounded</th><th>Captured</th><th>Total</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">72</td><td class="num-wounded">413</td><td>—</td><td class="num-total">485</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td class="num-killed">~95</td><td>—</td><td>—</td><td class="num-total">~95</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-units"><strong>Key forces:</strong> Guards Brigade (1st Coldstream, 1st Scots, 1st Grenadier Guards), 9th Brigade; De la Rey and Cronjé commandos</div>
+      <a class="map-link" href="index.html?date=1899-11-28">Show on map →</a>
+    </div>
+
+    <!-- 5. Magersfontein -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Magersfontein</div>
+          <div class="battle-date">11 December 1899</div>
+        </div>
+        <span class="phase-badge phase-invasion">Invasion / Black Week</span>
+      </div>
+      <div class="battle-location">Northern Cape Colony</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Wounded</th><th>Captured / Missing</th><th>Total</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">163</td><td class="num-wounded">489</td><td class="num-captured">103</td><td class="num-total">755</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td class="num-killed">~275</td><td>—</td><td>—</td><td class="num-total">~275</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-units"><strong>Key forces:</strong> Highland Brigade (1st Black Watch, 2nd Seaforth Highlanders, 1st Highland Light Infantry, 2nd Gordons); Cronjé's Transvaal and Free State commandos</div>
+      <a class="map-link" href="index.html?date=1899-12-11">Show on map →</a>
+    </div>
+
+    <!-- 6. Stormberg -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Stormberg</div>
+          <div class="battle-date">10 December 1899</div>
+        </div>
+        <span class="phase-badge phase-invasion">Invasion / Black Week</span>
+      </div>
+      <div class="battle-location">Eastern Cape Colony</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Wounded</th><th>Captured</th><th>Total</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">28</td><td class="num-wounded">51</td><td class="num-captured">551</td><td class="num-total">887</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td class="num-killed">8</td><td>—</td><td>—</td><td class="num-total">8</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-note">A further 257 men escaped separately. One of three defeats comprising "Black Week" (10–15 December 1899).</div>
+      <div class="battle-units"><strong>Key forces:</strong> 2nd Royal Irish Rifles, 1st Northumberland Fusiliers; OFS commandos under Olivier</div>
+      <a class="map-link" href="index.html?date=1899-12-10">Show on map →</a>
+    </div>
+
+    <!-- 7. Colenso -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Colenso</div>
+          <div class="battle-date">15 December 1899</div>
+        </div>
+        <span class="phase-badge phase-invasion">Invasion / Black Week</span>
+      </div>
+      <div class="battle-location">Tugela River, Natal</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Wounded</th><th>Captured</th><th>Total</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">132</td><td class="num-wounded">765</td><td class="num-captured">228</td><td class="num-total">1,125</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td class="num-killed">8</td><td>—</td><td>—</td><td class="num-total">8</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-note">10 field guns lost — Long's battery abandoned at the Tugela under fire. Buller's relief-of-Ladysmith attempt repulsed.</div>
+      <div class="battle-units"><strong>Key forces:</strong> Irish Brigade, 5th Brigade, Long's Field Artillery; Louis Botha's Natal commandos</div>
+      <a class="map-link" href="index.html?date=1899-12-15">Show on map →</a>
+    </div>
+  </div><!-- /phase 1 -->
+
+  <!-- PHASE 2: Roberts's Advance -->
+  <div class="phase-section">
+    <div class="phase-heading">Phase 2 — Roberts's Advance (Jan–Aug 1900)</div>
+
+    <!-- 8. Spion Kop -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Spion Kop</div>
+          <div class="battle-date">24 January 1900</div>
+        </div>
+        <span class="phase-badge phase-roberts">Roberts's Advance</span>
+      </div>
+      <div class="battle-location">Tugela Heights, Natal</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Wounded</th><th>Captured</th><th>Total</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">243</td><td class="num-wounded">1,250</td><td>—</td><td class="num-total">1,493</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td class="num-killed">58</td><td class="num-wounded">140</td><td class="num-captured">137</td><td class="num-total">335</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-units"><strong>Key forces:</strong> Lancashire Fusiliers, Royal Lancaster Regiment, Thorneycroft's Mounted Infantry; Carolina and Heidelberg commandos</div>
+      <a class="map-link" href="index.html?date=1900-01-24">Show on map →</a>
+    </div>
+
+    <!-- 9. Paardeberg -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Paardeberg</div>
+          <div class="battle-date">18–27 February 1900</div>
+        </div>
+        <span class="phase-badge phase-roberts">Roberts's Advance</span>
+      </div>
+      <div class="battle-location">Modder River, Orange Free State</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Wounded</th><th>Captured</th><th>Total</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">303</td><td class="num-wounded">906</td><td class="num-captured">61</td><td class="num-total">1,270</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td colspan="3" style="color:#9fb0c3;font-style:italic">Cronjé surrendered 4,082 men — largest Boer capture of the war</td><td class="num-total">4,082</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-units"><strong>Key forces:</strong> 6th Division (Kelly-Kenny), Canadian Regiment, Highland Brigade; Cronjé's Transvaal commando</div>
+      <a class="map-link" href="index.html?date=1900-02-18">Show on map →</a>
+    </div>
+
+    <!-- 10. Sanna's Post -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Sanna's Post (Sannaspos)</div>
+          <div class="battle-date">31 March 1900</div>
+        </div>
+        <span class="phase-badge phase-roberts">Roberts's Advance</span>
+      </div>
+      <div class="battle-location">East of Bloemfontein, Orange Free State</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed / Wounded</th><th>Captured</th><th>Total</th><th></th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-wounded">155</td><td class="num-captured">428</td><td class="num-total">583</td><td style="color:#9fb0c3;font-size:11px">7 guns lost</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td><span class="num-killed">3k</span> / <span class="num-wounded">6w</span></td><td>—</td><td class="num-total">9</td><td></td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-units"><strong>Key forces:</strong> Q Battery Royal Horse Artillery, 3rd Cavalry Brigade; Christiaan de Wet's OFS commandos</div>
+      <a class="map-link" href="index.html?date=1900-03-31">Show on map →</a>
+    </div>
+  </div><!-- /phase 2 -->
+
+  <!-- PHASE 3: Guerrilla War -->
+  <div class="phase-section">
+    <div class="phase-heading">Phase 3 — Guerrilla War (1901–1902)</div>
+
+    <!-- 11. Groenkop -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Groenkop (Tweefontein)</div>
+          <div class="battle-date">25 December 1901</div>
+        </div>
+        <span class="phase-badge phase-guerrilla">Guerrilla War</span>
+      </div>
+      <div class="battle-location">Orange Free State</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Wounded</th><th>Captured</th><th>Total</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">68</td><td class="num-wounded">77</td><td class="num-captured">206</td><td class="num-total">351</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td class="num-killed">13</td><td class="num-wounded">28</td><td>—</td><td class="num-total">41</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-note">A dawn raid on Christmas morning — Christiaan de Wet's most successful commando action of the guerrilla phase.</div>
+      <div class="battle-units"><strong>Key forces:</strong> 1st Yeomanry Regiment, mounted infantry garrison; De Wet's OFS commandos</div>
+      <a class="map-link" href="index.html?date=1901-12-25">Show on map →</a>
+    </div>
+
+    <!-- 12. Tweebosch -->
+    <div class="battle-card">
+      <div class="card-top">
+        <div>
+          <div class="battle-name">Tweebosch</div>
+          <div class="battle-date">7 March 1902</div>
+        </div>
+        <span class="phase-badge phase-guerrilla">Guerrilla War</span>
+      </div>
+      <div class="battle-location">North-western Cape Colony</div>
+      <table class="cas-table">
+        <thead><tr><th>Side</th><th>Killed</th><th>Captured</th><th>Total</th><th></th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-br"></span> British</span></td>
+            <td class="num-killed">52</td><td class="num-captured">152</td><td class="num-total">~204</td><td style="color:#9fb0c3;font-size:11px">Methuen captured</td>
+          </tr>
+          <tr>
+            <td><span class="side-indicator"><span class="dot-bo"></span> Boer</span></td>
+            <td class="num-killed">~50</td><td>—</td><td class="num-total">~50</td><td></td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="battle-note">Lord Methuen was captured — the only British general taken prisoner during the war. He was released two weeks later on parole due to his wounds.</div>
+      <div class="battle-units"><strong>Key forces:</strong> Methuen's column (1st Northumberland Fusiliers, Cape Garrison Artillery); Kemp and De la Rey's commandos</div>
+      <a class="map-link" href="index.html?date=1902-03-07">Show on map →</a>
+    </div>
+
+  </div><!-- /phase 3 -->
+</div>
+</body>
+</html>
