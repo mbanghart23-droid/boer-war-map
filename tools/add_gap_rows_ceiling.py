@@ -1,4 +1,4 @@
-"""
+﻿"""
 Push every force to its event ceiling with 60-day British / 14-day Boer steps.
 
 60-day steps keep gap_days < 90, so the HIGH threshold (gap_days > 90 AND dist > 25)
@@ -16,7 +16,7 @@ from collections import defaultdict
 
 HERE = Path(__file__).parent.parent
 CSV_PATH = HERE / "data" / "movements.csv"
-GJ_PATH  = HERE / "web" / "data" / "events.geojson"
+GJ_PATH  = HERE / "docs" / "data" / "events.geojson"
 
 rows = list(csv.DictReader(open(CSV_PATH, encoding="utf-8")))
 COLS = list(rows[0].keys())

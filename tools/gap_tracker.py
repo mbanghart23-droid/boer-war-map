@@ -1,4 +1,4 @@
-"""
+﻿"""
 Comprehensive Gap Tracker — unified research document combining:
   1. Chronological gaps (>30 days, same or different location)
   2. Undocumented location transitions (new place, no movement row)
@@ -22,7 +22,7 @@ from openpyxl.utils import get_column_letter
 
 HERE = Path(__file__).parent.parent
 rows_csv = list(csv.DictReader(open(HERE / "data" / "movements.csv", encoding="utf-8")))
-gj       = json.load(open(HERE / "web" / "data" / "events.geojson", encoding="utf-8"))
+gj       = json.load(open(HERE / "docs" / "data" / "events.geojson", encoding="utf-8"))
 
 # ── Canonical unit mapping ─────────────────────────────────────────────────────
 # Maps ANY group name → canonical unit name

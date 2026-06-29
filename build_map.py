@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-"""Geocode the movement anchors and emit web/data/events.geojson for the map.
+﻿#!/usr/bin/env python3
+"""Geocode the movement anchors and emit docs/data/events.geojson for the map.
 
 Towns are geocoded via Nominatim (OSM, ZA-constrained, cached to data/gazetteer.json);
 a few farms/landmarks use coordinates established in the research. Each movement is
@@ -11,7 +11,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 GAZ = HERE / "data" / "gazetteer.json"
-OUT = HERE / "web" / "data" / "events.geojson"
+OUT = HERE / "docs" / "data" / "events.geojson"
 
 # farms / landmarks with coordinates from the research (lat, lon, confidence)
 OVERRIDES = {

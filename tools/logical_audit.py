@@ -1,4 +1,4 @@
-"""
+﻿"""
 Deep logical audit of movements.csv — identifies historical/geographic impossibilities,
 contradictions, and suspicious data for researcher review.
 
@@ -25,7 +25,7 @@ from openpyxl.utils import get_column_letter
 HERE = Path(__file__).parent.parent
 
 rows   = list(csv.DictReader(open(HERE/"data"/"movements.csv", encoding="utf-8")))
-gj     = json.load(open(HERE/"web"/"data"/"events.geojson", encoding="utf-8"))
+gj     = json.load(open(HERE/"docs"/"data"/"events.geojson", encoding="utf-8"))
 
 row_by_id  = {r["id"]: r for r in rows}
 feat_by_id = {f["properties"]["id"]: f for f in gj["features"] if f["properties"]["kind"]=="event"}

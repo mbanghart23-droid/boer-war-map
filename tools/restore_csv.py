@@ -1,5 +1,5 @@
-"""
-Restore movements.csv from web/data/events.geojson.
+﻿"""
+Restore movements.csv from docs/data/events.geojson.
 
 The GeoJSON has 1241 unique row IDs (one per CSV row with a map entry).
 We additionally regenerate the ~77 CSV-only rows (Pretoria redeployments etc.)
@@ -10,7 +10,7 @@ from pathlib import Path
 from collections import defaultdict
 
 HERE = Path(__file__).parent.parent
-GJ_PATH = HERE / "web" / "data" / "events.geojson"
+GJ_PATH = HERE / "docs" / "data" / "events.geojson"
 CSV_PATH = HERE / "data" / "movements.csv"
 
 COLS = [

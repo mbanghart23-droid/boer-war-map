@@ -1,4 +1,4 @@
-"""
+﻿"""
 Movement gap audit — finds chronological jumps (>30 days) between events for each unit,
 flags unknown bridging movements, and notes what we can/can't fill.
 """
@@ -11,7 +11,7 @@ from openpyxl.utils import get_column_letter
 
 HERE = __import__('pathlib').Path(__file__).parent.parent
 
-gj = json.load(open(HERE/"web"/"data"/"events.geojson", encoding="utf-8"))
+gj = json.load(open(HERE/"docs"/"data"/"events.geojson", encoding="utf-8"))
 
 # ── build per-regiment timeline ───────────────────────────────────────────────
 unit_events = defaultdict(list)
